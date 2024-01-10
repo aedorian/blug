@@ -8,7 +8,7 @@ I won't go into much detail, this especially acts as a log or journal.
 
 ---
 
-### <a href="https://aedorian.github.io/blug/castles.md" target="_blank">Islands and castles generation</a>
+### [Islands and castles generation](/castles.md)
 
 <img src="img/castles/castles11.png" height=300px style="display:inline-block">
 
