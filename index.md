@@ -8,7 +8,7 @@ I won't go into much detail, this especially acts as a log or journal.
 
 ---
 
-### [Islands and castles generation](/castles.md)
+### [Islands and castles generation](/castles.html)
 
 <img src="img/castles/castles11.png" height=300px style="display:inline-block">
 
