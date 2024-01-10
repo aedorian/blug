@@ -58,7 +58,7 @@ I started generating castles (little red boxes... not very architectural) all ov
 
 <figure style="display: inline-block">
    <img src="img/castles/castles6.bmp" height=300px>
-   <figcaption>little "img/castles/castles"</figcaption>
+   <figcaption>little "castles"</figcaption>
 </figure>
 <figure style="display: inline-block">
    <img src="img/castles/castles7.bmp" height=300px>
