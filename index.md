@@ -10,7 +10,7 @@ I won't go into much detail, this especially acts as a log or journal.
 
 ### [Islands and castles generation](/castles.html)
 
-<img src="img/castles/castles11.png" height=300px style="display:inline-block">
+<img src="img/castles/castles11.png" style="display:inline-block">
 
 Perlin noise generated island in `C++`. Castles placed using Poisson Disc Sampling. Small note on rendering pixel perfect with `SDL`.
 
