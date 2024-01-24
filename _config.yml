@@ -29,7 +29,7 @@ github_username:  aedorian
 domain: aedorian.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://aedorian.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
-Build settings
+# Build settings
 # remote_theme: pages-themes/minimal@v0.2.0
 theme: minima
 plugins:
