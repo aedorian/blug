@@ -22,7 +22,7 @@ title: blug
 email: zapdexio42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Finding programming things interesting and writing about it
-# baseurl: "/docs"
+baseurl: "/blug"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aedorian
 
@@ -35,9 +35,13 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-include:
-  - _posts
-  - _layouts
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+#include:
+#  - _posts
+#  - _layouts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
