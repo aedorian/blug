@@ -2,3 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
+
+.w {
+    max-width: 800px;
+}
+
+code {
+    color: greenyellow;
+}
+
+img {
+    display: inline;
+}
+
+html, body { background: rgb(230, 230, 230); }
