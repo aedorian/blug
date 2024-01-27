@@ -1,5 +1,5 @@
 .w {
-    max-width: 800px;
+    max-width: 770px;
 }
 
 code {
@@ -8,6 +8,13 @@ code {
 
 img {
     display: inline;
+    margin:0;
+}
+
+figure {
+    color: gray;
+    font-style: italic;
+    margin: 0;
 }
 
 html, body { background: rgb(230, 230, 230); }
