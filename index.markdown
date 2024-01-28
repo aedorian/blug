@@ -18,7 +18,7 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 -->
 
 <div class="postbox" markdown="1">
-[19/01/24 - dungen](./_posts/2024-01-19-dungen.html)<br>
+[`19/01/24 - dungen`](./_posts/2024-01-19-dungen.html)<br>
 tile-based dungeon generation with Python and PIL<br>visualization using FFMPEG
 {: .tleft }
 
@@ -28,7 +28,7 @@ tile-based dungeon generation with Python and PIL<br>visualization using FFMPEG
 
 
 <div class="postbox" markdown="1">
-[04/01/24 - island castles](./_posts/2024-01-04-castles.html)<br>
+[`04/01/24 - island castles`](./_posts/2024-01-04-castles.html)<br>
 perlin noise generated island in C++<br>castles placed using Poisson Disc Sampling<br>small note on rendering pixel perfect with SDL
 {: .tleft }
 
