@@ -3,8 +3,9 @@
 }
 
 code {
-    color: white;
-}
+    color:whitesmoke;
+    background:#2C3639
+  }
 
 img {
     display: inline;
@@ -17,7 +18,7 @@ figure {
     margin: 0;
 }
 
-html, body { background: rgb(230, 230, 230); }
+html, body { background: #191919; }
 
 .tleft {
   float: left;
@@ -31,10 +32,14 @@ html, body { background: rgb(230, 230, 230); }
 .postbox {
   overflow: auto;
   border-style:solid;
-  border:1px solid black;
+  border:1px solid whitesmoke;
   margin-bottom: 20px;
 }
 
 .postbox img {
-  height: 198px;
+  height: 150px;
+}
+
+a:visited {
+  color: #3F4E4F
 }

@@ -6,7 +6,8 @@ HELLO IS IT WORKING
 
 ok it is
 
-*how did you end up here?*
+Little articles on stuff I make on computers<br>
+This especially acts as a log for projects that didn't go very far- I hope some of it can be helpful!
 
 <!--
 <p style="float: left;">
@@ -35,3 +36,4 @@ perlin noise generated island in C++<br>castles placed using Poisson Disc Sampli
 {: .imright }
 </div>
 
+[about](./about.markdown)
