@@ -19,7 +19,7 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 
 <div class="postbox" markdown="1">
 [`19/01/24 - dungen`](./_posts/2024-01-19-dungen.html)<br>
-tile-based dungeon generation with Python and PIL<br>visualization using FFMPEG
+tile-based dungeon generation with Python and PIL<br>visualization using FFMPEG<br>algorithm implementation in Unity
 {: .tleft }
 
 <img src="assets/img/prev/prev_dungen.png" height=100px>
