@@ -21,13 +21,17 @@ figure {
 html, body { background: #191919; color: whitesmoke; }
 
 .tleft {
-  float: left;
-  padding-left: 1rem;
-  width: 500px;
+    float:left;
+    width:500px
+  }
+postbox.tleft {
+    padding-left:1rem;
 }
 .imright {
-  float: right;
-  padding-right: 1rem;
+    float:right;
+}
+postbox.imright {
+    padding-right:1rem
 }
 .postbox {
   overflow: auto;
@@ -54,7 +58,6 @@ a:link {
 
 .sideside {
     overflow: auto;
-    margin-bottom: 2px;
 }
 
 /*
