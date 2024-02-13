@@ -51,3 +51,19 @@ figure img {
 a:link {
     color: #337679
 }
+
+.sideside {
+    overflow: auto;
+    border-style:solid;
+    border:1px solid whitesmoke;
+    margin-bottom: 2px;
+}
+
+.sideside img {
+    float: right;
+}
+
+.sideside p {
+    width: 500px;
+    float: left;
+}
