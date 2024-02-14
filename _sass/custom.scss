@@ -24,13 +24,13 @@ html, body { background: #191919; color: whitesmoke; }
     float:left;
     width:500px
   }
-postbox.tleft {
+.postbox .tleft {
     padding-left:1rem;
 }
 .imright {
     float:right;
 }
-postbox.imright {
+.postbox .imright {
     padding-right:1rem
 }
 .postbox {
