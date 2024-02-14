@@ -116,7 +116,7 @@ I then tried to make smaller rooms. This one generated openings from multiple ed
 <figcaption>separated rooms</figcaption>
 </figure>
 
-These small ones could be used as floors
+These small ones could be used as floors or levels, since their size is more manageable.
 
 Here are two final results when the algorithm worked properly without any overlapping:
 
@@ -137,6 +137,8 @@ Here are a few of them:
 <figure style="display: inline-block">
 <img src="../assets/img/roome/t20.gif" height=370px>
 </figure>
+
+The size seems appropriate, but we'd have to put a player in there to see if it is large enough.
 
 ## <a name="twe"></a>Tweaking parameters
 
