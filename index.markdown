@@ -22,7 +22,7 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 room generation using edge extrusion in Python
 {: .tleft }
 
-<img src="assets/img/prev/prev_islands.png" height=100px>
+<img src="assets/img/prev/prev_roome.png" height=100px>
 {: .imright }
 </div>
 
