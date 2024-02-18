@@ -6,8 +6,9 @@ HELLO IS IT WORKING
 
 ok it is
 
-Little articles on stuff I make on computers<br>
-This especially acts as a log for projects that didn't go very far- I hope some of it can be helpful!
+Little articles on stuff I make on computers
+
+This especially acts as a log for projects that didn't go very far. I hope some of it can be helpful!
 
 <!--
 <p style="float: left;">
@@ -19,7 +20,7 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 
 <div class="postbox" markdown="1">
 [`13/02/24 - roome`](./_posts/2024-02-13-roome.html)<br>
-room generation using edge extrusion in Python<br>tile replacement for walls
+room generation using edge extrusion in Python<br>tile replacement algorithm for walls
 {: .tleft }
 
 <img src="assets/img/prev/prev_roome.png" height=100px>
