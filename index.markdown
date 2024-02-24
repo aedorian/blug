@@ -8,7 +8,7 @@ ok it is
 
 Little articles on stuff I make on computers
 
-This especially acts as a log for projects that didn't go very far. I hope some of it can be helpful!
+This especially acts as a log for projects that won't go much further. I hope some of it can be helpful!
 
 <!--
 <p style="float: left;">
