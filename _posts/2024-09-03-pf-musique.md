@@ -1,5 +1,5 @@
 ---
-layout: post
+
 ---
 
 ## Portfolio - Musique
@@ -20,7 +20,7 @@ Bandes son pour des jeux vidéo.
 Bande son de 18 titres composée sur [`LMMS`](https://lmms.io/) pour *Nuclear Platypus Adventure*. Chaque niveau possède une musique de fond qui lui correspond, en adaptant le style musical.
 {: .tleft }
 
-<img src="../assets/img/pf/ost_2.PNG" height=200px>
+<img src="../assets/img/pf/ost_2.PNG" height=150px>
 {: .imright }
 </div>
 
@@ -33,7 +33,7 @@ Bande son de 18 titres composée sur [`LMMS`](https://lmms.io/) pour *Nuclear Pl
 Bande son de 9 titres composée avec LMMS pour le jeu d'une amie. Utilisation de plusieurs leitmotifs entre les niveaux.
 {: .tleft }
 
-<img src="../assets/img/pf/ost_1.PNG" height=200px>
+<img src="../assets/img/pf/ost_1.PNG" height=150px>
 {: .imright }
 </div>
 
