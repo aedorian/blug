@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# Portfolio - Musique
-
 [`Jeux vidéo`](../_posts/2024-09-03-pf-jeux.html)
 [`Game Jams`](../_posts/2024-09-03-pf-jams.html)
 [`Musique`](../_posts/2024-09-03-pf-musique.html)
@@ -20,12 +18,6 @@ Bande son de 18 titres composée sur [`LMMS`](https://lmms.io/) pour *Nuclear Pl
 [`Accéder au lien Spotify`](https://open.spotify.com/intl-fr/album/0uTmIJLUK3cBBAEwvOqm10?si=sc1peeNRQBGeqVcRnbSWng)
 
 Bande son de 9 titres composée avec LMMS pour le jeu d'une amie.
-
----
-
-# *0percule* (2022)
-
-La bande son a été composée avec Ableton. L'idée était d'enregistrer des guitares saturées, puis de descendre leur bitrate afin de créer un effet rétro.
 
 ---
 
