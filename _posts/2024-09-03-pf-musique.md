@@ -2,12 +2,14 @@
 layout: post
 ---
 
-# Portfolio - Musique
+## Portfolio - Musique
 
-[`Jeux vidéo`](../_posts/2024-09-03-pf-jeux.html)    
-[`Game Jams`](../_posts/2024-09-03-pf-jams.html)    
-[`Musique`](../_posts/2024-09-03-pf-musique.html)    
-[`Autres`](../_posts/2024-09-03-pf-autres.html)    
+[`Jeux vidéo`](../_posts/2024-09-03-pf-jeux.html)        
+[`Game Jams`](../_posts/2024-09-03-pf-jams.html)        
+[`Musique`](../_posts/2024-09-03-pf-musique.html)        
+[`Autres`](../_posts/2024-09-03-pf-autres.html)        
+
+Bandes son pour des jeux vidéo.
 
 ---
 
@@ -28,7 +30,7 @@ Bande son de 18 titres composée sur [`LMMS`](https://lmms.io/) pour *Nuclear Pl
 
 <div class="sideside" markdown="1">
 [`Accéder au lien Spotify`](https://open.spotify.com/intl-fr/album/0uTmIJLUK3cBBAEwvOqm10?si=sc1peeNRQBGeqVcRnbSWng)<br><br>
-Bande son de 9 titres composée avec LMMS pour le jeu d'une amie.
+Bande son de 9 titres composée avec LMMS pour le jeu d'une amie. Utilisation de plusieurs leitmotifs entre les niveaux.
 {: .tleft }
 
 <img src="../assets/img/pf/ost_1.PNG" height=200px>
