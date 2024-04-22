@@ -1,0 +1,57 @@
+@font-face {
+    font-family: JMH;
+    src: url("JMH Typewriter dry.otf");
+}
+
+html {
+    font-family: JMH;
+    background-color: #141217;
+    color: white;
+}
+
+p {
+    font-size: 16px;
+}
+
+th {
+    padding: 10px 20px;
+    text-align: left;
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+hr {
+    width: 700px;
+    color: white;
+}
+
+.even-space th {
+    width: 120wv;
+}
+
+a {
+    color: rgb(0, 157, 255);
+}
+a:hover {
+    color: rgb(73, 185, 255);
+}
+
+.p-medium {
+    font-size: 20px;
+}
+
+.top-logo {
+    width: 500px;
+    padding-top: 60px;
+}
+
+.wrap {
+    width: 900px;
+    background-color: #141217;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 100px;
+}
