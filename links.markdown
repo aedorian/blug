@@ -3,8 +3,6 @@ layout: page
 permalink: /links/
 ---
 
-[..](../index.html)
-
 # useful links of all sorts
 
 Very long bulleted list of web resources that are super useful- sorted by category.
@@ -28,7 +26,7 @@ Very long bulleted list of web resources that are super useful- sorted by catego
 
 * [Sebastian Lague](https://www.youtube.com/c/SebastianLague) - procedural generation and way more
 * [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - excellent math visualization videos (esp. the *essence of linear algebra* playlist)
-* [Henrik Kniberg - "Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer talks about its procedural generation
+* [Henrik Kniberg - *"Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer explains its procedural generation
 * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - conference and talks about roguelikes and procedural generation
 * [Goodgis](https://www.youtube.com/@Goodgis) - game devlogs
 
@@ -41,6 +39,6 @@ Very long bulleted list of web resources that are super useful- sorted by catego
 * [jtest4you](https://japanesetest4you.com/) - N5 to N1 tests
 
 ### youtube channels
-* [けんさんおかえり](https://www.youtube.com/@kensanokaeri) - japanese conversations with subtitles
+* [Ken San Okaeri](https://www.youtube.com/@kensanokaeri) - japanese conversations with subtitles
 * [Kaname Naito](https://www.youtube.com/@kanamenaito) - japanese teacher
 * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese with lots of vocabulary and subtitles
