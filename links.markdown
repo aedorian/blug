@@ -30,6 +30,7 @@ Very long bulleted list of web resources that are super useful- sorted by catego
 * [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - excellent math visualization videos (esp. the *essence of linear algebra* playlist)
 * [Henrik Kniberg - "Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer talks about its procedural generation
 * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - conference and talks about roguelikes and procedural generation
+* [Goodgis](https://www.youtube.com/@Goodgis) - game devlogs
 
 # languages
 
