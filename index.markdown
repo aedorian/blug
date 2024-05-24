@@ -2,13 +2,15 @@
 layout: home
 ---
 
-HELLO IS IT WORKING
+<!--HELLO IS IT WORKING
 
-ok it is
+ok it is-->
 
-Little articles on stuff I make on computers
+How did you end up here?
 
-This especially acts as a log for projects that won't go much further. I hope some of it can be helpful!
+Little articles on stuff I make on computers-
+
+This especially acts as a log and showcase for projects that won't go much further. I hope some of it can be helpful!
 
 <!--
 <p style="float: left;">
