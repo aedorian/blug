@@ -49,4 +49,4 @@ perlin noise generated island in C++<br>castles placed using Poisson Disc Sampli
 {: .imright }
 </div>
 
-[about](./about.markdown)
+<!--[about](./about.markdown)--->
