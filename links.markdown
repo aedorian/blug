@@ -15,6 +15,7 @@ Very long bulleted list of web resources that are super useful- sorted by catego
 
     * [Learn CPP](https://www.learncpp.com/) - a lot of details but helpful to understand how C++ works behind the scenes
     * [Learn OpenGL](https://learnopengl.com/) - complete OpenGL tutorials from the start
+    * [Scratchapixel](https://www.scratchapixel.com/) - computer graphics for beginners to advanced
     * [Lazy Foo's Productions](https://lazyfoo.net/tutorials/SDL/index.php) - SDL tutorials
 
 * games-related
@@ -31,15 +32,20 @@ Very long bulleted list of web resources that are super useful- sorted by catego
     * [Henrik Kniberg - *"Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer explains its procedural generation
     * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - talks about roguelikes and procedural generation
     * [Goodgis](https://www.youtube.com/@Goodgis) - game devlogs
+    
+---
 
 ### learning japanese
 
 * resources
     * [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) - dictionnary
+    * [Yomichan](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/) - browser extension that searches a dictionnary when a word is highlighted ([setup tutorial](https://learnjapanese.moe/yomichan/))
     * [MyKikitori](https://www.mykikitori.com/) - listening skills practice
     * [jtest4you](https://japanesetest4you.com/) - N5 to N1 tests
 
 * youtube channels
     * [けんさんおかえり](https://www.youtube.com/@kensanokaeri) - japanese conversations with subtitles
-    * [Kaname Naito](https://www.youtube.com/@kanamenaito) - japanese teacher
-    * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese with lots of vocabulary and subtitles
+    * [Kaname Naito](https://www.youtube.com/@kanamenaito) - japanese teacher (grammar, dialogues...)
+    * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese (lots of vocabulary + subtitles)
+    
+<!-- https://dollmaker.nunodoll.com/plushie/ -->
