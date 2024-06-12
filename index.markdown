@@ -21,6 +21,16 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 -->
 
 <div class="postbox" markdown="1">
+[`12/06/24 - most cities in 24 hours`](./_posts/2024-06-12-graf.html)<br>
+room generation using edge extrusion in Python<br>tile replacement function for walls
+{: .tleft }
+
+<img src="assets/img/prev/prev_roome.png" height=100px>
+{: .imright }
+</div>
+
+
+<div class="postbox" markdown="1">
 [`13/02/24 - roome`](./_posts/2024-02-13-roome.html)<br>
 room generation using edge extrusion in Python<br>tile replacement function for walls
 {: .tleft }
