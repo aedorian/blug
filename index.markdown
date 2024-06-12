@@ -22,10 +22,10 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 
 <div class="postbox" markdown="1">
 [`12/06/24 - most cities in 24 hours`](./_posts/2024-06-12-graf.html)<br>
-room generation using edge extrusion in Python<br>tile replacement function for walls
+solving a graph theory problem on the map of France
 {: .tleft }
 
-<img src="assets/img/prev/prev_roome.png" height=100px>
+<img src="assets/img/prev/prev_graf.png" height=100px>
 {: .imright }
 </div>
 
