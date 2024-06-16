@@ -47,5 +47,13 @@ Very long bulleted list of web resources that are super useful- sorted by catego
     * [けんさんおかえり](https://www.youtube.com/@kensanokaeri) - japanese conversations with subtitles
     * [Kaname Naito](https://www.youtube.com/@kanamenaito) - japanese teacher (grammar, dialogues...)
     * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese (lots of vocabulary + subtitles)
+
+---
+
+### others
+
+* audio
+   * [LMMS](https://lmms.io/) - open source, multi-platform DAW
+   * [BFXR](https://www.bfxr.net/) - retro sound effects generator (good for games)
     
 <!-- https://dollmaker.nunodoll.com/plushie/ -->
