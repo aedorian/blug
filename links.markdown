@@ -17,6 +17,7 @@ Very long bulleted list of web resources that are super useful- sorted by catego
     * [Learn OpenGL](https://learnopengl.com/) - complete OpenGL tutorials from the start
     * [Scratchapixel](https://www.scratchapixel.com/) - computer graphics for beginners to advanced
     * [Lazy Foo's Productions](https://lazyfoo.net/tutorials/SDL/index.php) - SDL tutorials
+    * [Maxim McNair's WebGL Image Manipulation](https://maximmcnair.com/p/webgl-setup) - image manipulation with WebGL
 
 * games-related
 
