@@ -32,7 +32,7 @@ Very long bulleted list of web resources that are super useful- sorted by catego
     * [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - excellent math visualizations and explanations (esp. the [*Essence of linear algebra*](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) playlist)
     * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - talks on roguelikes and procedural generation
     * [Henrik Kniberg - *"Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer explains its procedural generation
-    * [Sébastien Benard - Rogue design](https://www.youtube.com/watch?v=eMk2ezEqQno) - Dead Cells' game designer talks about the game's design (proc. gen, etc...)
+    * [Sébastien Benard - Rogue design](https://www.youtube.com/watch?v=eMk2ezEqQno) - Dead Cells' game designer talks about the game's design (lots of interesting thinking, in french)
     
 ---
 
