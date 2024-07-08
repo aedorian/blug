@@ -59,3 +59,6 @@ Very long bulleted list of web resources that are super useful- sorted by catego
    * [BFXR](https://www.bfxr.net/) - retro sound effects generator (good for games)
     
 <!-- https://dollmaker.nunodoll.com/plushie/ -->
+
+<!-- https://iquilezles.org/
+https://prideout.net/blog/distance_fields/ -->
