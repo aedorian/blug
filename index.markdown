@@ -25,7 +25,7 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 elevation and multiple biomes shader with 3D noises<br>interface with ImGui
 {: .tleft }
 
-<img src="assets/img/prev/prev_planet.png" height=100px>
+<img src="assets/img/prev/prev_planet.PNG" height=100px>
 {: .imright }
 </div>
 
