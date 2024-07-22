@@ -59,13 +59,21 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
-table { width: 100%; float: right; }
-
-table, th, td {
-  border-collapse: collapse;
-  padding: 0.4rem;
-  width: 1px;
-}
+table {
+    width:100%;
+  }
+  table,
+  th,
+  td {
+    padding:0.4rem;
+  }
+  th, td {
+    border: 1px solid white;
+    text-align: center;
+  }
+  th {
+    font-weight: normal;
+  }
 
 code {
   color: white;
