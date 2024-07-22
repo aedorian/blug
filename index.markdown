@@ -8,7 +8,7 @@ ok it is-->
 
 How did you end up here?
 
-Little articles on stuff I make on computers-
+Little articles on stuff I make on computers
 
 This especially acts as a log and showcase for projects that won't go much further. I hope some of it can be helpful!
 
@@ -19,6 +19,15 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 </p>
 <img src="assets/img/dungen/d5.png" height=100px style="float: right;">
 -->
+
+<div class="postbox" markdown="1">
+[`18/07/24 - planet generation with OpenGL`](./_posts/2024-06-12-graf.html)<br>
+elevation and multiple biomes shader with 3D noises<br>interface with ImGui
+{: .tleft }
+
+<img src="assets/img/prev/prev_planet.png" height=100px>
+{: .imright }
+</div>
 
 <div class="postbox" markdown="1">
 [`12/06/24 - most cities in 24 hours`](./_posts/2024-06-12-graf.html)<br>
