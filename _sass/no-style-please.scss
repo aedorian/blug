@@ -61,6 +61,17 @@ hr {
 
 table {
     width:100%;
+    float: right;
+  }
+  table,
+  th,
+  td {
+    padding:0.4rem;
+  }
+
+/*
+table {
+    width:100%;
   }
   table,
   th,
@@ -74,6 +85,7 @@ table {
   th {
     font-weight: normal;
   }
+    */
 
 code {
   color: white;
