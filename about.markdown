@@ -18,6 +18,8 @@ If you're interested here's a very secret link to my [portfolio](../_posts/2024-
 
 
 
-
+<br><br>
 
 *Static website made with [Jekyll](https://jekyllrb.com/) and an edited version of [riggraz's no style please theme](https://github.com/riggraz/no-style-please/)*
+
+*Post minimap largely based on [Preethi Sam's minimap](https://codepen.io/rpsthecoder/pen/Jwpxaj)*

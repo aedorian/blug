@@ -75,33 +75,36 @@ a:link {
 
 /* MINIMAP */
 
-#minimap {
-    background: -moz-element(#article) no-repeat center / contain;
-    position: fixed;
-    right: 30px;
-    top: 30px;
-    height: 500px;
-    width: 100px;
-    display: none;
-}
-
-#minimap-range {
-    transform: translatey(-100%) rotate(90deg);
-    transform-origin: bottom left;
-    background-color: transparent; 
-    opacity: 0.5;
-    margin: 0;
-    padding: 0;
-    height: 100px;
-    width: 500px;
-}
-#minimap-range::-moz-range-thumb {
-    width: 25px; 
-    height: 100px;
-    border: none;
-    border-radius: 0px;
-    cursor: pointer; 
-}
-#minimap-range::-moz-range-track{
-	background-color: transparent;
-}
+  #minimap {
+      background:-moz-element(#article) no-repeat center/contain;
+      position:fixed;
+      right:30px;
+      top:30px;
+      height:600px;
+      width:100px;
+      display:none
+    }
+    #minimap:hover {
+        background: rgba(45, 46, 48, 20) -moz-element(#article) no-repeat center/contain;
+      }
+    #minimap-range {
+      transform:translatey(-100%) rotate(90deg);
+      transform-origin:bottom left;
+      background-color:transparent;
+      opacity:0.5;
+      margin:0;
+      padding:0;
+      height:100px;
+      width:600px
+    }
+    #minimap-range::-moz-range-thumb {
+      width:70px;
+      height:100px;
+      border:none;
+      border-radius:0px;
+      background-color: rgba(59, 84, 92, 255);
+      cursor:pointer
+    }
+    #minimap-range::-moz-range-track {
+      background-color:transparent
+    }
