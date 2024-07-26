@@ -6,7 +6,11 @@ layout: default
 
 {%-include back_link.html-%}
 
-<article>
+<div id="minimap">
+    <input id="minimap-range" type="range" max="100" value="0">
+</div>
+
+<article id="article">
   <p class="post-meta">
     <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
   </p>
@@ -17,3 +21,19 @@ layout: default
 </article>
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<script>
+
+onload = () => {
+	if (navigator.userAgent.includes("Firefox")) {
+		const minimapRange = document.querySelector("#minimap-range");
+		const minimap = document.querySelector("#minimap");
+		const article = document.querySelector("#article");
+		const $ = getComputedStyle.bind();
+		minimap.style.display = "block";
+
+		minimapRange.onchange = evt => scrollTo(0, parseInt($(article).height) * (evt.target.value / 100));
+	}
+};
+
+</script>
