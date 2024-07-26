@@ -31,7 +31,7 @@ elevation and multiple biomes<br>vertex shader with 3D noises<br>interface with 
 
 <div class="postbox" markdown="1">
 [`12/06/24 - most cities in 24 hours`](./_posts/2024-06-12-graf.html)<br>
-trying to solve a graph theory problem on the map of France<br>coded in Python with images generated in SVG
+graph theory problem on the map of France<br>coded in Python with images generated in SVG
 {: .tleft }
 
 <img src="assets/img/prev/prev_graf.png" height=100px>
