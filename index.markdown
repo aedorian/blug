@@ -10,7 +10,7 @@ How did you end up here?
 
 Little articles on stuff I make on computers
 
-This especially acts as a log and showcase for projects that won't go much further. I hope some of it can be helpful!
+This especially acts as a log and showcase for projects that won't go much further. I hope some of it can be interesting! <!-- helpful -->
 
 <!--
 <p style="float: left;">

@@ -59,16 +59,29 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
-table {
+table.navLinks {
     width:100%;
     float: right;
   }
-  table,
-  th,
-  td {
+  table.navLinks,
+  table.navLinks th,
+  table.navLinks td {
     padding:0.4rem;
     border: none;
+    width: 1px;
   }
+
+
+  table.ownTable {
+    width:100%;
+  }
+  table.ownTable,
+  table.ownTable th,
+  table.ownTable td {
+    padding:0.4rem;
+  }
+
+  table.ownTable th, table.ownTable td {  border: 1px solid gray; text-align: center; font-weight: normal;}
 
 /*
 table {

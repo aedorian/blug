@@ -5,7 +5,7 @@ permalink: /links/
 
 ## useful links of all sorts
 
-Very long bulleted list of web resources that are super useful- sorted by category.
+Very long bulleted list of web resources that are either super useful or super interesting- sorted by category.
 
 ---
 
@@ -26,6 +26,7 @@ Very long bulleted list of web resources that are super useful- sorted by catego
     * [Mini Jam](https://minijamofficial.com/) - game jams hosted every other week on [itch.io](https://itch.io/)
     * [Catlike Coding (Unity)](https://catlikecoding.com/unity/tutorials/) - C# and shader tutorials for Unity
     * [PavCreations](https://pavcreations.com/procedural-generation-of-2d-maps-in-unity/) - procedural generation and Unity tutorials
+    * [Alan Zucconi - "Minecraft world generation"](https://www.alanzucconi.com/2022/06/05/minecraft-world-generation/) - article on Minecraft's old world generation
 
 * youtube channels and videos
 
