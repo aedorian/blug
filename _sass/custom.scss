@@ -86,6 +86,7 @@ a:link {
     }
     #minimap:hover {
         background: rgba(45, 46, 48, 20) -moz-element(#article) no-repeat center/contain;
+        cursor:pointer
       }
     #minimap-range {
       transform:translatey(-100%) rotate(90deg);
