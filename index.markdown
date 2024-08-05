@@ -21,6 +21,15 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 -->
 
 <div class="postbox" markdown="1">
+[`02/08/24 - Sonic's rail grinding in Unity`](./_posts/2024-07-18-curve.html)<br>
+spline creation with Bézier curves<br>procedural rail mesh generation<br>other game mechanics
+{: .tleft }
+
+<img src="assets/img/prev/prev_curve.PNG" height=100px>
+{: .imright }
+</div>
+
+<div class="postbox" markdown="1">
 [`18/07/24 - planet generation with OpenGL`](./_posts/2024-07-18-planet.html)<br>
 elevation and multiple biomes<br>vertex shader with 3D noises<br>interface with ImGui
 {: .tleft }
