@@ -22,7 +22,7 @@ tile-based dungeon generation with Python and PIL - visualization using FFMPEG
 
 <div class="postbox" markdown="1">
 [`02/08/24 - Sonic's rail grinding in Unity`](./_posts/2024-07-18-curve.html)<br>
-spline creation with Bézier curves<br>procedural rail mesh generation<br>other game mechanics
+spline creation with Bézier curves<br>procedural rail mesh generation<br>homing attack game mechanic
 {: .tleft }
 
 <img src="assets/img/prev/prev_curve.PNG" height=100px>
