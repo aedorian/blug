@@ -35,7 +35,7 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Graphics in 5 minutes](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO) - computer graphics topics (kind of simplified classes)
     * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - talks on roguelikes and procedural generation
     * [Henrik Kniberg - *"Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer explains its procedural generation
-    * [Sébastien Benard - Rogue design](https://www.youtube.com/watch?v=eMk2ezEqQno) - Dead Cells' game designer talks about the game's design (lots of interesting thinking, in french)
+    * [Sébastien Benard - *"Rogue design"*](https://www.youtube.com/watch?v=eMk2ezEqQno) - Dead Cells' game designer talks about the game's design (lots of interesting thinking, in french)
     
 ---
 
