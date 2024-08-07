@@ -21,8 +21,8 @@
 title: blug
 email: zapdexio42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Finding programming things interesting and writing about it
-baseurl: "/blug"
+  Articles on programming experiments
+baseurl: "/"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aedorian
 
