@@ -18,8 +18,9 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Michael Nielsen's Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - free online book on NN and DL
     * [Scratchapixel](https://www.scratchapixel.com/) - computer graphics for beginners to advanced
     * [Lazy Foo's Productions](https://lazyfoo.net/tutorials/SDL/index.php) - SDL tutorials
-    * [Maxim McNair's WebGL Image Manipulation](https://maximmcnair.com/p/webgl-setup) - image manipulation with WebGL
     * [The Book of Shaders](https://thebookofshaders.com/) - about GLSL fragment shaders
+    * [Maxim McNair's WebGL Image Manipulation](https://maximmcnair.com/p/webgl-setup) - image manipulation with WebGL
+    * [Memememe - *"Training Haar Cascades"*](https://memememememememe.me/post/training-haar-cascades/) - iPhone recognition with OpenCV (interesting links too)
 
 * games-related
 
@@ -36,6 +37,8 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Graphics in 5 minutes](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO) - simplified classes on computer graphics topics
     * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - talks on roguelikes and procedural generation
     * [Mix and Jam](https://www.youtube.com/@mixandjam) - studying and recreating game mechanics in Unity
+    * [Acerola](https://www.youtube.com/@Acerola_t) - games related graphics programming videos
+    * [Low Level Game Dev](https://www.youtube.com/@lowlevelgamedev9330) - C++ game dev videos
     * [Henrik Kniberg - *"Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer explains its procedural generation
     * [Sébastien Benard - *"Rogue design"*](https://www.youtube.com/watch?v=eMk2ezEqQno) - Dead Cells' game designer talks about the game's design (lots of interesting thinking, in french)
     
