@@ -10,7 +10,7 @@ permalink: /about/
 Trying to have a website with stuff in it
 
 - [blug/](../index.html) is basically an archive of programming experiments I made. I'm trying to be concise and not go into the details too much, but I hope you can find something to learn in it.
-- [links/](/links/) is a list of web resources I found helpful or interesting.
+- [links/](/blug/links/) is a list of web resources I found helpful or interesting.
 
 <br>
 
