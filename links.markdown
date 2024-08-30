@@ -20,7 +20,7 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Lazy Foo's Productions](https://lazyfoo.net/tutorials/SDL/index.php) - SDL tutorials
     * [The Book of Shaders](https://thebookofshaders.com/) - about GLSL fragment shaders
     * [Maxim McNair's WebGL Image Manipulation](https://maximmcnair.com/p/webgl-setup) - image manipulation with WebGL
-    * [Memememe - *"Training Haar Cascades"*](https://memememememememe.me/post/training-haar-cascades/) - iPhone recognition with OpenCV (interesting links too)
+    * [Memememe - *"Training Haar Cascades"*](https://memememememememe.me/post/training-haar-cascades/) - iPhone recognition with OpenCV (interesting links in the article as well)
 
 * games-related
 
