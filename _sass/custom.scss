@@ -121,3 +121,13 @@ a:link {
   #minimap-range::-moz-range-track {
     background-color:transparent
   }
+
+  #load-message {
+    position:fixed;
+    right:30px;
+    top:30px;
+    height:100px;
+    width:100px;
+    display:block;
+    font-style: italic;
+  }
