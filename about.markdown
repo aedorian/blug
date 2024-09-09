@@ -27,3 +27,7 @@ Feel free to contact me on Discord if you have any questions about anything here
 *Static website made with [Jekyll](https://jekyllrb.com/) and an edited version of [riggraz's no style please](https://github.com/riggraz/no-style-please/)*
 
 *Post minimap largely based on [Preethi Sam's minimap](https://codepen.io/rpsthecoder/pen/Jwpxaj)*
+
+<br><br><br><br><br><br><br>
+
+<img src="./assets/img/common/Mariodance.webp" style="height:35px; image-rendering: pixelated">
