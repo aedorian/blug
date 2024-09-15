@@ -30,4 +30,4 @@ Feel free to contact me on Discord if you have any questions about anything here
 
 <br><br><br><br><br><br><br>
 
-<img src="./assets/img/common/Mariodance.webp" style="height:35px; image-rendering: pixelated">
+<!--<img src="./assets/img/common/Mariodance.webp" style="height:35px; image-rendering: pixelated">-->
