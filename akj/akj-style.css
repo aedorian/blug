@@ -48,8 +48,10 @@ a:hover {
 }
 
 .top-logo {
-    width: 500px;
+    width: 450px;
+    height: 300px;
     padding-top: 60px;
+    object-fit: cover;
 }
 
 .wrap {
