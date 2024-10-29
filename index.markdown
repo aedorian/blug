@@ -59,7 +59,7 @@ graph theory problem on the map of France<br>coded in Python with images generat
 
 <div class="postbox" markdown="1">
 [`13/02/24 - roome`](./_posts/2024-02-13-roome.html)<br>
-room generation using edge extrusion in Python<br>tile replacement function for walls
+room generation using edge extrusion in Python<br>tile replacement function for walls<br>area generation
 {: .tleft }
 
 <img src="assets/img/prev/prev_roome.png" height=100px>
