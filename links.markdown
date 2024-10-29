@@ -49,6 +49,7 @@ Very long bulleted list of web resources that are either super useful or super i
 * resources
     * [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) - dictionnary
     * [Yomichan](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/) - browser extension that searches a dictionnary when a word is highlighted ([setup tutorial](https://learnjapanese.moe/yomichan/))
+    * [たどく](https://tadoku.org/japanese/en/free-books-en/) - reading material from beginner to advanced ([link to full PDF on Reddit](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/))
     * [MyKikitori](https://www.mykikitori.com/) - listening skills practice
     * [jtest4you](https://japanesetest4you.com/) - N5 to N1 tests
 
@@ -66,6 +67,8 @@ Very long bulleted list of web resources that are either super useful or super i
    * [BFXR](https://www.bfxr.net/) - retro sound effects generator (good for games)
     
 <!-- https://dollmaker.nunodoll.com/plushie/ -->
+
+<!--https://loganames.itch.io/promelagen-->
 
 <!-- https://iquilezles.org/
 https://prideout.net/blog/distance_fields/ -->
