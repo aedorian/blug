@@ -27,6 +27,7 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Grid Sage Games](https://www.gridsagegames.com/blog/) - awesome devblog about making roguelikes (esp. [this five part series](https://www.gridsagegames.com/blog/2014/06/procedural-map-generation/))
     * [Catlike Coding (Unity)](https://catlikecoding.com/unity/tutorials/) - C# and shader tutorials for Unity
     * [Mini Jam](https://minijamofficial.com/) - game jams hosted every other week on [itch.io](https://itch.io/)
+    * [Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide) - details on how the 2D Sonic games' physics work (esp. [slope physics](http://info.sonicretro.org/SPG:Slope_Physics))
     * [PavCreations](https://pavcreations.com/procedural-generation-of-2d-maps-in-unity/) - procedural generation and Unity tutorials
     * [Alan Zucconi - *"Minecraft world generation"*](https://www.alanzucconi.com/2022/06/05/minecraft-world-generation/) - article on Minecraft's old world generation
 
