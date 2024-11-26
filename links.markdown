@@ -30,6 +30,7 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Sonic Physics Guide](http://info.sonicretro.org/Sonic_Physics_Guide) - details on how the 2D Sonic games' physics work (esp. [slope physics](http://info.sonicretro.org/SPG:Slope_Physics))
     * [PavCreations](https://pavcreations.com/procedural-generation-of-2d-maps-in-unity/) - procedural generation and Unity tutorials
     * [Alan Zucconi - *"Minecraft world generation"*](https://www.alanzucconi.com/2022/06/05/minecraft-world-generation/) - article on Minecraft's old world generation
+    * [Annlöv, Törnquist Sjöbeck - *"Procedurally Generating Animal Crossing Worlds"*](https://odr.chalmers.se/items/a976d80a-be9f-4b0f-807b-2b075bae05d0) - paper on Animal Crossing world generation
 
 * youtube channels and videos
 
