@@ -83,6 +83,38 @@ table.projects {
     color: gray;
 }
 
+.tag-school {
+    padding: .1em .3em .2em;
+    border-radius: 3px;
+    background: rgb(20, 177, 33);
+    font-size: 12px;
+}
+
+.tag-game {
+    padding: .1em .3em .2em;
+    border-radius: 3px;
+    background: rgb(0, 4, 255);
+    font-size: 12px;
+}
+
+.tag-game-jam {
+    padding: .1em .3em .2em;
+    border-radius: 3px;
+    background: red;
+    font-size: 12px;
+}
+
+td.date {
+    width: 70px;
+}
+
+td.desc {
+
+}
+td.img {
+    
+}
+
 /* END PROJECTS */
 
 /*

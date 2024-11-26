@@ -5,7 +5,7 @@ permalink: /projects/
 
 ## projects that exist
 
-Another huge list of the projects I made. <span class="tag-school">school project</span> <span class="tag-school">game jam</span> <span class="tag-school">game</span>
+Another huge list of the projects I made. <span class="tag-school">university</span> <span class="tag-game-jam">game jam</span> <span class="tag-game">game</span>
 
 Especially includes programming projects, but also some side projects that are related to computers.
 
@@ -38,19 +38,17 @@ dec 2018 -> dec 2019 - Nuclear Platypus Adventure
 
 2016 -> 2020 - YouTube videos
 
-<table>
+<table class="projects">
 
 <tr>
-    <td>
-    2019
+    <td class="date">
+    2019<hr>
+    <span class="tag-game-jam">game jam</span>
     </td>
-    <td>
-    <h3>NPA <span class="proDate">2019</span></h3>
+    <td class="desc">
+    <h3>Nuclear Platypus Adventure</h3>
     description blablabla (features, how, why, idk)
     [links]()
-    </td>
-    <td>
-    [images here]
     </td>
 </tr>
 
