@@ -79,7 +79,7 @@ table.projects {
     border: 1px solid whitesmoke;
 }
 
-table.projects h3 {
+table.projects h2 {
     margin-top: 10px;
 }
 
@@ -108,17 +108,18 @@ table.projects h3 {
     font-size: 12px;
 }
 
-td.date {
+.date {
     width: 70px;
 }
 
-td.desc {
+.desc {
     width: 700px;
     text-align: left;
     vertical-align: top;
+    border-left: 1px solid whitesmoke;
 }
   
-td.desc p {
+.desc p {
     margin-left: 10px;
 }
 

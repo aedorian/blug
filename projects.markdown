@@ -38,18 +38,22 @@ dec 2018 -> dec 2019 - Nuclear Platypus Adventure
 
 2016 -> 2020 - YouTube videos
 
+description blablabla (features, how, why, idk)
+
 <table class="projects">
 
 <tr>
     <td class="date">
     <span class="proDate">2019</span><hr>
     <span class="tag-game-jam">game jam</span>
-    <a class="proLink" href="">link</span>
+    <a class="proLink" href="">link</a>
     
     </td>
     <td class="desc">
-    <h3>Nuclear Platypus Adventure</h3>
-    description blablabla (features, how, why, idk)
+    <h2>Nuclear Platypus Adventure</h3>
+    <p>
+    2.5D platformer developed over a year in Unity. Level design, 3D modeling with *Blender*, C# programming and composition of the soundtrack (18 tracks).
+    </p>
     </td>
 </tr>
 
