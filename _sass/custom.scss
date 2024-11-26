@@ -85,6 +85,8 @@ table.projects h2 {
 
 .proDate {
     color: gray;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .tag-school {
@@ -93,23 +95,28 @@ table.projects h2 {
     background: rgb(20, 177, 33);
     font-size: 12px;
 }
-
 .tag-game {
     padding: .1em .3em .2em;
     border-radius: 3px;
     background: rgb(0, 4, 255);
     font-size: 12px;
 }
-
 .tag-game-jam {
     padding: .1em .3em .2em;
     border-radius: 3px;
     background: red;
     font-size: 12px;
 }
+.tag-normal {
+    padding: .1em .3em .2em;
+    border-radius: 3px;
+    background: rgb(83, 83, 83);
+    font-size: 12px;
+}
 
 .date {
     width: 70px;
+    vertical-align:top;
 }
 
 .desc {

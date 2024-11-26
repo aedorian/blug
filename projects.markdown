@@ -45,14 +45,31 @@ description blablabla (features, how, why, idk)
 <tr>
     <td class="date">
     <span class="proDate">2019</span><hr>
+    <span class="tag-normal">Unity</span>
     <span class="tag-game-jam">game jam</span>
     <a class="proLink" href="">link</a>
     
     </td>
     <td class="desc">
-    <h2>Nuclear Platypus Adventure</h2>
+    <h2 style="font-style: italic">Nuclear Platypus Adventure</h2>
     <p class="pdesc">
-    2.5D platformer developed over a year in Unity. Level design, 3D modeling with *Blender*, C# programming and composition of the soundtrack (18 tracks).
+    2.5D platformer developed over a year in Unity. Level design, 3D modeling with Blender, C# programming and composition of the soundtrack (18 tracks).
+    </p>
+    </td>
+</tr>
+
+<tr>
+    <td class="date">
+    <span class="proDate">2024</span><hr>
+    <span class="tag-normal">Unity</span>
+    <span class="tag-game">game</span>
+    <a class="proLink" href="">link</a>
+    
+    </td>
+    <td class="desc">
+    <h2 style="font-style: italic">Svordakus Dual</h2>
+    <p class="pdesc">
+    Two player sword fighting game for Android mobile devices, made in Unity. Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with WebGL. Players' feedback was useful for 
     </p>
     </td>
 </tr>
