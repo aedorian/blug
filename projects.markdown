@@ -5,6 +5,7 @@ permalink: /projects/
 
 ## projects that exist
 
+Archive
 Another huge list of the projects I made. <span class="tag-school">university</span> <span class="tag-game-jam">game jam</span> <span class="tag-game">game</span>
 
 Especially includes programming projects, but also some side projects that are related to computers.
@@ -44,8 +45,29 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
+    <span class="proDate">2023 nov</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-game-jam">game jam</span>
+    <a class="proLink" href="">link</a>
+    
+    </td>
+    <td class="desc">
+    <h2 style="font-style: italic">Mob Fight</h2>
+    <p class="pdesc">
+    Fighting game made in one week for the 1-Bit Jam. Instead of getting an upgrade each round, here the player loses one.
+    <br>
+    <img src="assets/img/projects/mf_1.png" height="250px">
+    <img src="assets/img/projects/mf_2.png" height="250px">
+    </p>
+    </td>
+</tr>
+
+<tr>
+    <td class="date">
     <span class="proDate">2019</span><hr>
-    <span class="tag-normal">Unity</span>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Blender</span><br>
+    <span class="tag-normal">C#</span><br>
     <span class="tag-game-jam">game jam</span>
     <a class="proLink" href="">link</a>
     
@@ -53,7 +75,9 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">Nuclear Platypus Adventure</h2>
     <p class="pdesc">
-    2.5D platformer developed over a year in Unity. Level design, 3D modeling with Blender, C# programming and composition of the soundtrack (18 tracks).
+    2.5D platformer developed over a year in Unity. Level design, 3D modeling with Blender, C# programming, sound effects making and composition of the soundtrack (18 tracks).
+    <br>
+    <iframe width="600" height="auto" src="https://www.youtube.com/embed/rwln1nmNoCA?si=GCUnu9UniG4R2V7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </p>
     </td>
 </tr>
@@ -61,7 +85,7 @@ description blablabla (features, how, why, idk)
 <tr>
     <td class="date">
     <span class="proDate">2024</span><hr>
-    <span class="tag-normal">Unity</span>
+    <span class="tag-normal">Unity</span><br>
     <span class="tag-game">game</span>
     <a class="proLink" href="">link</a>
     
