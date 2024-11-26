@@ -50,8 +50,8 @@ description blablabla (features, how, why, idk)
     
     </td>
     <td class="desc">
-    <h2>Nuclear Platypus Adventure</h3>
-    <p>
+    <h2>Nuclear Platypus Adventure</h2>
+    <p class="pdesc">
     2.5D platformer developed over a year in Unity. Level design, 3D modeling with *Blender*, C# programming and composition of the soundtrack (18 tracks).
     </p>
     </td>
