@@ -42,13 +42,14 @@ dec 2018 -> dec 2019 - Nuclear Platypus Adventure
 
 <tr>
     <td class="date">
-    2019<hr>
+    <span class="proDate">2019</span><hr>
     <span class="tag-game-jam">game jam</span>
+    <a class="proLink" href="">link</span>
+    
     </td>
     <td class="desc">
     <h3>Nuclear Platypus Adventure</h3>
     description blablabla (features, how, why, idk)
-    [links]()
     </td>
 </tr>
 

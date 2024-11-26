@@ -79,6 +79,10 @@ table.projects {
     border: 1px solid whitesmoke;
 }
 
+table.projects h3 {
+    margin-top: 10px;
+}
+
 .proDate {
     color: gray;
 }
@@ -109,10 +113,13 @@ td.date {
 }
 
 td.desc {
-
+    width: 700px;
+    text-align: left;
+    vertical-align: top;
 }
-td.img {
-    
+  
+td.desc p {
+    margin-left: 10px;
 }
 
 /* END PROJECTS */
