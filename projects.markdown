@@ -45,7 +45,7 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2024 dec</span><hr>
+    <span class="proDate">2024/12</span><hr>
     <span class="tag-normal">Java</span><br>
     <span class="tag-game-jam">university</span>
     <a class="proLink" href="">source</a>
@@ -54,7 +54,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Wargame</h2>
     <p class="pdesc">
-    Wargame on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making the artwork.
+    Wargame on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making some of the artwork.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
@@ -64,7 +64,7 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2024 dec</span><hr>
+    <span class="proDate">2024/12</span><hr>
     <span class="tag-normal">C</span><br>
     <span class="tag-normal">Lex + Yacc</span><br>
     <span class="tag-game-jam">university</span>
@@ -83,20 +83,20 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2024 aug</span><hr>
+    <span class="proDate">2024/08</span><hr>
     <span class="tag-normal">C++</span><br>
     <span class="tag-normal">OpenGL</span><br>
-    <a class="proLink" href="">article</a>
-    <a class="proLink" href="">source</a>
+    <a class="proLink" href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">article</a>
+    <a class="proLink" href="https://github.com/aedorian/kraf">source</a>
     
     </td>
     <td class="desc">
     <h2>Minecraft engine with OpenGL</h2>
     <p class="pdesc">
-    Infinite world and chunk system, structure generation, block breaking/placing, simple ambient and a day-night cycle. Also wrote <a href="">an article</a> on it.
+    Infinite world and chunk system, structure generation, block breaking/placing, simple ambient and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
     <br><br>
-    <img src="../assets/img/kraf/house.gif" height="180px">
-    <img src="../assets/img/kraf/dzer.PNG" height="180px">
+    <img src="../assets/img/kraf/house.gif" height="200px">
+    <img src="../assets/img/kraf/dzer.PNG" height="200px">
     </p>
     </td>
 </tr>
@@ -104,28 +104,32 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2024 may</span><hr>
+    <span class="proDate">2024/06</span><hr>
     <span class="tag-normal">PHP</span><br>
+    <span class="tag-normal">MySQL</span><br>
     <span class="tag-normal">Javascript</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
     <span class="tag-game">university</span>
-    <a class="proLink" href="">source</a>
+    <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a>
+    <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
     
     </td>
     <td class="desc">
     <h2 style="font-style: italic">Bonkers</h2>
     <p class="pdesc">
-    Social network for meeting musicians and forming bands. A map can be used to look for people in your area. A chatting app and a music player are also included.
+    Social network for meeting musicians and forming bands. A map can be used to look for people in your area, with filtering by instrument played. Users can upload tracks to show their demos. A MySQL database is used in back-end. Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
     <br><br>
-    <img src="../assets/img/projects/sv_2.png" height="250px">
-    <img src="../assets/img/projects/sv_1.png" height="250px">
+    <img src="../assets/img/projects/bk_1.PNG" height="200px">
+    <img src="../assets/img/projects/bk_2.PNG" height="200px">
+    <img src="../assets/img/projects/bk_3.PNG" height="200px">
+    <img src="../assets/img/projects/bk_4.PNG" height="200px">
     </p>
     </td>
 </tr>
 
 <tr>
     <td class="date">
-    <span class="proDate">2024 nov</span><hr>
+    <span class="proDate">2024/06</span><hr>
     <span class="tag-normal">C</span><br>
     <span class="tag-game-jam">university</span>
     <a class="proLink" href="">source</a>
@@ -134,7 +138,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Compression software</h2>
     <p class="pdesc">
-    Based on Huffman-coding compression. Users can compress files into a custom archive and decompress it.
+    Project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and decompress it.
     </p>
     </td>
 </tr>
@@ -142,10 +146,11 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2024</span><hr>
+    <span class="proDate">ongoing<br>---<br>2024/03</span><hr>
     <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Android</span><br>
     <span class="tag-game">game</span>
-    <a class="proLink" href="">link</a>
+    <a class="proLink" href="https://aedorian.itch.io/svordakus-dual">link</a>
     
     </td>
     <td class="desc">
@@ -161,10 +166,10 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2024 dec</span><hr>
+    <span class="proDate">2023/12</span><hr>
     <span class="tag-normal">C</span><br>
     <span class="tag-game">university</span>
-    <a class="proLink" href="">source</a>
+    <a class="proLink" href="https://github.com/aedorian/proget">source</a>
     
     </td>
     <td class="desc">
@@ -181,10 +186,10 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2023 nov</span><hr>
+    <span class="proDate">2023/12</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-game-jam">game jam</span>
-    <a class="proLink" href="">link</a>
+    <a class="proLink" href="https://aedorian.itch.io/mob-fight">link</a>
     
     </td>
     <td class="desc">
@@ -200,14 +205,17 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2023 jan</span><hr>
+    <span class="proDate">ongoing<br>-<br>2023/01</span><hr>
+    <span class="tag-normal">Github</span><br>
+    <span class="tag-normal">HTML + CSS</span><br>
+    <span class="tag-normal">Python</span><br>
     <a class="proLink" href="">link</a>
     
     </td>
     <td class="desc">
     <h2 style="font-style: italic">Blug</h2>
     <p class="pdesc">
-    The website you're on, hosted on Github Pages. Some of my favorite articles include <a href=""></a> and <a href=""></a>.
+    The website you're on, hosted on Github Pages. The blug section also acts as an exercise for writing computer science articles on stuff I find interesting. Some of my favorite articles include <a href=""></a> and <a href=""></a>.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
@@ -217,8 +225,9 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2022 jul</span><hr>
+    <span class="proDate">2022/07</span><hr>
     <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Blender</span><br>
     <span class="tag-game">game</span>
     <a class="proLink" href="">download</a>
     
@@ -226,7 +235,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">0percule</h2>
     <p class="pdesc">
-    Adventure game made in 1 month. Conceptualisation of the creatures and atmosphere of the game. Not finished, but
+    Adventure game made in 1 month. Models were made with Blender, and the soundtrack composed with Ableton. Also conceptualized the creatures, atmosphere and story of the game. Not finished, but
     <br><br>
     <img src="../assets/img/pf/o_2.PNG" height="250px">
     <img src="../assets/img/pf/o_5.PNG" height="250px">
@@ -236,16 +245,17 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2022 jul</span><hr>
+    <span class="proDate">2022</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-game">game jam</span>
-    <a class="proLink" href="">download</a>
+    <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">left one</a><br>
+    <a class="proLink" href="https://zapdexio.itch.io/never-riders">right one</a>
     
     </td>
     <td class="desc">
     <h2 style="font-style: italic">Multiple Unity jam games</h2>
     <p class="pdesc">
-    Adventure game made in 1 month. Conceptualisation of the creatures and atmosphere of the game. Not finished, but
+    Participated in other game jams with the Unity engine.
     <br><br>
     <img src="../assets/img/pf/o_2.PNG" height="250px">
     <img src="../assets/img/pf/o_5.PNG" height="250px">
@@ -255,7 +265,7 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2019</span><hr>
+    <span class="proDate">2019<br>-<br>2018</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-normal">Blender</span><br>
     <span class="tag-normal">C#</span><br>
@@ -275,25 +285,31 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2022 jul</span><hr>
+    <span class="proDate">2019</span><hr>
+    <span class="tag-normal">Python</span><br>
+    <span class="tag-normal">Tkinter</span><br>
+    <span class="tag-normal">PIL</span><br>
     <a class="proLink" href="">download</a>
     
     </td>
     <td class="desc">
     <h2 style="font-style: italic">Speed Sketch</h2>
     <p class="pdesc">
-    Adventure game made in 1 month. Conceptualisation of the creatures and atmosphere of the game. Not finished, but
+    Image editing and drawing app made in Python, using the Tkinter and PIL modules. Includes a "copy to clipboard" feature that is useful for drawing something up quickly then pasting it in a Discord conversation. Some effects (letter effect)
     <br><br>
-    <img src="../assets/img/pf/o_2.PNG" height="250px">
-    <img src="../assets/img/pf/o_5.PNG" height="250px">
+    <img src="../assets/img/pf/ss_1.PNG" height="250px">
+    <img src="../assets/img/pf/ss_2.PNG" height="250px">
     </p>
     </td>
 </tr>
 
 <tr>
     <td class="date">
-    <span class="proDate">2022 jul</span><hr>
-    <a class="proLink" href="">download</a>
+    <span class="proDate">2019<br>-<br>2017</span><hr>
+    <span class="tag-normal">Scratch</span><br>
+    <span class="tag-game-jam">game jam</span><br>
+    <a class="proLink" href="">left one</a><br>
+    <a class="proLink" href="">right one</a>
     
     </td>
     <td class="desc">
@@ -309,7 +325,7 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2016<br>-<br>2020</span><hr>
+    <span class="proDate">2020<br>---<br>2016</span><hr>
     
     </td>
     <td class="desc">
