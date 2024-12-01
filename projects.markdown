@@ -55,7 +55,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Wargame</h2>
     <p class="pdesc">
-    Wargame on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making some of the artwork.
+    Final project for a Java course, with two other people. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making some of the artwork.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
@@ -75,9 +75,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>CPYRR Compiler</h2>
     <p class="pdesc">
-    Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors and 
-    <br><br>
-    <img src="../assets/img/projects/mf_1.png" height="180px">
+    Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors, performing type checks
     </p>
     </td>
 </tr>
@@ -94,10 +92,10 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Minecraft engine with OpenGL</h2>
     <p class="pdesc">
-    Infinite world and chunk system, structure generation, block breaking/placing, simple ambient and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
+    Minecraft clone built in C++ with OpenGL. Has an infinite world, custom chunk system, structure generation, block breaking/placing, a simple ambient occlusion system and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
     <br><br>
-    <img src="../assets/img/kraf/house.gif" height="200px">
-    <img src="../assets/img/kraf/dzer.PNG" height="200px">
+    <img src="../assets/img/kraf/house.gif" height="230px">
+    <img src="../assets/img/kraf/dzer.PNG" height="230px">
     </p>
     </td>
 </tr>
@@ -116,11 +114,11 @@ description blablabla (features, how, why, idk)
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Bonkers</h2>
+    <h2 style="font-style: italic">Bonkers: Musician social network</h2>
     <p class="pdesc">
     Social network for meeting musicians and forming bands. A map can be used to look for people in your area, with filtering by instrument played. Users can upload tracks to show their demos. A MySQL database is used in back-end. Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
     <br><br>
-    <img src="../assets/img/projects/bk_1.PNG" height="200px">
+    <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
     <img src="../assets/img/projects/bk_2.PNG" height="200px">
     <img src="../assets/img/projects/bk_3.PNG" height="200px">
     <img src="../assets/img/projects/bk_4.PNG" height="200px">
@@ -132,14 +130,14 @@ description blablabla (features, how, why, idk)
     <td class="date">
     <span class="proDate">2024/06</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-game-jam">university</span>
+    <span class="tag-game-jam">university</span><br>
     <a class="proLink" href="">source</a>
     
     </td>
     <td class="desc">
     <h2>Compression software</h2>
     <p class="pdesc">
-    Project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and decompress it.
+    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and decompress it.
     </p>
     </td>
 </tr>
@@ -147,20 +145,21 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">ongoing<br>---<br>2024/03</span><hr>
+    <span class="proDate">ongoing<br>―――――――<br>2024/03</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-normal">Android</span><br>
-    <span class="tag-game">game</span>
+    <span class="tag-game">game</span><br>
     <a class="proLink" href="https://aedorian.itch.io/svordakus-dual">link</a>
     
     </td>
     <td class="desc">
     <h2 style="font-style: italic">Svordakus Dual</h2>
     <p class="pdesc">
-    Two player sword fighting game for Android mobile devices, made in Unity. Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with WebGL. Players' feedback was useful for making new updates.
+    Two player sword fighting game for Android mobile devices, made in Unity.<br>
+    Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with WebGL. Feedback obtained from playing with other people at university was useful for creating new updates.
     <br><br>
     <img src="../assets/img/projects/sv_2.png" height="250px">
-    <img src="../assets/img/projects/sv_1.png" height="250px">
+    <img src="../assets/img/projects/sv_1.PNG" height="250px">
     </p>
     </td>
 </tr>
@@ -174,9 +173,9 @@ description blablabla (features, how, why, idk)
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Touhou clone</h2>
+    <h2>Touhou clone</h2>
     <p class="pdesc">
-    Shoot 'em up game. My part focused on building a custom ECS-like engine (no classes) and creating a scriptable wave system with customisable enemy movement. Can also be played by two players (photo).
+    Shoot 'em up game that can be played by two players (photo). I built a custom ECS-like engine (in C, so without classes) capable of handling the players, enemies and bullets in real time. Also created a scriptable wave system to make development and testing easier. It has customisable enemy movement and 10 different bullet types and patterns.
     <br><br>
     <img src="../assets/img/projects/sv_2.png" height="250px">
     <img src="../assets/img/projects/sv_1.png" height="250px">
@@ -196,7 +195,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">Mob Fight</h2>
     <p class="pdesc">
-    Fighting game made in one week for the 1-Bit Jam. Instead of getting an upgrade each round, here the player loses one.
+    Small fighting game made in one week for the second 1-Bit Jam.<br>Instead of getting an upgrade each round, here the player loses one.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
@@ -206,17 +205,17 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">ongoing<br>-<br>2023/01</span><hr>
+    <span class="proDate">ongoing<br>―――――――<br>2023/01</span><hr>
     <span class="tag-normal">Github</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
     <span class="tag-normal">Python</span><br>
-    <a class="proLink" href="">link</a>
+    <a class="proLink" href="https://aedorian.github.io/blug/">link</a>
     
     </td>
     <td class="desc">
     <h2 style="font-style: italic">Blug</h2>
     <p class="pdesc">
-    The website you're on, hosted on Github Pages. The blug section also acts as an exercise for writing computer science articles on stuff I find interesting. Some of my favorite articles include <a href=""></a> and <a href=""></a>.
+    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects. Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">roome</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
@@ -236,7 +235,8 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">0percule</h2>
     <p class="pdesc">
-    Adventure game made in 1 month. Models were made with Blender, and the soundtrack composed with Ableton. Also conceptualized the creatures, atmosphere and story of the game. Not finished, but
+    Adventure game made in 1 month. The player controls a cat-like creature that has a sword and a gun.
+    <br>The creatures, atmosphere and story of the game were conceptualized before going into development. Models were made with Blender, and the soundtrack composed in Ableton.
     <br><br>
     <img src="../assets/img/pf/o_2.PNG" height="250px">
     <img src="../assets/img/pf/o_5.PNG" height="250px">
@@ -254,9 +254,9 @@ description blablabla (features, how, why, idk)
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Multiple Unity jam games</h2>
+    <h2>Multiple Unity jam games</h2>
     <p class="pdesc">
-    Participated in other game jams with the Unity engine.
+    Participated in game jams using the Unity engine.
     <br><br>
     <img src="../assets/img/pf/o_2.PNG" height="250px">
     <img src="../assets/img/pf/o_5.PNG" height="250px">
@@ -266,7 +266,7 @@ description blablabla (features, how, why, idk)
 
 <tr>
     <td class="date">
-    <span class="proDate">2019<br>-<br>2018</span><hr>
+    <span class="proDate">2019<br>―――――――<br>2018</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-normal">Blender</span><br>
     <span class="tag-normal">C#</span><br>
@@ -277,7 +277,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">Nuclear Platypus Adventure</h2>
     <p class="pdesc">
-    2.5D platformer developed over a year in Unity. Level design, 3D modeling with Blender, C# programming, sound effects making and composition of the soundtrack (18 tracks).
+    2.5D platformer developed over a year in Unity.<br>Worked on the level design, 3D models using Blender, C# programming, sound effects making. I composed the 18 tracks original soundtrack using LMMS.
     <br>
     <iframe width="600px" height="337px" src="https://www.youtube.com/embed/rwln1nmNoCA?si=GCUnu9UniG4R2V7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </p>
@@ -296,17 +296,17 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">Speed Sketch</h2>
     <p class="pdesc">
-    Image editing and drawing app made in Python, using the Tkinter and PIL modules. Includes a "copy to clipboard" feature that is useful for drawing something up quickly then pasting it in a Discord conversation. Some effects (letter effect)
+    Image editing and drawing app made in Python, using the Tkinter and PIL modules.<br>Includes a "copy to clipboard" feature, that is useful for drawing something up quickly then pasting it in a Discord conversation. Also included customisable effects, like this "letter grid" effect.
     <br><br>
-    <img src="../assets/img/pf/ss_1.PNG" height="250px">
-    <img src="../assets/img/pf/ss_2.PNG" height="250px">
+    <img src="../assets/img/pf/ss_1.PNG" height="300px">
+    <img src="../assets/img/pf/ss_2.PNG" height="300px">
     </p>
     </td>
 </tr>
 
 <tr>
     <td class="date">
-    <span class="proDate">2019<br>-<br>2017</span><hr>
+    <span class="proDate">2019<br>―――――――<br>2017</span><hr>
     <span class="tag-normal">Scratch</span><br>
     <span class="tag-game-jam">game jam</span><br>
     <a class="proLink" href="">left one</a><br>
@@ -314,9 +314,9 @@ description blablabla (features, how, why, idk)
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Scratch Games</h2>
+    <h2>Scratch Games</h2>
     <p class="pdesc">
-    Adventure game made in 1 month. Conceptualisation of the creatures and atmosphere of the game. Not finished, but
+    Before switching to the Unity game engine, I used to make games on Scratch.
     <br><br>
     <img src="../assets/img/pf/o_2.PNG" height="250px">
     <img src="../assets/img/pf/o_5.PNG" height="250px">
@@ -332,7 +332,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>YouTube videos</h2>
     <p class="pdesc">
-    Gaming videos presenting indie games. Editing with Adobe Premiere Pro.
+    Gaming videos presenting indie games. Edited with Adobe Premiere Pro.
     </p>
     </td>
 </tr>
