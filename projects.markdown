@@ -6,14 +6,15 @@ permalink: /projects/
 
 ## projects that exist
 
-Archive
-Another huge list of the projects I made. <span class="tag-school">university</span> <span class="tag-game-jam">game jam</span> <span class="tag-game">game</span>
+Archive of the projects worth talking about I made.
 
 Especially includes programming projects, but also some side projects that are related to computers.
 
 If not specified, all music used in the mentioned games were made by me.
 
-*Last updated: november 2024*
+*Last update: december 2024*
+
+*Tags: <span class="tag-school">university</span> <span class="tag-game-jam">game jam</span> <span class="tag-game">game</span>*
 
     dec 2024 - Wargame
     dec 2024 - CPYRR Compiler
@@ -55,7 +56,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Wargame</h2>
     <p class="pdesc">
-    Final project for a Java course, with two other people. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making some of the artwork.
+    Final project for a Java course, developed with two other students. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making some of the artwork.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
@@ -67,8 +68,9 @@ description blablabla (features, how, why, idk)
     <td class="date">
     <span class="proDate">2024/12</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-normal">Lex + Yacc</span><br>
-    <span class="tag-game-jam">university</span>
+    <span class="tag-normal">Lex</span><br>
+    <span class="tag-normal">Yacc</span><br>
+    <span class="tag-school">university</span>
     <a class="proLink" href="">source</a>
     
     </td>
@@ -92,7 +94,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Minecraft engine with OpenGL</h2>
     <p class="pdesc">
-    Minecraft clone built in C++ with OpenGL. Has an infinite world, custom chunk system, structure generation, block breaking/placing, a simple ambient occlusion system and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
+    Minecraft clone built in two weeks in C++. Has an infinite world, custom chunk system, structure generation, block breaking/placing, a simple ambient occlusion system and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
     <br><br>
     <img src="../assets/img/kraf/house.gif" height="230px">
     <img src="../assets/img/kraf/dzer.PNG" height="230px">
@@ -116,7 +118,8 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">Bonkers: Musician social network</h2>
     <p class="pdesc">
-    Social network for meeting musicians and forming bands. A map can be used to look for people in your area, with filtering by instrument played. Users can upload tracks to show their demos. A MySQL database is used in back-end. Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
+    Social network for meeting musicians and forming bands. A map can be used to look for people in your area, with filtering by instrument played. Users can upload tracks to show their demos. A MySQL database is used in back-end.
+    <br>Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
     <br><br>
     <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
     <img src="../assets/img/projects/bk_2.PNG" height="200px">
@@ -159,6 +162,7 @@ description blablabla (features, how, why, idk)
     Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with WebGL. Feedback obtained from playing with other people at university was useful for creating new updates.
     <br><br>
     <img src="../assets/img/projects/sv_2.png" height="250px">
+    <img src="../assets/img/projects/sv_3.png" height="250px">
     <img src="../assets/img/projects/sv_1.PNG" height="250px">
     </p>
     </td>
@@ -175,10 +179,11 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Touhou clone</h2>
     <p class="pdesc">
-    Shoot 'em up game that can be played by two players (photo). I built a custom ECS-like engine (in C, so without classes) capable of handling the players, enemies and bullets in real time. Also created a scriptable wave system to make development and testing easier. It has customisable enemy movement and 10 different bullet types and patterns.
+    Shoot 'em up game that can be played by two players (photo). I built a custom ECS-like engine (in C, so without classes) capable of handling the players, enemies and bullets in real time. <br>Also created a scriptable wave system to make development and testing easier. It has customisable enemy movement and multiple bullet types and patterns to choose from.
     <br><br>
-    <img src="../assets/img/projects/sv_2.png" height="250px">
-    <img src="../assets/img/projects/sv_1.png" height="250px">
+    <img src="../assets/img/projects/sh_1.png" height="275px">
+    <img src="../assets/img/projects/sh_2.png" height="275px">
+    <img src="../assets/img/projects/sh_3.png" height="275px">
     </p>
     </td>
 </tr>
@@ -215,7 +220,8 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">Blug</h2>
     <p class="pdesc">
-    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects. Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">roome</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
+    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
+    <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
@@ -248,7 +254,7 @@ description blablabla (features, how, why, idk)
     <td class="date">
     <span class="proDate">2022</span><hr>
     <span class="tag-normal">Unity</span><br>
-    <span class="tag-game">game jam</span>
+    <span class="tag-game-jam">game jam</span>
     <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">left one</a><br>
     <a class="proLink" href="https://zapdexio.itch.io/never-riders">right one</a>
     
