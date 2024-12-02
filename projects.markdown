@@ -78,6 +78,8 @@ description blablabla (features, how, why, idk)
     <h2>CPYRR Compiler</h2>
     <p class="pdesc">
     Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors, performing type checks
+    <br><br>
+    <img src="../assets/img/kraf/cp_1.png" height="200px">
     </p>
     </td>
 </tr>
