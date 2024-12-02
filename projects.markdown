@@ -79,7 +79,7 @@ description blablabla (features, how, why, idk)
     <p class="pdesc">
     Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors, performing type checks
     <br><br>
-    <img src="../assets/img/kraf/cp_1.png" height="200px">
+    <img src="../assets/img/projects/cp_1.png" height="200px">
     </p>
     </td>
 </tr>
@@ -163,9 +163,9 @@ description blablabla (features, how, why, idk)
     Two player sword fighting game for Android mobile devices, made in Unity.<br>
     Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with WebGL. Feedback obtained from playing with other people at university was useful for creating new updates.
     <br><br>
-    <img src="../assets/img/projects/sv_2.png" height="250px">
-    <img src="../assets/img/projects/sv_3.png" height="250px">
-    <img src="../assets/img/projects/sv_1.PNG" height="250px">
+    <img src="../assets/img/projects/sv_2.png" height="235px">
+    <img src="../assets/img/projects/sv_3.png" height="235px">
+    <img src="../assets/img/projects/sv_1.PNG" height="235px">
     </p>
     </td>
 </tr>
@@ -225,8 +225,9 @@ description blablabla (features, how, why, idk)
     The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
     <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
     <br><br>
-    <img src="../assets/img/projects/mf_1.png" height="250px">
-    <img src="../assets/img/projects/mf_2.png" height="250px">
+    <img src="../assets/img/roome/t20.gif" height="230px">
+    <img src="../assets/img/roome/d13.png" height="230px">
+    <img src="../assets/img/prev/prev_graf.png" height="230px">
     </p>
     </td>
 </tr>
@@ -257,17 +258,19 @@ description blablabla (features, how, why, idk)
     <span class="proDate">2022</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-game-jam">game jam</span>
-    <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">left one</a><br>
-    <a class="proLink" href="https://zapdexio.itch.io/never-riders">right one</a>
+    <a class="proLink" href="https://zapdexio.itch.io/neon-lines">left one</a>
+    <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">right one</a><br>
     
     </td>
     <td class="desc">
     <h2>Multiple Unity jam games</h2>
     <p class="pdesc">
-    Participated in game jams using the Unity engine.
+    Participated in game jams using the Unity engine. <span style="font-style: italic">Neon Lines</span> (left) is a top-down shooter where ammo is also health, so the player has to be careful when to shoot.
+    <br><span style="font-style: italic">Forsaken Feelings</span> (right) is a platformer with interconnected areas that can be explored as the player unlocks new abilities.
     <br><br>
-    <img src="../assets/img/pf/o_2.PNG" height="250px">
-    <img src="../assets/img/pf/o_5.PNG" height="250px">
+    <img src="../assets/img/projects/gj_1.png" height="250px">
+    <img src="../assets/img/projects/gj_2.png" height="250px">
+    <img src="../assets/img/projects/gj_3.png" height="250px">
     </p>
     </td>
 </tr>
@@ -285,7 +288,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2 style="font-style: italic">Nuclear Platypus Adventure</h2>
     <p class="pdesc">
-    2.5D platformer developed over a year in Unity.<br>Worked on the level design, 3D models using Blender, C# programming, sound effects making. I composed the 18 tracks original soundtrack using LMMS.
+    2.5D platformer developed over a year in Unity.<br>Worked on the level design, 3D models using Blender, C# programming, sound effects making. I composed the 18 tracks of the soundtrack using LMMS.
     <br>
     <iframe width="600px" height="337px" src="https://www.youtube.com/embed/rwln1nmNoCA?si=GCUnu9UniG4R2V7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </p>
@@ -324,10 +327,11 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>Scratch Games</h2>
     <p class="pdesc">
-    Before switching to the Unity game engine, I used to make games on Scratch.
+    Before switching to the Unity game engine, I used to make games on Scratch. The leftmost one was made in one week-end for a game jam, the middle one is a <span style="font-style: italic">Splatoon</span> demake in 2D, and the last one was made in a week for the Game Boy Jam.
     <br><br>
-    <img src="../assets/img/pf/o_2.PNG" height="250px">
-    <img src="../assets/img/pf/o_5.PNG" height="250px">
+    <img src="../assets/img/projects/sc_1.png" height="230px">
+    <img src="../assets/img/projects/sc_3.png" height="230px">
+    <img src="../assets/img/projects/sc_2.png" height="230px">
     </p>
     </td>
 </tr>
