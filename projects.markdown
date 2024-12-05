@@ -106,19 +106,15 @@ description blablabla (features, how, why, idk)
 
 
 <tr>
-    <td class="date">
-    <span class="proDate">2024/06</span><hr>
+    
+    <td class="desc">
+    <h2 style="font-style: italic">Bonkers: Musician social network
     <span class="tag-normal">PHP</span><br>
     <span class="tag-normal">MySQL</span><br>
     <span class="tag-normal">Javascript</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
     <span class="tag-game">university</span>
-    <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a>
-    <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
-    
-    </td>
-    <td class="desc">
-    <h2 style="font-style: italic">Bonkers: Musician social network</h2>
+    </h2>
     <p class="pdesc">
     Social network for meeting musicians and forming bands. A map can be used to look for people in your area, with filtering by instrument played. Users can upload tracks to show their demos. A MySQL database is used in back-end.
     <br>Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
@@ -128,6 +124,14 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/bk_3.PNG" height="200px">
     <img src="../assets/img/projects/bk_4.PNG" height="200px">
     </p>
+    </td>
+    
+    <td class="date">
+    <span class="proDate">2024/06</span><hr>
+    
+    <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a>
+    <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
+    
     </td>
 </tr>
 
