@@ -47,6 +47,25 @@ Very long bulleted list of web resources that are either super useful or super i
     
 ---
 
+### language learning
+
+* japanese
+    * resources
+        * [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) - dictionnary
+        * [Yomichan](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/) - browser extension that searches a dictionnary when a word is highlighted ([setup tutorial](https://learnjapanese.moe/yomichan/))
+        * [たどく](https://tadoku.org/japanese/en/free-books-en/) - reading material from beginner to advanced ([link to full PDF on Reddit](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/))
+        * [MyKikitori](https://www.mykikitori.com/) - listening skills practice
+        * [jtest4you](https://japanesetest4you.com/) - N5 to N1 tests
+    * youtube channels
+        * [けんさんおかえり](https://www.youtube.com/@kensanokaeri) - japanese conversations with subtitles
+        * [Kaname Naito](https://www.youtube.com/@kanamenaito) - japanese teacher (grammar, dialogues...)
+        * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese (lots of vocabulary + subtitles)
+* norwegian
+    * youtube channels
+        * [Learn Norwegian Naturally](https://www.youtube.com/@LearnNorwegianNaturally/) - norwegian speaking, lessons and vocabulary
+
+---
+<!--
 ### learning japanese
 
 * resources
@@ -62,7 +81,7 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese (lots of vocabulary + subtitles)
 
 ---
-
+-->
 ### others
 
 * audio
