@@ -33,17 +33,18 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Alan Zucconi - *"Minecraft world generation"*](https://www.alanzucconi.com/2022/06/05/minecraft-world-generation/) - article on Minecraft's old world generation
     * [Annlöv, Törnquist Sjöbeck - *"Procedurally Generating Animal Crossing Worlds"*](https://odr.chalmers.se/items/a976d80a-be9f-4b0f-807b-2b075bae05d0) - paper on Animal Crossing world generation
 
-* youtube channels and videos
-
-    * [Sebastian Lague](https://www.youtube.com/c/SebastianLague) - very good videos on procedural generation, AI and way more
-    * [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - excellent math visualizations and explanations (esp. the [*Essence of linear algebra*](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and the [*Neural networks*](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) playlists)
-    * [Graphics in 5 minutes](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO) - simplified classes on computer graphics topics
-    * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - talks on roguelikes and procedural generation
-    * [Mix and Jam](https://www.youtube.com/@mixandjam) - studying and recreating game mechanics in Unity
-    * [Acerola](https://www.youtube.com/@Acerola_t) - games related graphics programming videos
-    * [Low Level Game Dev](https://www.youtube.com/@lowlevelgamedev9330) - C++ game dev videos
-    * [Henrik Kniberg - *"Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer explains its procedural generation
-    * [Sébastien Benard - *"Rogue design"*](https://www.youtube.com/watch?v=eMk2ezEqQno) - Dead Cells' game designer talks about the game's design (lots of interesting thinking, in french)
+* youtube resources
+    * channels
+        * [Sebastian Lague](https://www.youtube.com/c/SebastianLague) - very good videos on procedural generation, AI and way more
+        * [3Blue1Brown](https://www.youtube.com/c/3blue1brown) - excellent math visualizations and explanations (esp. the [*Essence of linear algebra*](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and the [*Neural networks*](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) playlists)
+        * [Graphics in 5 minutes](https://www.youtube.com/playlist?list=PLWfDJ5nla8UpwShx-lzLJqcp575fKpsSO) - simplified classes on computer graphics topics
+        * [Roguelike Celebration](https://www.youtube.com/@roguelikecelebration) - talks on roguelikes and procedural generation
+        * [Mix and Jam](https://www.youtube.com/@mixandjam) - studying and recreating game mechanics in Unity
+        * [Acerola](https://www.youtube.com/@Acerola_t) - games related graphics programming videos
+        * [Low Level Game Dev](https://www.youtube.com/@lowlevelgamedev9330) - C++ game dev videos
+    * videos
+        * [Henrik Kniberg - *"Minecraft terrain generation in a nutshell"*](https://www.youtube.com/watch?v=CSa5O6knuwI) - Minecraft developer explains its procedural generation
+        * [Sébastien Benard - *"Rogue design"*](https://www.youtube.com/watch?v=eMk2ezEqQno) - Dead Cells' game designer talks about the game's design (lots of interesting thinking, in french)
     
 ---
 
@@ -65,28 +66,14 @@ Very long bulleted list of web resources that are either super useful or super i
         * [Learn Norwegian Naturally](https://www.youtube.com/@LearnNorwegianNaturally/) - norwegian speaking, lessons and vocabulary
 
 ---
-<!--
-### learning japanese
 
-* resources
-    * [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) - dictionnary
-    * [Yomichan](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/) - browser extension that searches a dictionnary when a word is highlighted ([setup tutorial](https://learnjapanese.moe/yomichan/))
-    * [たどく](https://tadoku.org/japanese/en/free-books-en/) - reading material from beginner to advanced ([link to full PDF on Reddit](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/))
-    * [MyKikitori](https://www.mykikitori.com/) - listening skills practice
-    * [jtest4you](https://japanesetest4you.com/) - N5 to N1 tests
-
-* youtube channels
-    * [けんさんおかえり](https://www.youtube.com/@kensanokaeri) - japanese conversations with subtitles
-    * [Kaname Naito](https://www.youtube.com/@kanamenaito) - japanese teacher (grammar, dialogues...)
-    * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese (lots of vocabulary + subtitles)
-
----
--->
 ### others
 
 * audio
    * [LMMS](https://lmms.io/) - open source, multi-platform DAW
    * [BFXR](https://www.bfxr.net/) - retro sound effects generator (good for games)
+* miscelleanous
+   * [FMHY.net](https://fmhy.net/) - free stuff on the internet
     
 <!-- https://dollmaker.nunodoll.com/plushie/ -->
 
