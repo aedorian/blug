@@ -29,8 +29,8 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     Final project for a Java course, developed with two other students. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making some of the artwork.
     <br><br>
-    <img src="../assets/img/projects/mf_1.png" height="250px">
-    <img src="../assets/img/projects/mf_2.png" height="250px">
+    <!--<img src="../assets/img/projects/mf_1.png" height="250px">
+    <img src="../assets/img/projects/mf_2.png" height="250px">-->
     </p>
     </td>
 
