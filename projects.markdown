@@ -86,7 +86,7 @@ If not specified, all music used in the mentioned games was made by me.
     <span class="tag-normal">MySQL</span><br>
     <span class="tag-normal">Javascript</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
-    <span class="tag-university">university</span><hr>
+    <span class="tag-school">university</span><hr>
     <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a><br>
     <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
     
@@ -153,7 +153,7 @@ If not specified, all music used in the mentioned games was made by me.
         <td class="date">
     <span class="proDate">2023/12</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-university">university</span><hr>
+    <span class="tag-school">university</span><hr>
     <a class="proLink" href="https://github.com/aedorian/proget">source</a>
     
     </td>
