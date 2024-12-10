@@ -6,20 +6,28 @@ permalink: /projects/
 
 ## projects that exist
 
-Archive of the projects worth talking about I made.
+Archive of the projects I made that are worth talking about.
 
 Smaller projects are detailled in [the blug part](https://aedorian.github.io/blug/) of this website.
 
-If not specified, all music used in the mentioned games were made by me.
+If not specified, all music used in the mentioned games was made by me.
 
 *Last update: december 2024*
 
 description blablabla (features, how, why, idk)
 
+<br><br>
+
 <table class="projects">
 
 <tr>
+        <td class="date">
+    <span class="proDate">2024/12</span><hr>
+    <span class="tag-normal">Java</span><br>
+    <span class="tag-school">university</span><hr>
+    <a class="proLink" href="">source</a>
     
+    </td>
     <td class="desc">
     <h2>Wargame</h2>
     <p class="pdesc">
@@ -29,17 +37,20 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/mf_2.png" height="250px">
     </p>
     </td>
-    <td class="date">
+
+</tr>
+
+<hr>
+
+<tr>
+        <td class="date">
     <span class="proDate">2024/12</span><hr>
-    <span class="tag-normal">Java</span><br>
-    <span class="tag-game-jam">university</span><hr>
+    <span class="tag-normal">C</span><br>
+    <span class="tag-normal">Lex + Yacc</span><br>
+    <span class="tag-school">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
-</tr>
-
-<tr>
-    
     <td class="desc">
     <h2>CPYRR Compiler</h2>
     <p class="pdesc">
@@ -48,19 +59,18 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/cp_1.png" height="120px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2024/12</span><hr>
-    <span class="tag-normal">C</span><br>
-    <span class="tag-normal">Lex</span><br>
-    <span class="tag-normal">Yacc</span><br>
-    <span class="tag-school">university</span><hr>
-    <a class="proLink" href="">source</a>
-    
-    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2024/08</span><hr>
+    <span class="tag-normal">C++</span><br>
+    <span class="tag-normal">OpenGL</span><br>
+    <a class="proLink" href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">article</a>
+    <a class="proLink" href="https://github.com/aedorian/kraf">source</a>
     
+    </td>
     <td class="desc">
     <h2>Minecraft engine with OpenGL</h2>
     <p class="pdesc">
@@ -70,19 +80,23 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/kraf/dzer.PNG" height="250px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2024/08</span><hr>
-    <span class="tag-normal">C++</span><br>
-    <span class="tag-normal">OpenGL</span><br>
-    <a class="proLink" href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">article</a>
-    <a class="proLink" href="https://github.com/aedorian/kraf">source</a>
-    
-    </td>
+
 </tr>
 
 
 <tr>
+        <td class="date">
+    <span class="proDate">2024/06</span><hr>
     
+    <span class="tag-normal">PHP</span><br>
+    <span class="tag-normal">MySQL</span><br>
+    <span class="tag-normal">Javascript</span><br>
+    <span class="tag-normal">HTML + CSS</span><br>
+    <span class="tag-game">university</span>
+    <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a><br>
+    <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
+    
+    </td>
     <td class="desc">
     <h2 style="font-style: italic">Bonkers: Musician social network
     </h2>
@@ -97,40 +111,37 @@ description blablabla (features, how, why, idk)
     </p>
     </td>
     
-    <td class="date">
-    <span class="proDate">2024/06</span><hr>
-    
-    <span class="tag-normal">PHP</span><br>
-    <span class="tag-normal">MySQL</span><br>
-    <span class="tag-normal">Javascript</span><br>
-    <span class="tag-normal">HTML + CSS</span><br>
-    <span class="tag-game">university</span>
-    <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a><br>
-    <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
-    
-    </td>
+
 </tr>
 
 <tr>
-    
-    <td class="desc">
-    <h2>Compression software</h2>
-    <p class="pdesc">
-    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and decompress it.
-    </p>
-    </td>
-    <td class="date">
+        <td class="date">
     <span class="proDate">2024/06</span><hr>
     <span class="tag-normal">C</span><br>
     <span class="tag-game-jam">university</span><br>
     <a class="proLink" href="">source</a>
     
     </td>
+    <td class="desc">
+    <h2>Compression software</h2>
+    <p class="pdesc">
+    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and decompress it.
+    </p>
+    </td>
+
 </tr>
 
 
 <tr>
+        </td>
+    <td class="date">
+    <span class="proDate">ongoing<br>―――――――<br>2024/03</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Android</span><br>
+    <span class="tag-game">game</span><br>
+    <a class="proLink" href="https://aedorian.itch.io/svordakus-dual">link</a>
     
+    </td>
     <td class="desc">
     <h2 style="font-style: italic">Svordakus Dual</h2>
     <p class="pdesc">
@@ -141,19 +152,17 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/sv_3.png" height="235px">
     <img src="../assets/img/projects/sv_1.PNG" height="235px">
     </p>
-    </td>
-    <td class="date">
-    <span class="proDate">ongoing<br>―――――――<br>2024/03</span><hr>
-    <span class="tag-normal">Unity</span><br>
-    <span class="tag-normal">Android</span><br>
-    <span class="tag-game">game</span><br>
-    <a class="proLink" href="https://aedorian.itch.io/svordakus-dual">link</a>
-    
-    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2023/12</span><hr>
+    <span class="tag-normal">C</span><br>
+    <span class="tag-game">university</span>
+    <a class="proLink" href="https://github.com/aedorian/proget">source</a>
     
+    </td>
     <td class="desc">
     <h2>Shoot Em Up</h2>
     <p class="pdesc">
@@ -164,18 +173,18 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/sh_3.png" height="275px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2023/12</span><hr>
-    <span class="tag-normal">C</span><br>
-    <span class="tag-game">university</span>
-    <a class="proLink" href="https://github.com/aedorian/proget">source</a>
-    
-    </td>
+
 </tr>
 
 
 <tr>
+        <td class="date">
+    <span class="proDate">2023/12</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-game-jam">game jam</span>
+    <a class="proLink" href="https://aedorian.itch.io/mob-fight">link</a>
     
+    </td>
     <td class="desc">
     <h2 style="font-style: italic">Mob Fight</h2>
     <p class="pdesc">
@@ -185,29 +194,11 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/mf_2.png" height="250px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2023/12</span><hr>
-    <span class="tag-normal">Unity</span><br>
-    <span class="tag-game-jam">game jam</span>
-    <a class="proLink" href="https://aedorian.itch.io/mob-fight">link</a>
-    
-    </td>
+
 </tr>
 
 <tr>
-    
-    <td class="desc">
-    <h2 style="font-style: italic">Blug</h2>
-    <p class="pdesc">
-    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
-    <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
-    <br><br>
-    <img src="../assets/img/roome/t20.gif" height="230px">
-    <img src="../assets/img/roome/d13.png" height="230px">
-    <img src="../assets/img/prev/prev_graf.png" height="230px">
-    </p>
-    </td>
-    <td class="date">
+        <td class="date">
     <span class="proDate">ongoing<br>―――――――<br>2023/01</span><hr>
     <span class="tag-normal">Github</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
@@ -215,10 +206,29 @@ description blablabla (features, how, why, idk)
     <a class="proLink" href="https://aedorian.github.io/blug/">link</a>
     
     </td>
+    <td class="desc">
+    <h2 style="font-style: italic">Blug</h2>
+    <p class="pdesc">
+    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
+    <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
+    <br><br>
+    <img src="../assets/img/roome/t20.gif" height="270px">
+    <img src="../assets/img/roome/d13.png" height="270px">
+    <img src="../assets/img/prev/prev_graf.png" height="270px">
+    </p>
+    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2022/07</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Blender</span><br>
+    <span class="tag-game">game</span>
+    <a class="proLink" href="">download</a>
     
+    </td>
     <td class="desc">
     <h2 style="font-style: italic">0percule</h2>
     <p class="pdesc">
@@ -229,18 +239,18 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/pf/o_5.PNG" height="250px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2022/07</span><hr>
-    <span class="tag-normal">Unity</span><br>
-    <span class="tag-normal">Blender</span><br>
-    <span class="tag-game">game</span>
-    <a class="proLink" href="">download</a>
-    
-    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2022</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-game-jam">game jam</span>
+    <a class="proLink" href="https://zapdexio.itch.io/neon-lines">left one</a>
+    <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">right one</a><br>
     
+    </td>
     <td class="desc">
     <h2>Multiple Unity jam games</h2>
     <p class="pdesc">
@@ -253,18 +263,19 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/gj_3.png" height="265px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2022</span><hr>
-    <span class="tag-normal">Unity</span><br>
-    <span class="tag-game-jam">game jam</span>
-    <a class="proLink" href="https://zapdexio.itch.io/neon-lines">left one</a>
-    <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">right one</a><br>
-    
-    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2019<br>――――<br>2018</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Blender</span><br>
+    <span class="tag-normal">C#</span><br>
+    <span class="tag-game-jam">game jam</span>
+    <a class="proLink" href="">link</a>
     
+    </td>
     <td class="desc">
     <h2 style="font-style: italic">Nuclear Platypus Adventure</h2>
     <p class="pdesc">
@@ -273,19 +284,18 @@ description blablabla (features, how, why, idk)
     <iframe width="600px" height="337px" src="https://www.youtube.com/embed/rwln1nmNoCA?si=GCUnu9UniG4R2V7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2019<br>―――――――<br>2018</span><hr>
-    <span class="tag-normal">Unity</span><br>
-    <span class="tag-normal">Blender</span><br>
-    <span class="tag-normal">C#</span><br>
-    <span class="tag-game-jam">game jam</span>
-    <a class="proLink" href="">link</a>
-    
-    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2019</span><hr>
+    <span class="tag-normal">Python</span><br>
+    <span class="tag-normal">Tkinter</span><br>
+    <span class="tag-normal">PIL</span><br>
+    <a class="proLink" href="">download</a>
     
+    </td>
     <td class="desc">
     <h2 style="font-style: italic">Speed Sketch</h2>
     <p class="pdesc">
@@ -295,18 +305,18 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/pf/ss_2.PNG" height="300px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2019</span><hr>
-    <span class="tag-normal">Python</span><br>
-    <span class="tag-normal">Tkinter</span><br>
-    <span class="tag-normal">PIL</span><br>
-    <a class="proLink" href="">download</a>
-    
-    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2019<br>――――<br>2017</span><hr>
+    <span class="tag-normal">Scratch</span><br>
+    <span class="tag-game-jam">game jam</span><br>
+    <a class="proLink" href="">left one</a><br>
+    <a class="proLink" href="">right one</a>
     
+    </td>
     <td class="desc">
     <h2>Scratch Games</h2>
     <p class="pdesc">
@@ -317,28 +327,21 @@ description blablabla (features, how, why, idk)
     <img src="../assets/img/projects/sc_2.png" height="215px">
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2019<br>――――<br>2017</span><hr>
-    <span class="tag-normal">Scratch</span><br>
-    <span class="tag-game-jam">game jam</span><br>
-    <a class="proLink" href="">left one</a><br>
-    <a class="proLink" href="">right one</a>
-    
-    </td>
+
 </tr>
 
 <tr>
+        <td class="date">
+    <span class="proDate">2020<br>――――<br>2016</span><hr>
     
+    </td>
     <td class="desc">
     <h2>YouTube videos</h2>
     <p class="pdesc">
-    Gaming videos presenting indie games. Edited with Adobe Premiere Pro.
+    Gaming videos presenting indie games. Edited with Adobe Premiere Pro. I used to upload one every week.
     </p>
     </td>
-    <td class="date">
-    <span class="proDate">2020<br>---<br>2016</span><hr>
-    
-    </td>
+
 </tr>
 
 </table>

@@ -2,7 +2,7 @@
     max-width: 770px;
 }
 .large {
-    max-width: 1000px;
+    max-width: 1010px;
 }
 
 code {
@@ -120,14 +120,16 @@ table.projects h2 {
 .date {
     width: 70px;
     vertical-align:top;
+    padding-left:15px;
+    text-align: right;
 }
 
 .desc {
-    width: 900px;
-    text-align: left;
-    vertical-align: top;
-    border-left: 1px solid whitesmoke;
-    padding-left: 15px;
+    width:900px;
+    text-align:left;
+    vertical-align:top;
+    /* border-left:1px solid whitesmoke; */
+    padding-left:15px;
 }
 
 td {
