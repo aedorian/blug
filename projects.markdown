@@ -40,8 +40,6 @@ description blablabla (features, how, why, idk)
 
 </tr>
 
-<hr>
-
 <tr>
         <td class="date">
     <span class="proDate">2024/12</span><hr>
@@ -66,7 +64,7 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2024/08</span><hr>
     <span class="tag-normal">C++</span><br>
-    <span class="tag-normal">OpenGL</span><br>
+    <span class="tag-normal">OpenGL</span><hr>
     <a class="proLink" href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">article</a>
     <a class="proLink" href="https://github.com/aedorian/kraf">source</a>
     
@@ -92,7 +90,7 @@ description blablabla (features, how, why, idk)
     <span class="tag-normal">MySQL</span><br>
     <span class="tag-normal">Javascript</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
-    <span class="tag-game">university</span>
+    <span class="tag-game">university</span><hr>
     <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a><br>
     <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
     
@@ -118,7 +116,7 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2024/06</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-game-jam">university</span><br>
+    <span class="tag-game-jam">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
@@ -138,7 +136,7 @@ description blablabla (features, how, why, idk)
     <span class="proDate">ongoing<br>―――――――<br>2024/03</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-normal">Android</span><br>
-    <span class="tag-game">game</span><br>
+    <span class="tag-game">game</span><br><hr>
     <a class="proLink" href="https://aedorian.itch.io/svordakus-dual">link</a>
     
     </td>
@@ -159,7 +157,7 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2023/12</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-game">university</span>
+    <span class="tag-game">university</span><hr>
     <a class="proLink" href="https://github.com/aedorian/proget">source</a>
     
     </td>
@@ -181,7 +179,7 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2023/12</span><hr>
     <span class="tag-normal">Unity</span><br>
-    <span class="tag-game-jam">game jam</span>
+    <span class="tag-game-jam">game jam</span><hr>
     <a class="proLink" href="https://aedorian.itch.io/mob-fight">link</a>
     
     </td>
@@ -202,7 +200,7 @@ description blablabla (features, how, why, idk)
     <span class="proDate">ongoing<br>―――――――<br>2023/01</span><hr>
     <span class="tag-normal">Github</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
-    <span class="tag-normal">Python</span><br>
+    <span class="tag-normal">Python</span><br><hr>
     <a class="proLink" href="https://aedorian.github.io/blug/">link</a>
     
     </td>
@@ -225,7 +223,7 @@ description blablabla (features, how, why, idk)
     <span class="proDate">2022/07</span><hr>
     <span class="tag-normal">Unity</span><br>
     <span class="tag-normal">Blender</span><br>
-    <span class="tag-game">game</span>
+    <span class="tag-game">game</span><hr>
     <a class="proLink" href="">download</a>
     
     </td>
@@ -246,9 +244,9 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2022</span><hr>
     <span class="tag-normal">Unity</span><br>
-    <span class="tag-game-jam">game jam</span>
-    <a class="proLink" href="https://zapdexio.itch.io/neon-lines">left one</a>
-    <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">right one</a><br>
+    <span class="tag-game-jam">game jam</span><hr>
+    <a class="proLink" href="https://zapdexio.itch.io/neon-lines">link one</a>
+    <a class="proLink" href="https://zapdexio.itch.io/forsaken-feelings">link two</a><br>
     
     </td>
     <td class="desc">
@@ -272,7 +270,7 @@ description blablabla (features, how, why, idk)
     <span class="tag-normal">Unity</span><br>
     <span class="tag-normal">Blender</span><br>
     <span class="tag-normal">C#</span><br>
-    <span class="tag-game-jam">game jam</span>
+    <span class="tag-game-jam">game jam</span><hr>
     <a class="proLink" href="">link</a>
     
     </td>
@@ -292,7 +290,7 @@ description blablabla (features, how, why, idk)
     <span class="proDate">2019</span><hr>
     <span class="tag-normal">Python</span><br>
     <span class="tag-normal">Tkinter</span><br>
-    <span class="tag-normal">PIL</span><br>
+    <span class="tag-normal">PIL</span><br><hr>
     <a class="proLink" href="">download</a>
     
     </td>
@@ -312,9 +310,9 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2019<br>――――<br>2017</span><hr>
     <span class="tag-normal">Scratch</span><br>
-    <span class="tag-game-jam">game jam</span><br>
+    <span class="tag-game-jam">game jam</span><hr>
     <a class="proLink" href="">left one</a><br>
-    <a class="proLink" href="">right one</a>
+    <a class="proLink" href="">right two</a>
     
     </td>
     <td class="desc">
@@ -332,7 +330,7 @@ description blablabla (features, how, why, idk)
 
 <tr>
         <td class="date">
-    <span class="proDate">2020<br>――――<br>2016</span><hr>
+    <span class="proDate">2020<br>――――<br>2016</span>
     
     </td>
     <td class="desc">

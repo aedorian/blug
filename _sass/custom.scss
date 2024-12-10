@@ -86,6 +86,12 @@ table.projects h2 {
     margin-top: 10px;
 }
 
+table.projects hr {
+    margin-top: 10px;
+     margin-bottom: 10px;
+    font-size: 15px;
+  }
+
 .proDate {
     color: gray;
     font-weight: bold;
@@ -122,6 +128,7 @@ table.projects h2 {
     vertical-align:top;
     padding-left:15px;
     text-align: right;
+    padding-top: 14px;
 }
 
 .desc {
@@ -133,7 +140,8 @@ table.projects h2 {
 }
 
 td {
-    border-bottom: 1px solid whitesmoke;
+    border-top: 1px dashed whitesmoke;
+    padding-bottom: 30px;
 }
 
 /* END PROJECTS */

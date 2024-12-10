@@ -40,7 +40,8 @@ onload = () => {
 		minimapRange.onchange = evt => scrollTo(0, parseInt($(article).height) * (evt.target.value / 100));
 	}
     else {
-        loadMessage.style.display = "none";
+        /* loadMessage.style.display = "none"; */
+        loadMessage.innerHTML = "disabled minimap (use firefox!)";
     }
 };
 
