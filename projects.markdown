@@ -1,6 +1,6 @@
 ---
 layout: page
-style: wlarge
+style: " large"
 permalink: /projects/
 ---
 
@@ -32,7 +32,7 @@ description blablabla (features, how, why, idk)
     <td class="date">
     <span class="proDate">2024/12</span><hr>
     <span class="tag-normal">Java</span><br>
-    <span class="tag-game-jam">university</span>
+    <span class="tag-game-jam">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
@@ -53,7 +53,7 @@ description blablabla (features, how, why, idk)
     <span class="tag-normal">C</span><br>
     <span class="tag-normal">Lex</span><br>
     <span class="tag-normal">Yacc</span><br>
-    <span class="tag-school">university</span>
+    <span class="tag-school">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
@@ -247,10 +247,10 @@ description blablabla (features, how, why, idk)
     Participated in game jams using the Unity engine. <span style="font-style: italic">Neon Lines</span> (upper one) is a top-down shooter where ammo is also health, so the player has to be careful when to shoot.
     <br><span style="font-style: italic">Forsaken Feelings</span> (lower one) is a platformer with interconnected areas that can be explored as the player unlocks new abilities.
     <br><br>
-    <img src="../assets/img/projects/gj_1.png" height="250px">
-    <img src="../assets/img/projects/gj_4.png" height="250px">
-    <img src="../assets/img/projects/gj_2.png" height="250px">
-    <img src="../assets/img/projects/gj_3.png" height="250px">
+    <img src="../assets/img/projects/gj_1.png" height="240px">
+    <img src="../assets/img/projects/gj_4.png" height="240px">
+    <img src="../assets/img/projects/gj_2.png" height="265px">
+    <img src="../assets/img/projects/gj_3.png" height="265px">
     </p>
     </td>
     <td class="date">
@@ -269,7 +269,7 @@ description blablabla (features, how, why, idk)
     <h2 style="font-style: italic">Nuclear Platypus Adventure</h2>
     <p class="pdesc">
     2.5D platformer developed over a year in Unity.<br>Worked on the level design, modelled in 3D using Blender, programmed in C# and made most of the sound effects. I composed the 18 tracks of the <a href="https://open.spotify.com/intl-fr/album/2v49RnlihjF9vrXW7NxJm6?si=2S02OV76QV2dDskPdW3NQQ">soundtrack</a> using LMMS.
-    <br>
+    <br><br>
     <iframe width="600px" height="337px" src="https://www.youtube.com/embed/rwln1nmNoCA?si=GCUnu9UniG4R2V7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </p>
     </td>
