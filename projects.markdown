@@ -14,10 +14,6 @@ If not specified, all music used in the mentioned games was made by me.
 
 *Last update: december 2024*
 
-description blablabla (features, how, why, idk)
-
-<br><br>
-
 <table class="projects">
 
 <tr>
@@ -90,13 +86,13 @@ description blablabla (features, how, why, idk)
     <span class="tag-normal">MySQL</span><br>
     <span class="tag-normal">Javascript</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
-    <span class="tag-game">university</span><hr>
+    <span class="tag-university">university</span><hr>
     <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a><br>
     <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Bonkers: Musician social network
+    <h2><span style="font-style: italic">Bonkers</span>: Musician social network
     </h2>
     <p class="pdesc">
     Social network for meeting musicians and forming bands. A map can be used to look for people in your area, with filtering by instrument played. Users can upload tracks to show their demos. A MySQL database is used in back-end.
@@ -116,14 +112,14 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2024/06</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-game-jam">university</span><hr>
+    <span class="tag-university">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
     <td class="desc">
     <h2>Compression software</h2>
     <p class="pdesc">
-    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and decompress it.
+    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and then decompress it. Also studied the compression ratio by running tests over different file types.
     </p>
     </td>
 
@@ -157,7 +153,7 @@ description blablabla (features, how, why, idk)
         <td class="date">
     <span class="proDate">2023/12</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-game">university</span><hr>
+    <span class="tag-university">university</span><hr>
     <a class="proLink" href="https://github.com/aedorian/proget">source</a>
     
     </td>
@@ -336,7 +332,7 @@ description blablabla (features, how, why, idk)
     <td class="desc">
     <h2>YouTube videos</h2>
     <p class="pdesc">
-    Gaming videos presenting indie games. Edited with Adobe Premiere Pro. I used to upload one every week.
+    Gaming videos presenting indie games. Edited with Adobe Premiere Pro.<br>I used to upload one every week.
     </p>
     </td>
 
