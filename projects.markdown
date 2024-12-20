@@ -19,6 +19,27 @@ If not specified, all music used in the mentioned games was made by me.
 <tr>
         <td class="date">
     <span class="proDate">2024/12</span><hr>
+    <span class="tag-normal">C</span><br>
+    <span class="tag-normal">POSIX</span><br>
+    <span class="tag-school">university</span><hr>
+    <a class="proLink" href="">source</a>
+    
+    </td>
+    <td class="desc">
+    <h2>Multi-process system programming</h2>
+    <p class="pdesc">
+    Multi-process application in C, written in under 48h for the exam of a system programming course. Usage of semaphores, shared memory segments and message queues.
+    <br><br>
+    <img src="../assets/img/projects/ps_1.PNG" height="150px">
+    <img src="../assets/img/projects/ps_2.PNG" height="150px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
+    <span class="proDate">2024/12</span><hr>
     <span class="tag-normal">Java</span><br>
     <span class="tag-school">university</span><hr>
     <a class="proLink" href="">source</a>
@@ -50,7 +71,8 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors, performing type checks
     <br><br>
-    <img src="../assets/img/projects/cp_1.png" height="120px">
+    <img src="../assets/img/projects/comp_1.PNG" height="150px">
+    <img src="../assets/img/projects/comp_2.PNG" height="150px">
     </p>
     </td>
 
@@ -99,9 +121,9 @@ If not specified, all music used in the mentioned games was made by me.
     <br>Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
     <br><br>
     <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
-    <img src="../assets/img/projects/bk_2.PNG" height="200px">
-    <img src="../assets/img/projects/bk_3.PNG" height="200px">
-    <img src="../assets/img/projects/bk_4.PNG" height="200px">
+    <img src="../assets/img/projects/bk_2.PNG" height="195px">
+    <img src="../assets/img/projects/bk_3.PNG" height="195px">
+    <img src="../assets/img/projects/bk_4.PNG" height="195px">
     </p>
     </td>
     
@@ -112,14 +134,14 @@ If not specified, all music used in the mentioned games was made by me.
         <td class="date">
     <span class="proDate">2024/06</span><hr>
     <span class="tag-normal">C</span><br>
-    <span class="tag-university">university</span><hr>
+    <span class="tag-school">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
     <td class="desc">
     <h2>Compression software</h2>
     <p class="pdesc">
-    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and then decompress it. Also studied the compression ratio by running tests over different file types.
+    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and then decompress it.<br>Also studied the compression ratio by running tests over different file types.
     </p>
     </td>
 
@@ -142,9 +164,9 @@ If not specified, all music used in the mentioned games was made by me.
     Two player sword fighting game for Android mobile devices, made in Unity.<br>
     Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with WebGL. Feedback obtained from playing with other people at university was useful for creating new updates.
     <br><br>
-    <img src="../assets/img/projects/sv_2.png" height="235px">
-    <img src="../assets/img/projects/sv_3.png" height="235px">
-    <img src="../assets/img/projects/sv_1.PNG" height="235px">
+    <img src="../assets/img/projects/sv_2.png" height="230px">
+    <img src="../assets/img/projects/sv_3.png" height="230px">
+    <img src="../assets/img/projects/sv_1.PNG" height="230px">
     </p>
 
 </tr>
