@@ -30,8 +30,8 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     Multi-process application in C, written in under 48h for the exam of a system programming course. Usage of semaphores, shared memory segments and message queues.
     <br><br>
-    <img src="../assets/img/projects/ps_1.PNG" height="150px">
-    <img src="../assets/img/projects/ps_2.PNG" height="150px">
+    <img src="../assets/img/projects/ps_1.PNG" height="300px">
+    <!--<img src="../assets/img/projects/ps_2.PNG" height="150px">-->
     </p>
     </td>
 
@@ -69,10 +69,10 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2>CPYRR Compiler</h2>
     <p class="pdesc">
-    Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors, performing type checks
+    Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors, performing type checks and building the interpreter.
     <br><br>
-    <img src="../assets/img/projects/comp_1.PNG" height="150px">
-    <img src="../assets/img/projects/comp_2.PNG" height="150px">
+    <img src="../assets/img/projects/comp_1.PNG" height="300px">
+    <img src="../assets/img/projects/comp_2.PNG" height="100px">
     </p>
     </td>
 
@@ -90,7 +90,7 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2>Minecraft engine with OpenGL</h2>
     <p class="pdesc">
-    Minecraft clone built in two weeks in C++. Has an infinite world, custom chunk system, structure generation, block breaking/placing, a simple ambient occlusion system and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
+    Minecraft clone built in about two weeks in C++. Has an infinite world, custom chunk system, structure generation, block breaking/placing, a simple ambient occlusion system and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
     <br><br>
     <img src="../assets/img/kraf/house.gif" height="250px">
     <img src="../assets/img/kraf/dzer.PNG" height="250px">
@@ -168,6 +168,7 @@ If not specified, all music used in the mentioned games was made by me.
     <img src="../assets/img/projects/sv_3.png" height="230px">
     <img src="../assets/img/projects/sv_1.PNG" height="230px">
     </p>
+    </td>
 
 </tr>
 
