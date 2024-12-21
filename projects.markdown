@@ -117,7 +117,7 @@ If not specified, all music used in the mentioned games was made by me.
     <h2><span style="font-style: italic">Bonkers</span>: Musician social network
     </h2>
     <p class="pdesc">
-    Social network for meeting musicians and forming bands. A map can be used to look for people in your area, with filtering by instrument played. Users can upload tracks to show their demos. A MySQL database is used in back-end.
+    Social network for meeting musicians and forming bands. A Leaflet map can be used to look for people in your area, and filtering by instrument is also possible. Users can upload tracks to show their demos. A MySQL database is used in back-end.
     <br>Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
     <br><br>
     <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
@@ -141,7 +141,13 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2>Compression software</h2>
     <p class="pdesc">
-    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files into a custom archive and then decompress it.<br>Also studied the compression ratio by running tests over different file types.
+    Final project for an advanced C class. Based on Huffman-coding compression. Users can compress files or directories (recursively) into a custom file format archive and then decompress it.<br>Also studied the compression ratio by running tests over different file types.
+    
+    <br><br>
+    <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
+    <img src="../assets/img/projects/nul_1.png" height="195px">
+    <img src="../assets/img/projects/nul_2.png" height="195px">
+    <img src="../assets/img/projects/nul_3.png" height="195px">
     </p>
     </td>
 
@@ -161,7 +167,7 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2 style="font-style: italic">Svordakus Dual</h2>
     <p class="pdesc">
-    Two player sword fighting game for Android mobile devices, made in Unity.<br>
+    Two players sword fighting game for Android mobile devices, made in Unity.<br>
     Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with WebGL. Feedback obtained from playing with other people at university was useful for creating new updates.
     <br><br>
     <img src="../assets/img/projects/sv_2.png" height="230px">
@@ -174,8 +180,32 @@ If not specified, all music used in the mentioned games was made by me.
 
 <tr>
         <td class="date">
+    <span class="proDate">ongoing<br>―――――――<br>2023/01</span><hr>
+    <span class="tag-normal">Github</span><br>
+    <span class="tag-normal">HTML + CSS</span><br>
+    <span class="tag-normal">Python</span><br><hr>
+    <a class="proLink" href="https://aedorian.github.io/blug/">link</a>
+    
+    </td>
+    <td class="desc">
+    <h2 style="font-style: italic">Blug</h2>
+    <p class="pdesc">
+    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
+    <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
+    <br><br>
+    <img src="../assets/img/roome/t20.gif" height="270px">
+    <img src="../assets/img/roome/d13.png" height="270px">
+    <img src="../assets/img/prev/prev_graf.png" height="270px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
     <span class="proDate">2023/12</span><hr>
     <span class="tag-normal">C</span><br>
+    <span class="tag-normal">SDL</span><br>
     <span class="tag-school">university</span><hr>
     <a class="proLink" href="https://github.com/aedorian/proget">source</a>
     
@@ -209,29 +239,6 @@ If not specified, all music used in the mentioned games was made by me.
     <br><br>
     <img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">
-    </p>
-    </td>
-
-</tr>
-
-<tr>
-        <td class="date">
-    <span class="proDate">ongoing<br>―――――――<br>2023/01</span><hr>
-    <span class="tag-normal">Github</span><br>
-    <span class="tag-normal">HTML + CSS</span><br>
-    <span class="tag-normal">Python</span><br><hr>
-    <a class="proLink" href="https://aedorian.github.io/blug/">link</a>
-    
-    </td>
-    <td class="desc">
-    <h2 style="font-style: italic">Blug</h2>
-    <p class="pdesc">
-    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
-    <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
-    <br><br>
-    <img src="../assets/img/roome/t20.gif" height="270px">
-    <img src="../assets/img/roome/d13.png" height="270px">
-    <img src="../assets/img/prev/prev_graf.png" height="270px">
     </p>
     </td>
 
@@ -335,9 +342,9 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Scratch Games</h2>
+    <h2>Scratch games</h2>
     <p class="pdesc">
-    Before switching to the Unity game engine, I used to make games on Scratch. The leftmost one was made in one week-end for a game jam, the middle one is a <span style="font-style: italic">Splatoon</span> demake in 2D, and the last one was made in a week for the Game Boy Jam.
+    Before switching to the Unity game engine, I used to make games using Scratch. The leftmost one was made in one week-end for a game jam, the middle one is a <span style="font-style: italic">Splatoon</span> demake in 2D, and the last one was made in a week for the Game Boy Jam.
     <br><br>
     <img src="../assets/img/projects/sc_1.png" height="215px">
     <img src="../assets/img/projects/sc_3.png" height="215px">
