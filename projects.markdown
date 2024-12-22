@@ -67,12 +67,14 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>CPYRR Compiler</h2>
+    <h2>CPYRR compiler</h2>
     <p class="pdesc">
-    Compiler and virtual-machine for a custom C-like language. My part focused on building the grammar, handling errors, performing type checks and building the interpreter.
+    Compiler and virtual-machine for a custom C-like language.<br>My part focused on building the grammar in Yacc, handling errors (out of range array indices, wrong number of arguments in a function/procedure call, etc), performing type checks and building the interpreter.
     <br><br>
-    <img src="../assets/img/projects/comp_1.PNG" height="300px">
-    <img src="../assets/img/projects/comp_2.PNG" height="100px">
+    <img src="../assets/img/projects/comp_1.PNG" height="300px" style="float: left:">
+    <img src="../assets/img/projects/comp_2.PNG" height="100px" style="float: left:">
+    <img src="../assets/img/projects/comp7.PNG" height="100px" style="float: left:">
+    <img src="../assets/img/projects/comp5.PNG" height="100px" style="float: left:">
     </p>
     </td>
 
@@ -297,7 +299,7 @@ If not specified, all music used in the mentioned games was made by me.
     <span class="tag-normal">Blender</span><br>
     <span class="tag-normal">C#</span><br>
     <span class="tag-game-jam">game jam</span><hr>
-    <a class="proLink" href="">link</a>
+    <a class="proLink" href="https://zapdexio.itch.io/nuclear-platypus-adventure">link</a>
     
     </td>
     <td class="desc">
@@ -305,7 +307,9 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     2.5D platformer developed over a year in Unity.<br>Worked on the level design, modelled in 3D using Blender, programmed in C# and made most of the sound effects. I composed the 18 tracks of the <a href="https://open.spotify.com/intl-fr/album/2v49RnlihjF9vrXW7NxJm6?si=2S02OV76QV2dDskPdW3NQQ">soundtrack</a> using LMMS.
     <br><br>
-    <iframe width="600px" height="337px" src="https://www.youtube.com/embed/rwln1nmNoCA?si=GCUnu9UniG4R2V7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="600px" height="337px" src="https://www.youtube.com/embed/rwln1nmNoCA?si=GCUnu9UniG4R2V7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="float: left"></iframe>
+    <img src="../assets/img/projects/npa_1.png" height="168px" style="float: left:">
+    <img src="../assets/img/projects/npa_2.png" height="168px" style="float: left:">
     </p>
     </td>
 
