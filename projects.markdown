@@ -71,10 +71,10 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     Compiler and virtual-machine for a custom C-like language.<br>My part focused on building the grammar in Yacc, handling errors (out of range array indices, wrong number of arguments in a function/procedure call, etc), performing type checks and building the interpreter.
     <br><br>
-    <img src="../assets/img/projects/comp_1.PNG" height="300px" style="float: right:">
     <img src="../assets/img/projects/comp_2.PNG" height="100px" style="float: left:">
     <img src="../assets/img/projects/comp7.PNG" height="80px" style="float: left:">
     <img src="../assets/img/projects/comp_5.PNG" height="100px" style="float: left:">
+    <img src="../assets/img/projects/comp_1.PNG" height="300px" style="float: right:">
     </p>
     </td>
 
@@ -148,7 +148,7 @@ If not specified, all music used in the mentioned games was made by me.
     <br><br>
     <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
     <img src="../assets/img/projects/nul_1.png" height="195px">
-    <img src="../assets/img/projects/nul_2.png" height="195px">
+    <!--<img src="../assets/img/projects/nul_2.png" height="195px">-->
     <img src="../assets/img/projects/nul_3.png" height="195px">
     </p>
     </td>
