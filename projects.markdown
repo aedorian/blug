@@ -8,7 +8,7 @@ permalink: /projects/
 
 Archive of the projects I made that are worth talking about.
 
-Smaller projects are detailled in [the blug part](https://aedorian.github.io/blug/) of this website.
+Smaller projects are detailled in articles I have written in [the blug part](https://aedorian.github.io/blug/) of this website.
 
 If not specified, all music used in the mentioned games was made by me.
 
@@ -72,8 +72,8 @@ If not specified, all music used in the mentioned games was made by me.
     Compiler and virtual-machine for a custom C-like language.<br>My part focused on building the grammar in Yacc, handling errors (out of range array indices, wrong number of arguments in a function/procedure call, etc), performing type checks and building the interpreter.
     <br><br>
     <img src="../assets/img/projects/comp_2.PNG" height="100px" style="float: left:">
-    <img src="../assets/img/projects/comp7.PNG" height="80px" style="float: left:">
-    <img src="../assets/img/projects/comp_5.PNG" height="100px" style="float: left:">
+    <!--<img src="../assets/img/projects/comp7.PNG" height="80px" style="float: left:">
+    <img src="../assets/img/projects/comp_5.PNG" height="100px" style="float: left:">-->
     <img src="../assets/img/projects/comp_1.PNG" height="300px" style="float: right:">
     </p>
     </td>
