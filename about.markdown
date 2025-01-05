@@ -15,7 +15,7 @@ Trying to have a website with stuff in it
 
 <br>
 
-About me? Currently a third year computer science bachelor at UJM, France.
+About me? Currently a third year computer science bachelor studying abroad at NTNU, Trøndheim.
 
 Feel free to contact me on Discord if you have any questions about anything here (my tag is `adridrian_`).
 
