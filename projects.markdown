@@ -69,7 +69,7 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2>CPYRR compiler</h2>
     <p class="pdesc">
-    Compiler and virtual-machine for a custom C-like language.<br>My part focused on building the grammar in Yacc, handling errors (out of range array indices, wrong number of arguments in a function/procedure call, etc), performing type checks and building the interpreter.
+    Compiler and virtual-machine for a custom C-like language.<br>My part focused on building the grammar in Yacc, handling errors (out of range array indices, wrong number of arguments in a function/procedure call, etc), performing type checks, generating instruction trees and building the interpreter.
     <br><br>
     <img src="../assets/img/projects/comp_2.PNG" height="100px" style="float: left:">
     <!--<img src="../assets/img/projects/comp7.PNG" height="80px" style="float: left:">
