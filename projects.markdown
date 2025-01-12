@@ -12,7 +12,7 @@ Smaller projects are detailled in articles I have written in [the blug part](htt
 
 If not specified, all music used in the mentioned games was made by me.
 
-*Last update: december 2024*
+*Last update: january 2025*
 
 <table class="projects">
 
@@ -41,6 +41,7 @@ If not specified, all music used in the mentioned games was made by me.
         <td class="date">
     <span class="proDate">2024/12</span><hr>
     <span class="tag-normal">Java</span><br>
+    <span class="tag-normal">Swing</span><br>
     <span class="tag-school">university</span><hr>
     <a class="proLink" href="">source</a>
     
@@ -48,7 +49,7 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2>Wargame</h2>
     <p class="pdesc">
-    Final project for a Java course, developed with two other students. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, and making some of the artwork.
+    Final project for a Java course, developed with two other students. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, making the hex tiles artworks, and making the menus UI with Swing.
     <br><br>
     <!--<img src="../assets/img/projects/mf_1.png" height="250px">
     <img src="../assets/img/projects/mf_2.png" height="250px">-->
