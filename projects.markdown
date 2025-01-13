@@ -51,8 +51,8 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     Final project for a Java course, developed with two other students. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, making the hex tiles artworks, and making the menus UI with Swing.
     <br><br>
-    <img src="../assets/img/projects/wg1.PNG" height="230px">
-    <img src="../assets/img/projects/wg2.PNG" height="230px">
+    <img src="../assets/img/projects/wg1.png" height="250px">
+    <img src="../assets/img/projects/wg2.png" height="250px">
     </p>
     </td>
 
