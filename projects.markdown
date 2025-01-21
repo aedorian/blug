@@ -19,27 +19,6 @@ If not specified, all music used in the mentioned games was made by me.
 <tr>
         <td class="date">
     <span class="proDate">2024/12</span><hr>
-    <span class="tag-normal">C</span><br>
-    <span class="tag-normal">POSIX</span><br>
-    <span class="tag-school">university</span><hr>
-    <a class="proLink" href="">source</a>
-    
-    </td>
-    <td class="desc">
-    <h2>Multi-process system programming</h2>
-    <p class="pdesc">
-    Multi-process application in C, written in under 48h for the exam of a system programming course. Usage of semaphores, shared memory segments and message queues.
-    <br><br>
-    <img src="../assets/img/projects/ps_1.PNG" height="300px">
-    <!--<img src="../assets/img/projects/ps_2.PNG" height="150px">-->
-    </p>
-    </td>
-
-</tr>
-
-<tr>
-        <td class="date">
-    <span class="proDate">2024/12</span><hr>
     <span class="tag-normal">Java</span><br>
     <span class="tag-normal">Swing</span><br>
     <span class="tag-school">university</span><hr>
@@ -53,6 +32,27 @@ If not specified, all music used in the mentioned games was made by me.
     <br><br>
     <img src="../assets/img/projects/wg1.png" height="300px">
     <img src="../assets/img/projects/wg2.png" height="300px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
+    <span class="proDate">2024/12</span><hr>
+    <span class="tag-normal">C</span><br>
+    <span class="tag-normal">POSIX</span><br>
+    <span class="tag-school">university</span><hr>
+    <a class="proLink" href="">source</a>
+    
+    </td>
+    <td class="desc">
+    <h2>Multi-process system programming</h2>
+    <p class="pdesc">
+    Multi-process application in C, written in under 48h for the exam of a system programming course. Usage of semaphores, shared memory segments and message queues.
+    <br><br>
+    <img src="../assets/img/projects/ps_1.PNG" height="300px">
+    <!--<img src="../assets/img/projects/ps_2.PNG" height="150px">-->
     </p>
     </td>
 
