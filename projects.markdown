@@ -51,8 +51,8 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     Final project for a Java course, developed with two other students. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, making the hex tiles artworks, and making the menus UI with Swing.
     <br><br>
-    <img src="../assets/img/projects/wg1.png" height="250px">
-    <img src="../assets/img/projects/wg2.png" height="250px">
+    <img src="../assets/img/projects/wg1.png" height="300px">
+    <img src="../assets/img/projects/wg2.png" height="300px">
     </p>
     </td>
 
@@ -343,7 +343,7 @@ If not specified, all music used in the mentioned games was made by me.
     <span class="tag-normal">Scratch</span><br>
     <span class="tag-game-jam">game jam</span><hr>
     <a class="proLink" href="">left one</a><br>
-    <a class="proLink" href="">right two</a>
+    <a class="proLink" href="">right one</a>
     
     </td>
     <td class="desc">
