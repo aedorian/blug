@@ -1,7 +1,7 @@
 html { height: 100%; }
 
 body {
-  color: black;
+  color: whitesmoke;
   font-family: monospace;
   font-size: 16px;
   line-height: 1.4;
@@ -58,7 +58,7 @@ table.navLinks {
     padding:0.4rem;
   }
 
-  table.ownTable th, table.ownTable td {  border: 1px solid gray; text-align: center; font-weight: normal;}
+  table.ownTable th, table.ownTable td {  border: 1px solid #A0A0A0; text-align: center; font-weight: normal;}
 
 /*
 table {
@@ -87,7 +87,7 @@ div.highlighter-rouge code {
 
 blockquote {
   font-style: italic;
-  border: thin solid black;
+  border: thin solid whitesmoke;
   padding: 1rem;
 
   p { margin: 0; }
@@ -113,14 +113,14 @@ figure {
 }
 
 code {
-    color:whitesmoke;
-    background:#333660; /* #993639 */
+    color:black;
+    background:#e2cab2; /* #993639 */
 }
 
 .highlight code {
     font-size: 10.5pt;
-    color:whitesmoke;
-    background: #0c0e0e;
+    color:black;
+    background: #ECECEC;
     border: 1px solid #aaaaaa
 }
 
@@ -130,12 +130,12 @@ img {
 }
 
 figure {
-    color: gray;
+    color: #A0A0A0;
     font-style: italic;
     margin: 0;
 }
 
-html, body { background: #1f1f1f; color: whitesmoke; } /* #191919 */
+html, body { background: #E0E0E0; color: #101010; } /* #191919 */
 
 .tleft {
     float:left;
@@ -153,30 +153,30 @@ html, body { background: #1f1f1f; color: whitesmoke; } /* #191919 */
 .postbox {
   overflow: auto;
   border-style:solid;
-  border:1px solid whitesmoke;
+  border:1px solid #101010;
   margin-bottom: 20px;
-  background: #0c0e0e;
+  background: #E0E0E0;
 }
 
 .postbox img {
-    border:1px solid whitesmoke;
+    border:1px solid #101010;
   height: 120px;
 }
 
 a:visited, td.sep {
-  color:#5caeb3
+  color:#a3514c
 }
 
 figure img {
-  border: thin solid gray;
+  border: thin solid whitesmoke;
 }
 
 .sideside img {
-    border: thin solid gray;
+    border: thin solid whitesmoke;
 }
 
 a:link {
-    color: #5caeb3
+    color: #a3514c;
 }
 
 .sideside {
@@ -200,7 +200,7 @@ table.projects hr {
   }
 
 .proDate {
-    color: gray;
+    color: #A0A0A0;
     font-weight: bold;
     font-size: 20px;
 }
@@ -210,24 +210,28 @@ table.projects hr {
     border-radius: 3px;
     background: rgb(20, 177, 33);
     font-size: 12px;
+    color: whitesmoke;
 }
 .tag-game {
     padding: .1em .3em .2em;
     border-radius: 3px;
     background: rgb(0, 47, 255);
     font-size: 12px;
+    color: whitesmoke;
 }
 .tag-game-jam {
     padding: .1em .3em .2em;
     border-radius: 3px;
     background: red;
     font-size: 12px;
+    color: whitesmoke;
 }
 .tag-normal {
     padding: .1em .3em .2em;
     border-radius: 3px;
     background: rgb(83, 83, 83);
     font-size: 12px;
+    color: whitesmoke;
 }
 
 .date {
@@ -247,7 +251,7 @@ table.projects hr {
 }
 
 td {
-    border-top: 1px dashed whitesmoke;
+    border-top: 1px dashed black;
     padding-bottom: 30px;
 }
 
@@ -303,7 +307,7 @@ td {
   }
 
   #load-message {
-    color: grey;
+    color: black;
     position:fixed;
     right:30px;
     top:30px;
