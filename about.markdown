@@ -32,3 +32,17 @@ Feel free to contact me on Discord if you have any questions about anything here
 <br><br><br><br><br><br><br>
 
 <!--<img src="./assets/img/common/Mariodance.webp" style="height:35px; image-rendering: pixelated">-->
+
+<!--
+where?
+
+angelakj neocities
+blug github
+insta
+itch.io avant
+itch.io
+soundcloud: akj avant, akj dump actuel
+notion
+bloc notes
+sublime text
+-->
