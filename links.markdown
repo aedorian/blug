@@ -17,6 +17,7 @@ Very long bulleted list of web resources that are either super useful or super i
     * [Learn OpenGL](https://learnopengl.com/) - complete OpenGL tutorials from the start
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - free online book on deep learning (+ [notebooks](https://github.com/udlbook/udlbook/tree/main/Notebooks))
     * [Michael Nielsen's Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - free online book on NN and DL
+    * [Inigo Quilez](https://iquilezles.org/) - articles on computer graphics (good reference)
     * [Scratchapixel](https://www.scratchapixel.com/) - computer graphics for beginners to advanced
     * [Lazy Foo's Productions](https://lazyfoo.net/tutorials/SDL/index.php) - SDL tutorials
     * [The Book of Shaders](https://thebookofshaders.com/) - about GLSL fragment shaders
