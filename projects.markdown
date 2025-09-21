@@ -286,8 +286,8 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2>Multiple Unity jam games</h2>
     <p class="pdesc">
-    Participated in game jams using the Unity engine. <span style="font-style: italic">Neon Lines</span> (upper one) is a top-down shooter where ammo is also health, so the player has to be careful when to shoot.
-    <br><span style="font-style: italic">Forsaken Feelings</span> (lower one) is a platformer with interconnected areas that can be explored as the player unlocks new abilities.
+    Participated in game jams using the Unity engine. <span style="font-style: italic">Neon Lines</span> (top one) is a top-down shooter where ammo is also health, so the player has to be careful when to shoot.
+    <br><span style="font-style: italic">Forsaken Feelings</span> (bottom one) is a platformer with interconnected areas that can be explored as the player unlocks new abilities.
     <br><br>
     <img src="../assets/img/projects/gj_1.png" height="240px">
     <img src="../assets/img/projects/gj_4.png" height="240px">
