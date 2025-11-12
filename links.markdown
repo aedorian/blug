@@ -68,6 +68,12 @@ Very long bulleted list of web resources that are either super useful or super i
         * [Norwegian on the Web 1](https://www.ntnu.edu/web/now/1/ken) - norwegian beginner course by NTNU  
     * youtube channels
         * [Learn Norwegian Naturally](https://www.youtube.com/@LearnNorwegianNaturally/) - norwegian speaking, lessons and vocabulary
+* polish
+    * resources
+        * [Exploring Polski - Guide to Przypadki](https://www.exploringpolski.com/post/a-guide-to-polish-cases) - short article on grammatical cases
+        * [Diki](https://www.diki.pl/) - english dictionary
+        * [Glossa](https://slownik.e-polish.eu/) - shows conjugations and nouns declension
+        * [Reading A-Z](https://www.readinga-z.com/worldlanguages/polish/books-by-grade-level/) - books by grade/level (14 days free trial)
 
 ---
 
@@ -78,6 +84,8 @@ Very long bulleted list of web resources that are either super useful or super i
    * [BFXR](https://www.bfxr.net/) - retro sound effects generator (good for games)
 * miscelleanous
    * [FMHY.net](https://fmhy.net/) - free stuff on the internet
+   * [The Creative Independent](https://thecreativeindependent.com/)
+   * [Minecraft Earth Map](https://earth.motfe.net/)
     
 <!-- https://dollmaker.nunodoll.com/plushie/ -->
 
