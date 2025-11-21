@@ -16,8 +16,8 @@ If not specified, all music used in the mentioned games was made by me.
 
 <!--ANIMAL GAME-->
 <!--NOTBOOK (convert text to html file)-->
-<!--clouds project-->
-<!--cvdl project-->
+<!--clouds project opengl ntnu-->
+<!--cvdl project ia-->
 
 <table class="projects">
 
