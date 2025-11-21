@@ -82,6 +82,9 @@ Very long bulleted list of web resources that are either super useful or super i
 * audio
    * [LMMS](https://lmms.io/) - open source, multi-platform DAW
    * [BFXR](https://www.bfxr.net/) - retro sound effects generator (good for games)
+* software and apps i use
+   * [Obsidian](https://obsidian.md/) - better than Notion
+   * [Photopea](https://www.photopea.com/) - free browser alternative to Photoshop
 * miscelleanous
    * [FMHY.net](https://fmhy.net/) - free stuff on the internet
    * [The Creative Independent](https://thecreativeindependent.com/)
