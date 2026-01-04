@@ -52,6 +52,8 @@ Very long bulleted list of web resources that are either super useful or super i
 
 ### language learning
 
+* [Langfocus](https://www.youtube.com/@Langfocus) - good introduction to a language
+
 * japanese
     * resources
         * [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) - dictionnary
