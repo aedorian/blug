@@ -52,8 +52,6 @@ Very long bulleted list of web resources that are either super useful or super i
 
 ### language learning
 
-* [Langfocus](https://www.youtube.com/@Langfocus) - good introduction to a language
-
 * japanese
     * resources
         * [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) - dictionary
@@ -76,6 +74,9 @@ Very long bulleted list of web resources that are either super useful or super i
         * [Diki](https://www.diki.pl/) - english dictionary
         * [Glossa](https://slownik.e-polish.eu/) - shows conjugations and nouns declension
         * [Reading A-Z](https://www.readinga-z.com/worldlanguages/polish/books-by-grade-level/) - books by grade/level (14 days free trial)
+
+* miscelleanous
+   * [Langfocus](https://www.youtube.com/@Langfocus) - good introduction to a language
 
 ---
 
