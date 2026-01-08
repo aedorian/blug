@@ -12,14 +12,94 @@ Smaller projects are detailled in articles I have written in [the blug part](htt
 
 If not specified, all music used in the mentioned games was made by me.
 
-*Last update: january 2025*
-
-<!--ANIMAL GAME-->
-<!--NOTBOOK (convert text to html file)-->
-<!--clouds project opengl ntnu-->
-<!--cvdl project ia-->
+*Last update: january 2026*
 
 <table class="projects">
+
+<tr>
+        <td class="date">
+    <span class="proDate">ongoing<br>―――――――<br>2025/08</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Photon Fusion</span><br>
+    <span class="tag-normal">Blender</span><br>
+    <span class="tag-normal">Magica Voxel</span><br>
+    <span class="tag-game">game</span><hr>
+    <a class="proLink" href="">source</a>
+    
+    </td>
+    <td class="desc">
+    <h2>Animal Battletowers</h2>
+    <p class="pdesc">
+    Multiplayer game prototype using the Photon Fusion SDK in Unity (client/host topology). Synchronization of players' transform, weapon, armor. Procedurally generated tower maps using presets made in Magica Voxel. Modeling of game elements in Blender.
+    <br><br>
+    <img src="../assets/img/projects/wg1.png" height="300px">
+    <img src="../assets/img/projects/wg2.png" height="300px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
+    <span class="proDate">2025/04</span><hr>
+    <span class="tag-normal">Jupyter Notebook</span><br>
+    <span class="tag-normal">Python</span><br>
+    <span class="tag-normal">MONAI</span><br>
+    <span class="tag-school">university</span><hr>
+    <a class="proLink" href="">source</a>
+    
+    </td>
+    <td class="desc">
+    <h2>Brain and neck tumor segmentation (HNTS-MRG)</h2>
+    <p class="pdesc">
+    Final project of the TDT4265 course at NTNU. Segmentation of brain and neck tumors using the MONAI framework. Fine-tuning of the model, study of the problems.
+    <br><br>
+    <img src="../assets/img/projects/wg1.png" height="300px">
+    <img src="../assets/img/projects/wg2.png" height="300px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
+    <span class="proDate">2025/04</span><hr>
+    <span class="tag-normal">C++</span><br>
+    <span class="tag-normal">OpenGL</span><br>
+    <span class="tag-school">university</span><hr>
+    <a class="proLink" href="">source</a>
+    
+    </td>
+    <td class="desc">
+    <h2>Raymarched cloud rendering</h2>
+    <p class="pdesc">
+    Final project of the TDT4230 course at NTNU.
+    <br><br>
+    <img src="../assets/img/projects/wg1.png" height="300px">
+    <img src="../assets/img/projects/wg2.png" height="300px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
+    <span class="proDate">ongoing<br>―――――――<br>2025/03</span><hr>
+    <span class="tag-normal">Python</span><br>
+    <span class="tag-normal">HTML/CSS/JS</span><br>
+    
+    </td>
+    <td class="desc">
+    <h2>Notbook</h2>
+    <p class="pdesc">
+    Program for better reading of my personal journal. Since everything is in the same text file, I can parse its contents and generate a web page. Features include: calendars for jumping to different journal entries, multiple views for faster search (emphasizing either date or topics), a personal habit tracker that reads into Obsidian Markdown files.
+    <br><br>
+    <img src="../assets/img/projects/wg1.png" height="300px">
+    <img src="../assets/img/projects/wg2.png" height="300px">
+    </p>
+    </td>
+
+</tr>
 
 <tr>
         <td class="date">
