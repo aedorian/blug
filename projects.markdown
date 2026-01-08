@@ -33,7 +33,7 @@ eye tracking thing
     <td class="desc">
     <h2>Path planning for robot navigation</h2>
     <p class="pdesc">
-    Final project for the <i>Robotics & XR</i> course at UEF, with two other students. ROS2 package implementating the A* algorithm for the navigation of an Andino robot. Usage of the ROS2 Nav2 framework for calculating robot odometry. Visualization in Gazebo.
+    Final project for the <i>Robotics & XR</i> course at UEF, with two other students. <mark>ROS2</mark> package implementing the <mark>A* algorithm</mark> for the navigation of an Andino robot. Usage of the ROS2 <mark>Nav2 framework</mark> for calculating robot odometry. Visualization in <mark>Gazebo</mark>.
     <br><br>
     <img src="../assets/img/projects/gz1.png" height="280px">
     <img src="../assets/img/projects/gz2.png" height="280px">
@@ -55,7 +55,7 @@ eye tracking thing
     <td class="desc">
     <h2>Advanced spectral imaging</h2>
     <p class="pdesc">
-    Projects for a spectral imaging course at UEF. Spectral images taken using Specim IQ cameras and a scanner, then stored as ENVI. White/dark correction using reference white/dark samples, or white samples that are inside the image. Study of the different spectrum. Segmentation of objects based on their infrared spectra (band-based condition). Tunable and Nuance image formats were also used.
+    Projects for a spectral imaging course at UEF. Spectral images taken using <mark>Specim IQ</mark> cameras and a scanner, then stored as <mark>ENVI</mark>. <mark>White/dark correction</mark> using reference white/dark samples, or white samples that are inside the image. Study of the different spectrum. <mark>Segmentation of objects</mark> based on their infrared spectra (band-based condition). <mark>Tunable</mark> and <mark>Nuance</mark> image formats were also used.
     <br><br>
     <img src="../assets/img/projects/sim1.png" height="300px">
     <img src="../assets/img/projects/sim2.png" height="300px">
@@ -79,7 +79,7 @@ eye tracking thing
     <td class="desc">
     <h2><i>Animal Battletowers</i></h2>
     <p class="pdesc">
-    Multiplayer game prototype using the Photon Fusion SDK in Unity (client/host topology). Synchronization of up to 4 players' transform, weapon, armor. Object pooling for bullets. Procedurally generated tower maps using presets made in Magica Voxel. Modeling of game elements in Blender. Low-resolution pixelated rendering.
+    Multiplayer game prototype using the <mark>Photon Fusion</mark> SDK in Unity (client/host topology). Synchronization of up to 4 players' transform, weapon, armor. <mark>Object pooling</mark> for bullets. Procedurally generated tower maps using presets made in <mark>Magica Voxel</mark>. Modeling of game elements in Blender. Low-resolution pixelated rendering.
     <br><br>
     <img src="../assets/img/projects/g1.png" height="300px">
     <img src="../assets/img/projects/g2.png" height="300px">
@@ -114,7 +114,7 @@ eye tracking thing
     <td class="desc">
     <h2>Head and neck tumor segmentation (HNTS-MRG)</h2>
     <p class="pdesc">
-    Final project of the <i>Computer Vision and Deep Learning</i> course at NTNU. Segmentation of head and neck tumors in MRI scans using the MONAI framework. Fine-tuning of the UNet model: dataset analysis, data augmentation, testing different loss functions, cross-validation, calculation and study of metrics, optimization with a learning rate scheduler.
+    Final project of the <i>Computer Vision and Deep Learning</i> course at NTNU. Segmentation of head and neck tumors in MRI scans using the <mark>MONAI framework</mark>. Fine-tuning of the <mark>UNet model</mark>: dataset analysis, <mark>data augmentation</mark>, testing different loss functions, <mark>cross-validation</mark>, calculation and study of metrics, <mark>optimization</mark> with a learning rate scheduler.
     <br><br>
     <img src="../assets/img/projects/seg.png" height="255px">
     </p>
@@ -135,7 +135,7 @@ eye tracking thing
     <td class="desc">
     <h2>Raymarched cloud rendering</h2>
     <p class="pdesc">
-    Final project of the <i>Graphics & Visualization</i> course at NTNU. Cloud density sampled using Perlin and Worley noise. Light scattering based on sun position. Rayleigh/Mie scattering for sky color. Bloom post processing effect using a different color buffer. Optimization techniques: rendering the scene at a lower resolution (x0.25), noisy raymarching step sizes, precomputing noises in textures. ImGui parameter window.
+    Final project of the <i>Graphics & Visualization</i> course at NTNU. Cloud density sampled using <mark>Perlin and Worley</mark> noise. <mark>Light scattering</mark> based on sun position. <mark>Rayleigh/Mie scattering</mark> for sky color. <mark>Bloom post processing effect</mark> using a different color buffer. Optimization techniques: rendering the scene at a lower resolution (x0.25), noisy raymarching step sizes, precomputing noises in textures. <mark>ImGui</mark> parameter window.
     <br><br>
     <img src="../assets/img/projects/sky1.png" height="280px">
     <img src="../assets/img/projects/sky2.png" height="280px">
@@ -156,7 +156,7 @@ eye tracking thing
     <td class="desc">
     <h2>Notbook</h2>
     <p class="pdesc">
-    Program for better reading of my personal journal. Since everything is in the same text file, I can parse its contents and generate a web page. Features include: calendars for jumping to different journal entries, multiple views for faster search (emphasizing either date or topics), a personal habit tracker that reads into Obsidian Markdown files, automatic section highlighting.
+    Program for better reading of my personal journal. Since everything is in the same text file, I can parse its contents and <mark>generate a web page</mark>. Features include: <mark>calendars</mark> for jumping to different journal entries, <mark>multiple views</mark> for faster search (emphasizing either date or topics), a personal <mark>habit tracker</mark> that reads into Obsidian Markdown files, automatic section highlighting.
     <br><br>
     <img src="../assets/img/projects/cal1.png" height="405px">
     <img src="../assets/img/projects/cal4.png" height="405px">
@@ -343,13 +343,13 @@ eye tracking thing
     <h2 style="font-style: italic">Blug</h2>
     <p class="pdesc">
     The website you are on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
-    <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
+    <br>Some of my favorite articles include: <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> - <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a> - <a href="https://aedorian.github.io/blug/_posts/2024-07-18-planet.html">planet generation in OpenGL</a> - <a href="https://aedorian.github.io/blug/_posts/2024-07-18-curve.html">Sonic rail grinding mechanic in Unity</a>.
     <br><br>
     <img src="../assets/img/roome/t20.gif" height="270px">
     <img src="../assets/img/roome/d13.png" height="270px">
     <img src="../assets/img/prev/prev_graf.png" height="270px">
-    <img src="../assets/img/planet/planet4.PNG" height="270px">
-    <img src="../assets/img/curve/action.gif" height="270px">
+    <img src="../assets/img/curve/action.gif" height="300px">
+    <img src="../assets/img/planet/planet4.PNG" height="300px">
     </p>
     </td>
 
