@@ -48,7 +48,7 @@ eye tracking thing
     <span class="tag-normal">Jupyter NB</span><br>
     <span class="tag-normal">Numpy</span><br>
     <span class="tag-normal">Matplotlib</span><br>
-    <span class="tag-game">university</span><hr>
+    <span class="tag-school">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
