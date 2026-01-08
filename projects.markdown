@@ -57,8 +57,8 @@ eye tracking thing
     <p class="pdesc">
     Projects for a spectral imaging course at UEF. Spectral images taken using <mark>Specim IQ</mark> cameras and a scanner, then stored as <mark>ENVI</mark>. <mark>White/dark correction</mark> using reference white/dark samples, or white samples that are inside the image. Study of the different spectrum. <mark>Segmentation of objects</mark> based on their infrared spectra (band-based condition). <mark>Tunable</mark> and <mark>Nuance</mark> image formats were also used.
     <br><br>
-    <img src="../assets/img/projects/sim1.png" height="300px">
-    <img src="../assets/img/projects/sim2.png" height="300px">
+    <img src="../assets/img/projects/sim1.png" height="280px">
+    <img src="../assets/img/projects/sim2.png" height="280px">
     <img src="../assets/img/projects/1im1.png" height="300px">
     </p>
     </td>
