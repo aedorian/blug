@@ -1,4 +1,4 @@
----
+<img width="635" height="610" alt="image" src="https://github.com/user-attachments/assets/d274e4a5-f26b-45fa-a1e3-9f5ee562c7d3" />---
 layout: projects
 style: " large"
 permalink: /projects/
@@ -14,26 +14,54 @@ If not specified, all music used in the mentioned games was made by me.
 
 *Last update: january 2026*
 
+<!--
+ros2 navigation
+eye tracking thing
+spectral imaging
+-->
+
 <table class="projects">
 
 <tr>
         <td class="date">
-    <span class="proDate">ongoing<br>―――――――<br>2025/08</span><hr>
-    <span class="tag-normal">Unity</span><br>
-    <span class="tag-normal">Photon Fusion</span><br>
-    <span class="tag-normal">Blender</span><br>
-    <span class="tag-normal">Magica Voxel</span><br>
-    <span class="tag-game">game</span><hr>
+    <span class="proDate">2025/12</span><hr>
+    <span class="tag-normal">ROS2</span><br>
+    <span class="tag-normal">Python</span><br>
+    <span class="tag-normal">Docker</span><br>
+    <span class="tag-game">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
     <td class="desc">
-    <h2>Animal Battletowers</h2>
+    <h2>Path planning for robot navigation</h2>
     <p class="pdesc">
-    Multiplayer game prototype using the Photon Fusion SDK in Unity (client/host topology). Synchronization of players' transform, weapon, armor. Procedurally generated tower maps using presets made in Magica Voxel. Modeling of game elements in Blender.
+    Final project for the Robotics & XR course at UEF, with two other students. ROS2 package implementating the A* algorithm for the navigation of an Andino robot. Usage of the ROS2 Nav2 framework for calculating robot odometry.
     <br><br>
-    <img src="../assets/img/projects/wg1.png" height="300px">
-    <img src="../assets/img/projects/wg2.png" height="300px">
+    <img src="../assets/img/projects/sim1.png" height="300px">
+    <img src="../assets/img/projects/1im1.png" height="300px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
+    <span class="proDate">2025/12</span><hr>
+    <span class="tag-normal">Jupyter NB</span><br>
+    <span class="tag-normal">Numpy</span><br>
+    <span class="tag-normal">Matplotlib</span><br>
+    <span class="tag-game">university</span><hr>
+    <a class="proLink" href="">source</a>
+    
+    </td>
+    <td class="desc">
+    <h2>Advanced spectral imaging</h2>
+    <p class="pdesc">
+    Projects for a spectral imaging course at UEF. Spectral images taken using Specim IQ cameras and a scanner, then stored as ENVI. White/dark correction using reference white/dark samples, or white samples that are inside the image. Study of the different spectrum. Segmentation of objects based on their infrared spectra (band-based condition). Tunable and Nuance image formats were also used.
+    <br><br>
+    <img src="../assets/img/projects/sim1.png" height="300px">
+    <img src="../assets/img/projects/1im1.png" height="300px">
+    <img src="../assets/img/projects/sim2.png" height="300px">
     </p>
     </td>
 
@@ -42,7 +70,7 @@ If not specified, all music used in the mentioned games was made by me.
 <tr>
         <td class="date">
     <span class="proDate">2025/04</span><hr>
-    <span class="tag-normal">Jupyter Notebook</span><br>
+    <span class="tag-normal">Jupyter NB</span><br>
     <span class="tag-normal">Python</span><br>
     <span class="tag-normal">MONAI</span><br>
     <span class="tag-school">university</span><hr>
@@ -278,7 +306,7 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2 style="font-style: italic">Blug</h2>
     <p class="pdesc">
-    The website you're on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
+    The website you are on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
     <br>Some of my favorite articles include <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> and <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a>.
     <br><br>
     <img src="../assets/img/roome/t20.gif" height="270px">
@@ -301,7 +329,7 @@ If not specified, all music used in the mentioned games was made by me.
     <td class="desc">
     <h2>Shoot Em Up</h2>
     <p class="pdesc">
-    Kind of a Touhou clone that can also be played by two players. I built a custom ECS-like engine (in C, so without classes) capable of handling the players, enemies and bullets in real time. <br>Also created a scriptable wave system to make development and testing easier. It has customisable enemy movement and multiple bullet types and patterns to choose from.
+    Touhou clone that can also be played by two players. I built a custom ECS-like engine (in C, so without classes) capable of handling the players, enemies and bullets in real time. <br>Also created a scriptable wave system to make development and testing easier. It has customisable enemy movement and multiple bullet types and patterns to choose from.
     <br><br>
     <img src="../assets/img/projects/sh_1.png" height="275px">
     <img src="../assets/img/projects/sh_2.png" height="275px">
