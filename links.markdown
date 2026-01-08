@@ -88,6 +88,7 @@ Very long bulleted list of web resources that are either super useful or super i
 * software and apps i use
    * [Obsidian](https://obsidian.md/) - better than Notion
    * [Photopea](https://www.photopea.com/) - free browser alternative to Photoshop
+   * [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - video editor
 * miscelleanous
    * [FMHY.net](https://fmhy.net/) - free stuff on the internet
    * [The Creative Independent](https://thecreativeindependent.com/)
