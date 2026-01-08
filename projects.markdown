@@ -15,9 +15,7 @@ If not specified, all music used in the mentioned games was made by me.
 *Last update: january 2026*
 
 <!--
-ros2 navigation
 eye tracking thing
-spectral imaging
 -->
 
 <table class="projects">
@@ -35,10 +33,10 @@ spectral imaging
     <td class="desc">
     <h2>Path planning for robot navigation</h2>
     <p class="pdesc">
-    Final project for the Robotics & XR course at UEF, with two other students. ROS2 package implementating the A* algorithm for the navigation of an Andino robot. Usage of the ROS2 Nav2 framework for calculating robot odometry. Visualization in Gazebo.
+    Final project for the <i>Robotics & XR</i> course at UEF, with two other students. ROS2 package implementating the A* algorithm for the navigation of an Andino robot. Usage of the ROS2 Nav2 framework for calculating robot odometry. Visualization in Gazebo.
     <br><br>
-    <img src="../assets/img/projects/sim1.png" height="300px">
-    <img src="../assets/img/projects/1im1.png" height="300px">
+    <img src="../assets/img/projects/gz1.png" height="300px">
+    <img src="../assets/img/projects/gz2.png" height="300px">
     </p>
     </td>
 
@@ -60,30 +58,61 @@ spectral imaging
     Projects for a spectral imaging course at UEF. Spectral images taken using Specim IQ cameras and a scanner, then stored as ENVI. White/dark correction using reference white/dark samples, or white samples that are inside the image. Study of the different spectrum. Segmentation of objects based on their infrared spectra (band-based condition). Tunable and Nuance image formats were also used.
     <br><br>
     <img src="../assets/img/projects/sim1.png" height="300px">
-    <img src="../assets/img/projects/1im1.png" height="300px">
     <img src="../assets/img/projects/sim2.png" height="300px">
+    <img src="../assets/img/projects/1im1.png" height="300px">
     </p>
     </td>
 
 </tr>
 
 <tr>
+    <td class="date">
+    <span class="proDate">ongoing<br>―――――――<br>2025/08</span><hr>
+    <span class="tag-normal">Unity</span><br>
+    <span class="tag-normal">Photon Fusion</span><br>
+    <span class="tag-normal">Blender</span><br>
+    <span class="tag-normal">Magica Voxel</span><br>
+    <span class="tag-game">game</span><hr>
+    
+    <a class="proLink" href="">source</a>
+    </td>
+    <td class="desc">
+    <h2><i>Animal Battletowers</i></h2>
+    <p class="pdesc">
+    Multiplayer game prototype using the Photon Fusion SDK in Unity (client/host topology). Synchronization of up to 4 players' transform, weapon, armor. Object pooling for bullets. Procedurally generated tower maps using presets made in Magica Voxel. Modeling of game elements in Blender. Low-resolution pixelated rendering.
+    <br><br>
+    <img src="../assets/img/projects/g1.png" height="300px">
+    <img src="../assets/img/projects/g2.png" height="300px">
+        <img src="../assets/img/projects/g3.png" height="300px">
+    <img src="../assets/img/projects/g4.png" height="300px">
+        <img src="../assets/img/projects/g9.png" height="300px">
+    <img src="../assets/img/projects/g7.png" height="300px">
+        <img src="../assets/img/projects/g10.png" height="300px">
+    <img src="../assets/img/projects/g11.png" height="300px">
+        <img src="../assets/img/projects/g12.png" height="300px">
+    <img src="../assets/img/projects/g23.png" height="300px">
+        <img src="../assets/img/projects/g21.png" height="300px">
+    <img src="../assets/img/projects/g22.png" height="300px">
+    </p>
+    </td>
+</tr>
+
+<tr>
         <td class="date">
     <span class="proDate">2025/04</span><hr>
     <span class="tag-normal">Jupyter NB</span><br>
-    <span class="tag-normal">Python</span><br>
+    <span class="tag-normal">PyTorch</span><br>
     <span class="tag-normal">MONAI</span><br>
     <span class="tag-school">university</span><hr>
     <a class="proLink" href="">source</a>
     
     </td>
     <td class="desc">
-    <h2>Brain and neck tumor segmentation (HNTS-MRG)</h2>
+    <h2>Head and neck tumor segmentation (HNTS-MRG)</h2>
     <p class="pdesc">
-    Final project of the TDT4265 course at NTNU. Segmentation of brain and neck tumors using the MONAI framework. Fine-tuning of the model, study of the problems.
+    Final project of the <i>Computer Vision and Deep Learning</i> course at NTNU. Segmentation of head and neck tumors in MRI scans using the MONAI framework. Fine-tuning of the UNet model: dataset analysis, data augmentation, testing different loss functions, cross-validation, calculation and study of metrics, optimization with a learning rate scheduler.
     <br><br>
-    <img src="../assets/img/projects/wg1.png" height="300px">
-    <img src="../assets/img/projects/wg2.png" height="300px">
+    <img src="../assets/img/projects/seg.png" height="300px">
     </p>
     </td>
 
@@ -94,17 +123,20 @@ spectral imaging
     <span class="proDate">2025/04</span><hr>
     <span class="tag-normal">C++</span><br>
     <span class="tag-normal">OpenGL</span><br>
+    <span class="tag-normal">ImGui</span><br>
     <span class="tag-school">university</span><hr>
-    <a class="proLink" href="">source</a>
+    <a class="proLink" href="">report</a>
     
     </td>
     <td class="desc">
     <h2>Raymarched cloud rendering</h2>
     <p class="pdesc">
-    Final project of the TDT4230 course at NTNU.
+    Final project of the <i>Graphics & Visualization</i> course at NTNU. Cloud density sampled using Perlin and Worley noise. Light scattering based on sun position. Rayleigh/Mie scattering for sky color. Bloom post processing effect using a different color buffer. Optimization techniques: rendering the scene at a lower resolution (x0.25), noisy raymarching step sizes, precomputing noises in textures. ImGui parameter window.
     <br><br>
-    <img src="../assets/img/projects/wg1.png" height="300px">
-    <img src="../assets/img/projects/wg2.png" height="300px">
+    <img src="../assets/img/projects/sky1.png" height="300px">
+    <img src="../assets/img/projects/sky2.png" height="300px">
+    <img src="../assets/img/projects/sky3.png" height="300px">
+    <img src="../assets/img/projects/sky4.png" height="300px">
     </p>
     </td>
 
@@ -120,10 +152,13 @@ spectral imaging
     <td class="desc">
     <h2>Notbook</h2>
     <p class="pdesc">
-    Program for better reading of my personal journal. Since everything is in the same text file, I can parse its contents and generate a web page. Features include: calendars for jumping to different journal entries, multiple views for faster search (emphasizing either date or topics), a personal habit tracker that reads into Obsidian Markdown files.
+    Program for better reading of my personal journal. Since everything is in the same text file, I can parse its contents and generate a web page. Features include: calendars for jumping to different journal entries, multiple views for faster search (emphasizing either date or topics), a personal habit tracker that reads into Obsidian Markdown files, automatic section highlighting.
     <br><br>
-    <img src="../assets/img/projects/wg1.png" height="300px">
-    <img src="../assets/img/projects/wg2.png" height="300px">
+    <img src="../assets/img/projects/cal1.png" height="300px">
+    <img src="../assets/img/projects/cal2.png" height="300px">
+    <img src="../assets/img/projects/cal3.png" height="300px">
+    <img src="../assets/img/projects/cal4.png" height="300px">
+    <img src="../assets/img/projects/cal5.png" height="300px">
     </p>
     </td>
 
