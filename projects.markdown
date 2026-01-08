@@ -1,4 +1,4 @@
-<img width="635" height="610" alt="image" src="https://github.com/user-attachments/assets/d274e4a5-f26b-45fa-a1e3-9f5ee562c7d3" />---
+---
 layout: projects
 style: " large"
 permalink: /projects/
@@ -35,7 +35,7 @@ spectral imaging
     <td class="desc">
     <h2>Path planning for robot navigation</h2>
     <p class="pdesc">
-    Final project for the Robotics & XR course at UEF, with two other students. ROS2 package implementating the A* algorithm for the navigation of an Andino robot. Usage of the ROS2 Nav2 framework for calculating robot odometry.
+    Final project for the Robotics & XR course at UEF, with two other students. ROS2 package implementating the A* algorithm for the navigation of an Andino robot. Usage of the ROS2 Nav2 framework for calculating robot odometry. Visualization in Gazebo.
     <br><br>
     <img src="../assets/img/projects/sim1.png" height="300px">
     <img src="../assets/img/projects/1im1.png" height="300px">
