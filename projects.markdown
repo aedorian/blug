@@ -35,8 +35,8 @@ eye tracking thing
     <p class="pdesc">
     Final project for the <i>Robotics & XR</i> course at UEF, with two other students. ROS2 package implementating the A* algorithm for the navigation of an Andino robot. Usage of the ROS2 Nav2 framework for calculating robot odometry. Visualization in Gazebo.
     <br><br>
-    <img src="../assets/img/projects/gz1.png" height="300px">
-    <img src="../assets/img/projects/gz2.png" height="300px">
+    <img src="../assets/img/projects/gz1.png" height="280px">
+    <img src="../assets/img/projects/gz2.png" height="280px">
     </p>
     </td>
 
@@ -84,15 +84,19 @@ eye tracking thing
     <img src="../assets/img/projects/g1.png" height="300px">
     <img src="../assets/img/projects/g2.png" height="300px">
         <img src="../assets/img/projects/g3.png" height="300px">
-    <img src="../assets/img/projects/g4.png" height="300px">
         <img src="../assets/img/projects/g9.png" height="300px">
+                <!--<img src="../assets/img/projects/g10.png" height="300px">-->
     <img src="../assets/img/projects/g7.png" height="300px">
-        <img src="../assets/img/projects/g10.png" height="300px">
     <img src="../assets/img/projects/g11.png" height="300px">
         <img src="../assets/img/projects/g12.png" height="300px">
+
+             <!--<img src="../assets/img/projects/g4.png" height="300px">-->
+         <!--   
     <img src="../assets/img/projects/g23.png" height="300px">
         <img src="../assets/img/projects/g21.png" height="300px">
     <img src="../assets/img/projects/g22.png" height="300px">
+    -->
+    
     </p>
     </td>
 </tr>
@@ -112,7 +116,7 @@ eye tracking thing
     <p class="pdesc">
     Final project of the <i>Computer Vision and Deep Learning</i> course at NTNU. Segmentation of head and neck tumors in MRI scans using the MONAI framework. Fine-tuning of the UNet model: dataset analysis, data augmentation, testing different loss functions, cross-validation, calculation and study of metrics, optimization with a learning rate scheduler.
     <br><br>
-    <img src="../assets/img/projects/seg.png" height="300px">
+    <img src="../assets/img/projects/seg.png" height="255px">
     </p>
     </td>
 
@@ -133,10 +137,10 @@ eye tracking thing
     <p class="pdesc">
     Final project of the <i>Graphics & Visualization</i> course at NTNU. Cloud density sampled using Perlin and Worley noise. Light scattering based on sun position. Rayleigh/Mie scattering for sky color. Bloom post processing effect using a different color buffer. Optimization techniques: rendering the scene at a lower resolution (x0.25), noisy raymarching step sizes, precomputing noises in textures. ImGui parameter window.
     <br><br>
-    <img src="../assets/img/projects/sky1.png" height="300px">
-    <img src="../assets/img/projects/sky2.png" height="300px">
-    <img src="../assets/img/projects/sky3.png" height="300px">
-    <img src="../assets/img/projects/sky4.png" height="300px">
+    <img src="../assets/img/projects/sky1.png" height="280px">
+    <img src="../assets/img/projects/sky2.png" height="280px">
+    <img src="../assets/img/projects/sky3.png" height="230px">
+    <img src="../assets/img/projects/sky4.png" height="230px">
     </p>
     </td>
 
@@ -154,11 +158,8 @@ eye tracking thing
     <p class="pdesc">
     Program for better reading of my personal journal. Since everything is in the same text file, I can parse its contents and generate a web page. Features include: calendars for jumping to different journal entries, multiple views for faster search (emphasizing either date or topics), a personal habit tracker that reads into Obsidian Markdown files, automatic section highlighting.
     <br><br>
-    <img src="../assets/img/projects/cal1.png" height="300px">
-    <img src="../assets/img/projects/cal2.png" height="300px">
-    <img src="../assets/img/projects/cal3.png" height="300px">
-    <img src="../assets/img/projects/cal4.png" height="300px">
-    <img src="../assets/img/projects/cal5.png" height="300px">
+    <img src="../assets/img/projects/cal1.png" height="405px">
+    <img src="../assets/img/projects/cal4.png" height="405px">
     </p>
     </td>
 
@@ -347,6 +348,8 @@ eye tracking thing
     <img src="../assets/img/roome/t20.gif" height="270px">
     <img src="../assets/img/roome/d13.png" height="270px">
     <img src="../assets/img/prev/prev_graf.png" height="270px">
+    <img src="../assets/img/planet/planet4.PNG" height="270px">
+    <img src="../assets/img/curve/action.gif" height="270px">
     </p>
     </td>
 
