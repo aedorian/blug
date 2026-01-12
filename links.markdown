@@ -71,9 +71,11 @@ Very long bulleted list of web resources that are either super useful or super i
 * polish
     * resources
         * [Exploring Polski - Guide to Przypadki](https://www.exploringpolski.com/post/a-guide-to-polish-cases) - short article on grammatical cases
+        * [Easy Polish](https://www.youtube.com/easypolish) - youtube channel with conversations
         * [Diki](https://www.diki.pl/) - english dictionary
         * [Glossa](https://slownik.e-polish.eu/) - shows conjugations and nouns declension
         * [Reading A-Z](https://www.readinga-z.com/worldlanguages/polish/books-by-grade-level/) - books by grade/level (14 days free trial)
+        * [Assimil "Le Polonais Sans Peine"](https://fr.scribd.com/doc/254067483/Assimil-Le-Polonais-Sans-Peine) - lesson book (in french)
 
 * miscelleanous
    * [Langfocus](https://www.youtube.com/@Langfocus) - good introduction to a language
