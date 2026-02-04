@@ -59,6 +59,7 @@ Very long bulleted list of web resources that are either super useful or super i
         * [たどく](https://tadoku.org/japanese/en/free-books-en/) - reading material from beginner to advanced ([link to full PDF on Reddit](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/))
         * [Marugoto](https://marugoto.jpf.go.jp/en/download/) - learning materials
         * [Yotsuba&!](https://archive.org/details/jp-yotsubato/) - easy slice of life manga for beginners
+        * [Todaii News](https://japanese.todaiinews.com/) - easy japanese news from N5-N1
         * [日本 Resources](https://docs.google.com/spreadsheets/d/1O5ZtAMPoMA8cl15oSc_E3LBODEKhC2-fmTKwoSiHaTk/edit?gid=2089349054#gid=2089349054) - spreadsheet of multiple learning resources
         * [MyKikitori](https://www.mykikitori.com/) - listening skills practice
         * [jtest4you](https://japanesetest4you.com/) - N5 to N1 tests
@@ -90,7 +91,7 @@ Very long bulleted list of web resources that are either super useful or super i
 * audio
    * [LMMS](https://lmms.io/) - open source, multi-platform DAW
    * [BFXR](https://www.bfxr.net/) - retro sound effects generator (good for games)
-* software and apps i use
+* software and apps
    * [Obsidian](https://obsidian.md/) - better than Notion
    * [Photopea](https://www.photopea.com/) - free browser alternative to Photoshop
    * [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - video editor
