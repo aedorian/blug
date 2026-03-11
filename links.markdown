@@ -80,6 +80,9 @@ Very long bulleted list of web resources that are either super useful or super i
         * [Glossa](https://slownik.e-polish.eu/) - shows conjugations and nouns declension
         * [Reading A-Z](https://www.readinga-z.com/worldlanguages/polish/books-by-grade-level/) - books by grade/level (14 days free trial)
         * [Assimil "Le Polonais Sans Peine"](https://fr.scribd.com/doc/254067483/Assimil-Le-Polonais-Sans-Peine) - lesson book (in french)
+* german
+    * resources
+        * [The German Project](https://www.thegermanproject.com/) - lessons and stories
 
 * miscelleanous
    * [Langfocus](https://www.youtube.com/@Langfocus) - good introduction to a language
