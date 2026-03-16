@@ -83,6 +83,8 @@ Very long bulleted list of web resources that are either super useful or super i
 * german
     * resources
         * [The German Project](https://www.thegermanproject.com/) - lessons and stories
+        * [YourDailyGerman](https://yourdailygerman.com/) - german grammar and vocabulary
+        * [dict.cc](https://www.dict.cc/) - dictionary
 
 * miscelleanous
    * [Langfocus](https://www.youtube.com/@Langfocus) - good introduction to a language
