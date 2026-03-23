@@ -76,6 +76,7 @@ Very long bulleted list of web resources that are either super useful or super i
     * resources
         * [Exploring Polski - Guide to Przypadki](https://www.exploringpolski.com/post/a-guide-to-polish-cases) - short article on grammatical cases
         * [Easy Polish](https://www.youtube.com/easypolish) - youtube channel with conversations
+        * [Learn Polish with Michał](https://www.youtube.com/@LearnPolishwithMichal) - listening and useful phrases
         * [Diki](https://www.diki.pl/) - english dictionary
         * [Glossa](https://slownik.e-polish.eu/) - shows conjugations and nouns declension
         * [Real Polish](https://realpolish.pl/) - online resource
