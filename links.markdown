@@ -57,6 +57,7 @@ Very long bulleted list of web resources that are either super useful or super i
         * [Tanoshii Japanese](https://www.tanoshiijapanese.com/dictionary/) - dictionary
         * [Yomichan](https://addons.mozilla.org/en-GB/firefox/addon/yomitan/) - browser extension that searches a dictionnary when a word is highlighted ([setup tutorial](https://learnjapanese.moe/yomichan/))
         * [たどく](https://tadoku.org/japanese/en/free-books-en/) - reading material from beginner to advanced ([link to full PDF on Reddit](https://www.reddit.com/r/LearnJapanese/comments/eggyg9/more_complete_version_of_the_tadoku_pdf_merged/))
+        * [NHK News Web Easy](https://news.web.nhk/news/easy/) - easy news
         * [Marugoto](https://marugoto.jpf.go.jp/en/download/) - learning materials
         * [Yotsuba&!](https://archive.org/details/jp-yotsubato/) - easy slice of life manga for beginners
         * [Todaii News](https://japanese.todaiinews.com/) - easy japanese news from N5-N1
