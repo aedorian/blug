@@ -16,7 +16,7 @@ If not specified, all music used in the mentioned games was made by me.
 
 <!--dropdown menu for all articles-->
 <div class="dropdown">
-  <button class="dropbtn">all articles (hover)</button>
+  <button class="dropbtn">all projects <i>(hover)</i></button>
   <div class="dropdown-content">
     <!--<p class="dropdown-year">2026</p>-->
     <p class="dropdown-year">2025</p>
@@ -27,7 +27,7 @@ If not specified, all music used in the mentioned games was made by me.
     <a href="#P5"><i>Animal Battletowers</i></a>
     <a href="#P6">Head and neck tumor segmentation (HNTS-MRG)</a>
     <a href="#P7">Raymarched cloud rendering</a>
-    <a href="#P8">Notbook</a>
+    <a href="#P8"><i>Notbook</i></a>
     <p class="dropdown-year">2024</p>
     <a href="#P9">Wargame in Java</a>
     <a href="#P10">Multi-process system programming</a>
@@ -44,8 +44,8 @@ If not specified, all music used in the mentioned games was made by me.
     <a href="#P19"><i>0percule</i></a>
     <a href="#P20">Multiple Unity jam games</a>
     <p class="dropdown-year">2019</p>
-    <a href="#P21">Nuclear Platypus Adventure</a>
-    <a href="#P22">Speed Sketch</a>
+    <a href="#P21"><i>Nuclear Platypus Adventure</i></a>
+    <a href="#P22"><i>Speed Sketch</i></a>
     <p class="dropdown-year">2017</p>
     <a href="#P23">Scratch games</a>
     <p class="dropdown-year">2016</p>
