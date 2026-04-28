@@ -20,7 +20,7 @@ If not specified, all music used in the mentioned games was made by me.
   <div class="dropdown-content">
     <!--<p class="dropdown-year">2026</p>-->
     <p class="dropdown-year">2025</p>
-    <a href="#P1">Eye-Tracking Analysis: Effects of Familiarity on Visual Attention</a>
+    <a href="#P1">Eye-Tracking Analysis</a>
     <a href="#P2">Path planning for robot navigation</a>
     <a href="#P3">Advanced spectral imaging</a>
     <a href="#P4"><i>Angela Kills Joy</i> website</a>
