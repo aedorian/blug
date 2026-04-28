@@ -33,11 +33,11 @@ eye tracking thing
     <td class="desc">
     <h2><i>Effects of Familiarity and Symbol Presence on Visual Attention: An Eye-Tracking Analysis</i></h2>
     <p class="pdesc">
-    Eye tracking study with 7 other students on the differences in eye movements while viewing cityscape paintings. We hypothesized that the distribution of visual attention differs when viewing an image containing familiar objects compared to an image with unknown or visually complex scenes. Recording of eye movemenst using a <mark>Tobii eye-tracker</mark>. Visualization of <mark>fixation ordering with grouping and heatmaps</mark>, statistical analysis and discussion.
+    Eye tracking study with 7 other students on the differences in eye movements while viewing cityscape paintings. We hypothesized that the <mark>distribution of visual attention differs</mark> when viewing an image containing <mark>familiar objects</mark> compared to an image with unknown or <mark>visually complex scenes</mark>. Recording of eye movemenst using a <mark>Tobii eye-tracker</mark>. Visualization of <mark>fixation ordering with grouping and heatmaps</mark>, statistical analysis and discussion.
     <br><br>
-    <img src="../assets/img/projects/eye1.png" height="280px">
-    <img src="../assets/img/projects/eye2.png" height="280px">
-    <img src="../assets/img/projects/metho.jpg" height="280px">
+    <img src="../assets/img/projects/eye1.png" height="200px">
+    <img src="../assets/img/projects/eye2.png" height="200px">
+    <img src="../assets/img/projects/metho.jpg" height="200px">
     </p>
     </td>
 
@@ -101,8 +101,8 @@ eye tracking thing
     <p class="pdesc">
     Website for my punk rock solo project in raw HTML/CSS/Javascript. Showcases lyrics, tour dates along with previous shows and their setlist, recent news, photos viewer and blog.
     <br><br>
-    <img src="../assets/img/projects/akj1.png" height="405px">
-    <img src="../assets/img/projects/akj2.png" height="405px">
+    <img src="../assets/img/projects/akj1.png" height="300px">
+    <img src="../assets/img/projects/akj2.png" height="300px">
     </p>
     </td>
 
@@ -199,7 +199,7 @@ eye tracking thing
     <td class="desc">
     <h2>Notbook</h2>
     <p class="pdesc">
-    Program for better reading of my personal journal. Since everything is in the same text file, I can parse its contents and <mark>generate a web page</mark>. Features include: <mark>calendars</mark> for jumping to different journal entries, <mark>multiple views</mark> for faster search (emphasizing either date or topics), a personal <mark>habit tracker</mark> that reads into Obsidian Markdown files, automatic section highlighting.
+    Program for better reading of my personal journal. <!--Since everything is in the same text file, I can parse its contents and <mark>generate a web page</mark>.--> Parsing contents of text files and <mark>generate a web page</mark>. Features include: <mark>calendars</mark> for jumping to different journal entries, <mark>multiple views</mark> for faster search (emphasizing either date or topics), a personal <mark>habit tracker</mark> that reads into Obsidian Markdown files, <mark>automatic highlighting</mark> of sections.
     <br><br>
     <img src="../assets/img/projects/cal1.png" height="405px">
     <img src="../assets/img/projects/cal4.png" height="405px">
@@ -304,7 +304,7 @@ eye tracking thing
     <span class="tag-normal">Javascript</span><br>
     <span class="tag-normal">HTML + CSS</span><br>
     <span class="tag-school">university</span><hr>
-    <a class="proLink" href="file:///D:/series/Rapport_web.pdf">article</a><br>
+    <a class="proLink" href="">article</a><br>
     <a class="proLink" href="https://github.com/aedorian/projet-dw">source</a>
     
     </td>
@@ -316,9 +316,9 @@ eye tracking thing
     <br>Website pages and features include: logging in and out, profile pages, a chatting app, a music player and an "explore" page with the newest releases.
     <br><br>
     <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
-    <img src="../assets/img/projects/bk_2.PNG" height="195px">
-    <img src="../assets/img/projects/bk_3.PNG" height="195px">
-    <img src="../assets/img/projects/bk_4.PNG" height="195px">
+    <img src="../assets/img/projects/bk_2.PNG" height="210px">
+    <img src="../assets/img/projects/bk_3.PNG" height="210px">
+    <img src="../assets/img/projects/bk_4.PNG" height="210px">
     </p>
     </td>
     
@@ -340,9 +340,9 @@ eye tracking thing
     
     <br><br>
     <!--<img src="../assets/img/projects/bk_1.PNG" height="200px">-->
-    <img src="../assets/img/projects/nul_1.png" height="195px">
+    <img src="../assets/img/projects/nul_1.png" height="210px">
     <!--<img src="../assets/img/projects/nul_2.png" height="195px">-->
-    <img src="../assets/img/projects/nul_3.png" height="195px">
+    <img src="../assets/img/projects/nul_3.png" height="210px">
     </p>
     </td>
 
@@ -356,7 +356,7 @@ eye tracking thing
     <span class="tag-normal">Unity</span><br>
     <span class="tag-normal">Android</span><br>
     <span class="tag-game">game</span><br><hr>
-    <a class="proLink" href="https://aedorian.itch.io/svordakus-dual">link</a>
+    <a class="proLink" href="https://aedorian.itch.io/svordakus-dual">itch.io link</a>
     
     </td>
     <td class="desc">
@@ -385,7 +385,7 @@ eye tracking thing
     <td class="desc">
     <h2 style="font-style: italic">Blug</h2>
     <p class="pdesc">
-    The website you are on, hosted on Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
+    This very website, hosted with Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
     <br>Some of my favorite articles include: <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> - <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a> - <a href="https://aedorian.github.io/blug/_posts/2024-07-18-planet.html">planet generation in OpenGL</a> - <a href="https://aedorian.github.io/blug/_posts/2024-07-18-curve.html">Sonic rail grinding mechanic in Unity</a>.
     <br><br>
     <img src="../assets/img/roome/t20.gif" height="270px">
@@ -410,7 +410,7 @@ eye tracking thing
     <td class="desc">
     <h2>Shoot Em Up</h2>
     <p class="pdesc">
-    Touhou clone that can also be played by two players. I built a custom <mark>ECS-like engine</mark> (in C, so without classes) capable of handling the players, enemies and bullets in real time. <br>Also created a <mark>scriptable wave system</mark> to make development and testing easier. It has customisable enemy movement and multiple bullet types and patterns to choose from.
+    <i>Touhou</i> clone that can also be played by two players. I built a custom <mark>ECS-like engine</mark> (in C, so without classes) capable of handling the players, enemies and bullets in real time. <br>Also created a <mark>scriptable wave system</mark> to make development and testing easier. It has customisable enemy movement and multiple bullet types and patterns to choose from.
     <br><br>
     <img src="../assets/img/projects/sh_1.png" height="275px">
     <img src="../assets/img/projects/sh_2.png" height="275px">
@@ -434,8 +434,8 @@ eye tracking thing
     <p class="pdesc">
     Short fighting game <mark>made in one week</mark> for the second 1-Bit Jam.<br>Instead of getting an upgrade each round, here the player loses one.
     <br><br>
-    <img src="../assets/img/projects/mf_1.png" height="250px">
-    <img src="../assets/img/projects/mf_2.png" height="250px">
+    <img src="../assets/img/projects/mf_1.png" height="315px">
+    <img src="../assets/img/projects/mf_2.png" height="315px">
     </p>
     </td>
 
@@ -475,8 +475,7 @@ eye tracking thing
     <td class="desc">
     <h2>Multiple Unity jam games</h2>
     <p class="pdesc">
-    Participated in game jams using the Unity engine. <span style="font-style: italic">Neon Lines</span> (top one) is a top-down shooter where ammo is also health, so the player has to be careful when to shoot.
-    <br><span style="font-style: italic">Forsaken Feelings</span> (bottom one) is a platformer with interconnected areas that can be explored as the player unlocks new abilities.
+    Participated in game jams using the Unity engine. <span style="font-style: italic">Neon Lines</span> (top) is a top-down shooter where ammo is also health, so the player has to be careful when to shoot. <span style="font-style: italic">Forsaken Feelings</span> (bottom) is a platformer with interconnected areas that can be explored as the player unlocks new abilities.
     <br><br>
     <img src="../assets/img/projects/gj_1.png" height="240px">
     <img src="../assets/img/projects/gj_4.png" height="240px">
@@ -524,8 +523,8 @@ eye tracking thing
     <p class="pdesc">
     Image editing and drawing app made in Python, using the Tkinter and PIL modules.<br>Includes a <mark>"copy to clipboard" feature</mark>, that is useful for drawing something up quickly then pasting it in a Discord conversation. Also included <mark>customisable effects</mark>, like this "letter grid" effect.
     <br><br>
-    <img src="../assets/img/pf/ss_1.PNG" height="300px">
-    <img src="../assets/img/pf/ss_2.PNG" height="300px">
+    <img src="../assets/img/pf/ss_1.PNG" height="350px">
+    <img src="../assets/img/pf/ss_2.PNG" height="350px">
     </p>
     </td>
 
@@ -561,10 +560,12 @@ eye tracking thing
     <td class="desc">
     <h2>YouTube videos</h2>
     <p class="pdesc">
-    Gaming videos presenting indie games. Edited with Adobe Premiere Pro.<br>I used to upload one every week.
+    Gaming videos presenting indie games. Edited with <mark>Adobe Premiere Pro</mark>.<br>I used to upload one every week.
     </p>
     </td>
 
 </tr>
+
+<!--other stuff: baking, cooking, peluches, musique et diy-->
 
 </table>
