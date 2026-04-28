@@ -18,7 +18,8 @@ If not specified, all music used in the mentioned games was made by me.
 <div class="dropdown">
   <button class="dropbtn">all articles (hover)</button>
   <div class="dropdown-content">
-    <a href="#">Link 1</a>
+    <p>2026</p>
+    <a href="#P1">Link 1</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
   </div>
@@ -37,7 +38,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2><i>Effects of Familiarity and Symbol Presence on Visual Attention: An Eye-Tracking Analysis</i></h2>
+    <h2 id="P1"><i>Effects of Familiarity and Symbol Presence on Visual Attention: An Eye-Tracking Analysis</i></h2>
     <p class="pdesc">
     Eye tracking study with 7 other students on the differences in eye movements while viewing cityscape paintings. We hypothesized that the <mark>distribution of visual attention differs</mark> when viewing an image containing <mark>familiar objects</mark> compared to an image with unknown or <mark>visually complex scenes</mark>. Recording of eye movemenst using a <mark>Tobii eye-tracker</mark>. Visualization of <mark>fixation ordering with grouping and heatmaps</mark>, statistical analysis and discussion.
     <br><br>
