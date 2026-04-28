@@ -12,11 +12,17 @@ Smaller projects are detailled in articles I have written in [the blug part](htt
 
 If not specified, all music used in the mentioned games was made by me.
 
-*Last update: january 2026*
+*Last update: april 2026*
 
-<!--
-eye tracking thing
--->
+<!--dropdown menu for all articles-->
+<div class="dropdown">
+  <button class="dropbtn">all articles (hover)</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
 
 <table class="projects">
 
