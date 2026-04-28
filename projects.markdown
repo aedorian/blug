@@ -18,17 +18,38 @@ If not specified, all music used in the mentioned games was made by me.
 <div class="dropdown">
   <button class="dropbtn">all articles (hover)</button>
   <div class="dropdown-content">
-    <p class="dropdown-year">2026</p>
-    <a href="#P1">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+    <!--<p class="dropdown-year">2026</p>-->
     <p class="dropdown-year">2025</p>
+    <a href="#P1">Eye-Tracking Analysis: Effects of Familiarity on Visual Attention</a>
+    <a href="#P2">Path planning for robot navigation</a>
+    <a href="#P3">Advanced spectral imaging</a>
+    <a href="#P4"><i>Angela Kills Joy</i> website</a>
+    <a href="#P5"><i>Animal Battletowers</i></a>
+    <a href="#P6">Head and neck tumor segmentation (HNTS-MRG)</a>
+    <a href="#P7">Raymarched cloud rendering</a>
+    <a href="#P8">Notbook</a>
     <p class="dropdown-year">2024</p>
+    <a href="#P9">Wargame in Java</a>
+    <a href="#P10">Multi-process system programming</a>
+    <a href="#P11">CPYRR compiler + virtual machine</a>
+    <a href="#P12">Minecraft engine with OpenGL</a>
+    <a href="#P13"><i>Bonkers</i>: Musician social network</a>
+    <a href="#P14">Compression software</a>
+    <a href="#P15"><i>Svordakus Dual</i></a>
     <p class="dropdown-year">2023</p>
+    <a href="#P16">Blug</a>
+    <a href="#P17">Shoot Em Up</a>
+    <a href="#P18"><i>Mob Fight</i></a>
     <p class="dropdown-year">2022</p>
+    <a href="#P19"><i>0percule</i></a>
+    <a href="#P20">Multiple Unity jam games</a>
     <p class="dropdown-year">2019</p>
+    <a href="#P21">Nuclear Platypus Adventure</a>
+    <a href="#P22">Speed Sketch</a>
     <p class="dropdown-year">2017</p>
+    <a href="#P23">Scratch games</a>
     <p class="dropdown-year">2016</p>
+    <a href="#P24">YouTube videos</a>
   </div>
 </div>
 
