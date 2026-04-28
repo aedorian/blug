@@ -41,9 +41,9 @@ If not specified, all music used in the mentioned games was made by me.
     <p class="pdesc">
     Eye tracking study with 7 other students on the differences in eye movements while viewing cityscape paintings. We hypothesized that the <mark>distribution of visual attention differs</mark> when viewing an image containing <mark>familiar objects</mark> compared to an image with unknown or <mark>visually complex scenes</mark>. Recording of eye movemenst using a <mark>Tobii eye-tracker</mark>. Visualization of <mark>fixation ordering with grouping and heatmaps</mark>, statistical analysis and discussion.
     <br><br>
-    <img src="../assets/img/projects/eye1.png" height="200px">
-    <img src="../assets/img/projects/eye2.png" height="200px">
-    <img src="../assets/img/projects/metho.jpg" height="200px">
+    <img src="../assets/img/projects/eye1.png" height="210px">
+    <img src="../assets/img/projects/eye2.png" height="210px">
+    <img src="../assets/img/projects/metho.jpg" height="210px">
     </p>
     </td>
 
