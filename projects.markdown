@@ -21,6 +21,29 @@ eye tracking thing
 <table class="projects">
 
 <tr>
+    <td class="date">
+    <span class="proDate">2025/12</span><hr>
+    <span class="tag-normal">Tobii Eye-Tracker</span><br>
+    <span class="tag-normal">Jupyter Notebook</span><br>
+    <span class="tag-game">university</span><hr>
+    <a class="proLink" href="https://drive.google.com/file/d/1cmcY-iFrT9rtqWF5Nv1s2ml98OCi8RuD/view?usp=sharing">article</a>
+    <a class="proLink" href="https://drive.google.com/drive/folders/1uitz1D-Jst1hQp2l82lOo4kCmHmAc1KH">code</a>
+    
+    </td>
+    <td class="desc">
+    <h2><i>Effects of Familiarity and Symbol Presence on Visual Attention: An Eye-Tracking Analysis</i></h2>
+    <p class="pdesc">
+    Eye tracking study with 7 other students on the differences in eye movements while viewing cityscape paintings. We hypothesized that the distribution of visual attention differs when viewing an image containing familiar objects compared to an image with unknown or visually complex scenes. Recording of eye movemenst using a <mark>Tobii eye-tracker</mark>. Visualization of <mark>fixation ordering with grouping and heatmaps</mark>, statistical analysis and discussion.
+    <br><br>
+    <img src="../assets/img/projects/eye1.png" height="280px">
+    <img src="../assets/img/projects/eye2.png" height="280px">
+    <img src="../assets/img/projects/metho.jpg" height="280px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
         <td class="date">
     <span class="proDate">2025/12</span><hr>
     <span class="tag-normal">ROS2</span><br>
@@ -60,6 +83,26 @@ eye tracking thing
     <img src="../assets/img/projects/sim1.png" height="280px">
     <img src="../assets/img/projects/sim2.png" height="280px">
     <img src="../assets/img/projects/1im1.png" height="300px">
+    </p>
+    </td>
+
+</tr>
+
+<tr>
+        <td class="date">
+    <span class="proDate">ongoing<br>―――――――<br>2025/09</span><hr>
+    <span class="tag-normal">Neocities</span><br>
+    <span class="tag-normal">HTML/CSS/JS</span><br>
+    <a class="proLink" href="https://angelakj.neocities.org/">link</a>
+    
+    </td>
+    <td class="desc">
+    <h2><i>Angela Kills Joy</i> website</h2>
+    <p class="pdesc">
+    Website for my punk rock solo project in raw HTML/CSS/Javascript. Showcases lyrics, tour dates along with previous shows and their setlist, recent news, photos viewer and blog.
+    <br><br>
+    <img src="../assets/img/projects/akj1.png" height="405px">
+    <img src="../assets/img/projects/akj2.png" height="405px">
     </p>
     </td>
 
