@@ -18,10 +18,17 @@ If not specified, all music used in the mentioned games was made by me.
 <div class="dropdown">
   <button class="dropbtn">all articles (hover)</button>
   <div class="dropdown-content">
-    <p>2026</p>
+    <p class="dropdown-year">2026</p>
     <a href="#P1">Link 1</a>
     <a href="#">Link 2</a>
     <a href="#">Link 3</a>
+    <p class="dropdown-year">2025</p>
+    <p class="dropdown-year">2024</p>
+    <p class="dropdown-year">2023</p>
+    <p class="dropdown-year">2022</p>
+    <p class="dropdown-year">2019</p>
+    <p class="dropdown-year">2017</p>
+    <p class="dropdown-year">2016</p>
   </div>
 </div>
 
@@ -61,7 +68,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Path planning for robot navigation</h2>
+    <h2 id="P2">Path planning for robot navigation</h2>
     <p class="pdesc">
     Final project for the <i>Robotics & XR</i> course at UEF, with two other students. <mark>ROS2</mark> package implementing the <mark>A* algorithm</mark> for the navigation of an Andino robot. Usage of the ROS2 <mark>Nav2 framework</mark> for calculating robot odometry. Visualization in <mark>Gazebo</mark>.
     <br><br>
@@ -83,7 +90,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Advanced spectral imaging</h2>
+    <h2 id="P3">Advanced spectral imaging</h2>
     <p class="pdesc">
     Projects for a spectral imaging course at UEF. Spectral images taken using <mark>Specim IQ</mark> cameras and a scanner, then stored as <mark>ENVI</mark>. <mark>White/dark correction</mark> using reference white/dark samples, or white samples that are inside the image. Study of the different spectrum. <mark>Segmentation of objects</mark> based on their infrared spectra (band-based condition). <mark>Tunable</mark> and <mark>Nuance</mark> image formats were also used.
     <br><br>
@@ -104,7 +111,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2><i>Angela Kills Joy</i> website</h2>
+    <h2 id="P4"><i>Angela Kills Joy</i> website</h2>
     <p class="pdesc">
     Website for my punk rock solo project in raw HTML/CSS/Javascript. Showcases lyrics, tour dates along with previous shows and their setlist, recent news, photos viewer and blog.
     <br><br>
@@ -127,7 +134,7 @@ If not specified, all music used in the mentioned games was made by me.
     <a class="proLink" href="">source</a>
     </td>
     <td class="desc">
-    <h2><i>Animal Battletowers</i></h2>
+    <h2 id="P5"><i>Animal Battletowers</i></h2>
     <p class="pdesc">
     Multiplayer game prototype using the <mark>Photon Fusion</mark> SDK in Unity (client/host topology). <mark>Synchronization of up to 4 players</mark> (transform, weapon, armor). <mark>Object pooling</mark> for bullets. <mark>Procedurally generated tower maps</mark> using presets made in <mark>Magica Voxel</mark>. Modeling of game elements in Blender. Low-resolution pixelated rendering.
     <br><br>
@@ -162,7 +169,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Head and neck tumor segmentation (HNTS-MRG)</h2>
+    <h2 id="P6">Head and neck tumor segmentation (HNTS-MRG)</h2>
     <p class="pdesc">
     Final project of the <i>Computer Vision and Deep Learning</i> course at NTNU. Segmentation of head and neck tumors in MRI scans using the <mark>MONAI framework</mark>. Fine-tuning of the <mark>UNet model</mark>: dataset analysis, <mark>data augmentation</mark>, testing different loss functions, <mark>cross-validation</mark>, calculation and study of metrics, <mark>optimization</mark> with a learning rate scheduler.
     <br><br>
@@ -183,7 +190,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Raymarched cloud rendering</h2>
+    <h2 id="P7">Raymarched cloud rendering</h2>
     <p class="pdesc">
     Final project of the <i>Graphics & Visualization</i> course at NTNU. Cloud density sampled using <mark>Perlin and Worley</mark> noise. <mark>Light scattering</mark> based on sun position. <mark>Rayleigh/Mie scattering</mark> for sky color. <mark>Bloom post processing effect</mark> using a different color buffer. Optimization techniques: rendering the scene at a lower resolution (x0.25), noisy raymarching step sizes, precomputing noises in textures. <mark>ImGui</mark> parameter window.
     <br><br>
@@ -204,7 +211,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Notbook</h2>
+    <h2 id="P8">Notbook</h2>
     <p class="pdesc">
     Program for better reading of my personal journal. <!--Since everything is in the same text file, I can parse its contents and <mark>generate a web page</mark>.--> Parsing contents of text files and <mark>generate a web page</mark>. Features include: <mark>calendars</mark> for jumping to different journal entries, <mark>multiple views</mark> for faster search (emphasizing either date or topics), a personal <mark>habit tracker</mark> that reads into Obsidian Markdown files, <mark>automatic highlighting</mark> of sections.
     <br><br>
@@ -225,7 +232,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Wargame</h2>
+    <h2 id="P9">Wargame in Java</h2>
     <p class="pdesc">
     Final project for a Java course, developed with two other students. The game plays on a hexagonal grid. My part especially focused on designing the game, making the grid functionnal, making the hex tiles artworks, and making the menus UI with Swing.
     <br><br>
@@ -246,7 +253,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Multi-process system programming</h2>
+    <h2 id="P10">Multi-process system programming</h2>
     <p class="pdesc">
     Multi-process application in C, written <mark>in under 48h</mark> for the exam of a system programming course. Usage of semaphores, shared memory segments and message queues.
     <br><br>
@@ -267,7 +274,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>CPYRR compiler + virtual machine</h2>
+    <h2 id="P11">CPYRR compiler + virtual machine</h2>
     <p class="pdesc">
     Compiler and virtual-machine for a custom C-like language.<br>My part focused on <mark>building the grammar in Yacc</mark>, handling errors (out of range array indices, wrong number of arguments in a function/procedure call, etc), performing type checks, <mark>generating instruction trees</mark> and building the interpreter.
     <br><br>
@@ -290,7 +297,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Minecraft engine with OpenGL</h2>
+    <h2 id="P12">Minecraft engine with OpenGL</h2>
     <p class="pdesc">
     Minecraft clone built <mark>in about two weeks in C++</mark>. Has an infinite world, custom chunk system, structure generation, block breaking/placing, a simple ambient occlusion system and a day-night cycle. Also wrote <a href="https://aedorian.github.io/blug/_posts/2024-08-30-kraf.html">an article</a> on it.
     <br><br>
@@ -316,7 +323,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2><span style="font-style: italic">Bonkers</span>: Musician social network
+    <h2 id="P13"><span style="font-style: italic">Bonkers</span>: Musician social network
     </h2>
     <p class="pdesc">
     Social network for meeting musicians and forming bands. A <mark>Leaflet map</mark> can be used to look for people in your area, and filtering by instrument is also possible. Users can <mark>upload tracks</mark> to show their demos. A <mark>MySQL database</mark> is used in back-end.
@@ -341,7 +348,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Compression software</h2>
+    <h2 id="P14">Compression software</h2>
     <p class="pdesc">
     Final project for an advanced C class. Based on <mark>Huffman-coding compression</mark>. Users can compress files or directories (recursively) into a <mark>custom file format archive</mark> and then decompress it.<br>Also <mark>studied the compression ratio by running tests</mark> over different file types.
     
@@ -367,7 +374,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Svordakus Dual</h2>
+    <h2 style="font-style: italic" id="P15">Svordakus Dual</h2>
     <p class="pdesc">
     Two players sword fighting game for <mark>Android mobile devices</mark>, made in Unity.<br>
     Includes over 30 different swords, 15 maps and 3 game modes. Later ported to PC with <mark>WebGL</mark>. Feedback obtained from playing with other people at university was useful for creating new updates.
@@ -390,7 +397,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Blug</h2>
+    <h2 style="font-style: italic" id="P16">Blug</h2>
     <p class="pdesc">
     This very website, hosted with Github Pages. The blug section acts as an exercise for writing computer science articles on stuff I find interesting, as well as an archive for projects.
     <br>Some of my favorite articles include: <a href="https://aedorian.github.io/blug/_posts/2024-02-13-roome.html">procedural room generation</a> - <a href="https://aedorian.github.io/blug/_posts/2024-06-12-graf.html">this graph theory problem</a> - <a href="https://aedorian.github.io/blug/_posts/2024-07-18-planet.html">planet generation in OpenGL</a> - <a href="https://aedorian.github.io/blug/_posts/2024-07-18-curve.html">Sonic rail grinding mechanic in Unity</a>.
@@ -415,7 +422,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Shoot Em Up</h2>
+    <h2 id="P17">Shoot Em Up</h2>
     <p class="pdesc">
     <i>Touhou</i> clone that can also be played by two players. I built a custom <mark>ECS-like engine</mark> (in C, so without classes) capable of handling the players, enemies and bullets in real time. <br>Also created a <mark>scriptable wave system</mark> to make development and testing easier. It has customisable enemy movement and multiple bullet types and patterns to choose from.
     <br><br>
@@ -437,7 +444,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Mob Fight</h2>
+    <h2 style="font-style: italic" id="P18" >Mob Fight</h2>
     <p class="pdesc">
     Short fighting game <mark>made in one week</mark> for the second 1-Bit Jam.<br>Instead of getting an upgrade each round, here the player loses one.
     <br><br>
@@ -458,7 +465,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">0percule</h2>
+    <h2 style="font-style: italic" id="P19">0percule</h2>
     <p class="pdesc">
     Adventure game made in 1 month. The player controls a cat-like creature that has a sword and a gun.
     <br>The creatures, atmosphere and story of the game were conceptualized before going into development. Models were made with Blender, and the soundtrack composed in Ableton. An <a href="https://youtu.be/8MC6FzUxNzI?si=wjD57phlDCeDsuXY">early demo of a combat zone</a> can be found at this link.
@@ -480,7 +487,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Multiple Unity jam games</h2>
+    <h2 id="P20">Multiple Unity jam games</h2>
     <p class="pdesc">
     Participated in game jams using the Unity engine. <span style="font-style: italic">Neon Lines</span> (top) is a top-down shooter where ammo is also health, so the player has to be careful when to shoot. <span style="font-style: italic">Forsaken Feelings</span> (bottom) is a platformer with interconnected areas that can be explored as the player unlocks new abilities.
     <br><br>
@@ -504,7 +511,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Nuclear Platypus Adventure</h2>
+    <h2 style="font-style: italic" id="P21">Nuclear Platypus Adventure</h2>
     <p class="pdesc">
     2.5D platformer developed over a year in Unity.<br>Worked on the <mark>level design</mark>, modelled in <mark>3D using Blender</mark>, programmed in <mark>C#</mark> and made most of the sound effects with BFXR. I composed the 18 tracks of the <a href="https://open.spotify.com/intl-fr/album/2v49RnlihjF9vrXW7NxJm6?si=2S02OV76QV2dDskPdW3NQQ">soundtrack</a> using <mark>LMMS</mark>.
     <br><br>
@@ -526,7 +533,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2 style="font-style: italic">Speed Sketch</h2>
+    <h2 style="font-style: italic" id="P22">Speed Sketch</h2>
     <p class="pdesc">
     Image editing and drawing app made in Python, using the Tkinter and PIL modules.<br>Includes a <mark>"copy to clipboard" feature</mark>, that is useful for drawing something up quickly then pasting it in a Discord conversation. Also included <mark>customisable effects</mark>, like this "letter grid" effect.
     <br><br>
@@ -547,7 +554,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>Scratch games</h2>
+    <h2 id="P23">Scratch games</h2>
     <p class="pdesc">
     Before switching to the Unity game engine, I used to make games using Scratch. The leftmost one was made in <mark>one week-end for a game jam</mark>, the middle one is a <span style="font-style: italic">Splatoon</span> demake in 2D, and the last one was made <mark>in a week</mark> for the Game Boy Jam.
     <br><br>
@@ -565,7 +572,7 @@ If not specified, all music used in the mentioned games was made by me.
     
     </td>
     <td class="desc">
-    <h2>YouTube videos</h2>
+    <h2 id="P24">YouTube videos</h2>
     <p class="pdesc">
     Gaming videos presenting indie games. Edited with <mark>Adobe Premiere Pro</mark>.<br>I used to upload one every week.
     </p>
