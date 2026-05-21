@@ -108,6 +108,7 @@ Very long bulleted list of web resources that are either super useful or super i
    * [FMHY.net](https://fmhy.net/) - free stuff on the internet
    * [The Creative Independent](https://thecreativeindependent.com/)
    * [Minecraft Earth Map](https://earth.motfe.net/)
+   * [MIT OpenCourseWare](https://ocw.mit.edu/)
     
 <!-- https://dollmaker.nunodoll.com/plushie/ -->
 
