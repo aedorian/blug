@@ -71,8 +71,9 @@ HACKATHON
 
 <tr>
     <td class="date">
-    <span class="proDate">2026/06</span><hr>
+    <span class="proDate">2026/06<br>―――――――<br>2026/02</span><hr>
     <span class="tag-normal">OpenCV</span><br>
+    <span class="tag-normal">Three.js</span><br>
     <span class="tag-normal">Python</span><br>
     <span class="tag-game">university</span><hr>
     <a class="proLink" href="https://drive.google.com/file/d/1cmcY-iFrT9rtqWF5Nv1s2ml98OCi8RuD/view?usp=sharing">slides</a>
@@ -83,12 +84,11 @@ HACKATHON
     <td class="desc">
     <h2 id="PGHM"><i>Analyzing and visualizing guitarists hand movements</i></h2>
     <p class="pdesc">
-    Reconstruction of hands.
+    3D reconstruction and visualization of hands and guitar in Three.js. Hands tracking using HaMeR and WiLoR. Reconstruction of the guitar model using MV-SAM 3D, tracking using OpenCV and ArUco markers. Creation of a dataset of multiview videos at a high framerate using synchronized GoPros. Comparison of the performance of  different models, analysis of the results, detection of outliers, interpolation smoothing.
     <br><br>
     <!--
-    <img src="../assets/img/projects/eye1.png" height="210px">
-    <img src="../assets/img/projects/eye2.png" height="210px">
-    <img src="../assets/img/projects/metho.jpg" height="210px">-->
+    <img src="../assets/img/projects/gui1.png" height="210px">
+    <img src="../assets/img/projects/gui2.png" height="210px">
     </p>
     </td>
 
