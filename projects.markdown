@@ -15,7 +15,6 @@ If not specified, all music used in the mentioned games was made by me.
 <!--....................................
 ....................................
 ....................................
-GUITAR PROJECT
 DL PROJECT
 VISUALIZATION THREE.JS
 HACKATHON
@@ -77,7 +76,7 @@ HACKATHON
     <span class="tag-normal">Python</span><br>
     <span class="tag-game">university</span><hr>
     <a class="proLink" href="https://drive.google.com/file/d/1cmcY-iFrT9rtqWF5Nv1s2ml98OCi8RuD/view?usp=sharing">slides</a>
-    <a class="proLink" href="https://github.com/viksavi/Guitar-Project-">code</a>
+    <a class="proLink" href="https://github.com/viksavi/Guitar-Project-">code</a><br>
     <a class="proLink" href="https://guitar-imlex.surge.sh/guitar_demo.html">demo</a>
     
     </td>
@@ -86,7 +85,6 @@ HACKATHON
     <p class="pdesc">
     3D reconstruction and visualization of hands and guitar in Three.js. Hands tracking using HaMeR and WiLoR. Reconstruction of the guitar model using MV-SAM 3D, tracking using OpenCV and ArUco markers. Creation of a dataset of multiview videos at a high framerate using synchronized GoPros. Comparison of the performance of  different models, analysis of the results, detection of outliers, interpolation smoothing.
     <br><br>
-    <!--
     <img src="../assets/img/projects/gui1.png" height="210px">
     <img src="../assets/img/projects/gui2.png" height="210px">
     </p>
