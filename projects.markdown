@@ -24,13 +24,14 @@ HACKATHON
 ....................................
 ....................................-->
 
-*Last update: april 2026*
+*Last updated: june 2026*
 
 <!--dropdown menu for all articles-->
 <div class="dropdown">
   <button class="dropbtn">all projects <i>(hover)</i></button>
   <div class="dropdown-content">
-    <!--<p class="dropdown-year">2026</p>-->
+    <p class="dropdown-year">2026</p>
+    <a href="#PGHM">Analyzing and visualizing guitarists hand movements</a>
     <p class="dropdown-year">2025</p>
     <a href="#P1">Effects of Familiarity on Visual Attention</a>
     <a href="#P2">Path planning for robot navigation</a>
@@ -66,6 +67,33 @@ HACKATHON
 </div>
 
 <table class="projects">
+
+
+<tr>
+    <td class="date">
+    <span class="proDate">2026/06</span><hr>
+    <span class="tag-normal">OpenCV</span><br>
+    <span class="tag-normal">Python</span><br>
+    <span class="tag-game">university</span><hr>
+    <a class="proLink" href="https://drive.google.com/file/d/1cmcY-iFrT9rtqWF5Nv1s2ml98OCi8RuD/view?usp=sharing">slides</a>
+    <a class="proLink" href="https://github.com/viksavi/Guitar-Project-">code</a>
+    <a class="proLink" href="https://guitar-imlex.surge.sh/guitar_demo.html">demo</a>
+    
+    </td>
+    <td class="desc">
+    <h2 id="PGHM"><i>Analyzing and visualizing guitarists hand movements</i></h2>
+    <p class="pdesc">
+    Reconstruction of hands.
+    <br><br>
+    <!--
+    <img src="../assets/img/projects/eye1.png" height="210px">
+    <img src="../assets/img/projects/eye2.png" height="210px">
+    <img src="../assets/img/projects/metho.jpg" height="210px">-->
+    </p>
+    </td>
+
+</tr>
+
 
 <tr>
     <td class="date">
