@@ -83,10 +83,10 @@ HACKATHON
     <td class="desc">
     <h2 id="PGHM"><i>Analyzing and visualizing guitarists hand movements</i></h2>
     <p class="pdesc">
-    3D reconstruction and visualization of hands and guitar in Three.js. Hands tracking using HaMeR and WiLoR. Reconstruction of the guitar model using MV-SAM 3D, tracking using OpenCV and ArUco markers. Creation of a dataset of multiview videos at a high framerate using synchronized GoPros. Comparison of the performance of  different models, analysis of the results, detection of outliers, interpolation smoothing.
+    3D reconstruction and visualization of <mark>hands and guitar in Three.js</mark>. Hands tracking using <mark>HaMeR</mark> and <mark>WiLoR</mark>. Reconstruction of the guitar model using <mark>MV-SAM 3D</mark>, tracking using <mark>OpenCV and ArUco markers</mark>. Creation of a <mark>dataset of multiview videos</mark> at a high framerate using <mark>synchronized GoPros</mark>. Comparison of the performance of different models, analysis of the results, detection of outliers, interpolation smoothing.
     <br><br>
-    <img src="../assets/img/projects/gui1.png" height="210px">
-    <img src="../assets/img/projects/gui2.png" height="210px">
+    <img src="../assets/img/projects/gui1.png" height="270px">
+    <img src="../assets/img/projects/gui2.png" height="270px">
     </p>
     </td>
 
