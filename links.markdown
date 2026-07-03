@@ -68,6 +68,7 @@ Very long bulleted list of web resources that are either super useful or super i
         * [けんさんおかえり](https://www.youtube.com/@kensanokaeri) - japanese conversations with subtitles
         * [Kaname Naito](https://www.youtube.com/@kanamenaito) - japanese teacher (grammar, dialogues...)
         * [Jappepa](https://www.youtube.com/@jappeppa8045) - Peppa Pig in japanese (lots of vocabulary + subtitles)
+        * [Jiro, just Japanese](https://www.youtube.com/@JiroJapanese) - subtitled podcasts with vocabulary definitions (really good)
 * norwegian
     * resources
         * [Norwegian on the Web 1](https://www.ntnu.edu/web/now/1/ken) - norwegian beginner course by NTNU  
