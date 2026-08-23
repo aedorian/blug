@@ -195,7 +195,7 @@ HACKATHON
     <td class="desc">
     <h2 id="P5"><i>Animal Battletowers</i></h2>
     <p class="pdesc">
-    Multiplayer game prototype using the <mark>Photon Fusion</mark> SDK in Unity (client/host topology). <mark>Synchronization of up to 4 players</mark> (transform, weapon, armor). <mark>Object pooling</mark> for bullets. <mark>Procedurally generated tower maps</mark> using presets made in <mark>Magica Voxel</mark>. Modeling of game elements in Blender. Low-resolution pixelated rendering.
+    Multiplayer game prototype using the <mark>Photon Fusion</mark> SDK in Unity (client/host topology). <mark>Synchronization of up to 4 players</mark> (transform, weapon, armor). <mark>Object pooling</mark> for bullets. <mark>Procedurally generated tower maps</mark> using presets made in <mark>Magica Voxel</mark>. Modeling of game elements in Blender. Low-resolution pixelated rendering. Made me understand the essence of multiplayer synchronization (RPC calls, etc).
     <br><br>
     <img src="../assets/img/projects/g1.png" height="300px">
     <img src="../assets/img/projects/g2.png" height="300px">
