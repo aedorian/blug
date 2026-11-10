@@ -111,6 +111,7 @@ Very long bulleted list of web resources that are either super useful or super i
    * [The Creative Independent](https://thecreativeindependent.com/)
    * [Minecraft Earth Map](https://earth.motfe.net/)
    * [MIT OpenCourseWare](https://ocw.mit.edu/)
+   * [Typewriter Fonts](https://www.typewriterfonts.net/)
     
 <!-- https://dollmaker.nunodoll.com/plushie/ -->
 
